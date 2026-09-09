@@ -138,44 +138,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-003-full-p013.jpg",
-            "top": 0.707824,
-            "height": 0.177262,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-003-q1-p013.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-003-full-p013.jpg",
-            "top": 0.885086,
-            "height": 0.114914,
-            "aspect": 9.617021
-          }
+          "assets/visuals/material-003-q2-p013.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-003-full-p014.jpg",
-            "top": 0.107794,
-            "height": 0.238806,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-003-q3-p014.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-003-full-p014.jpg",
-            "top": 0.3466,
-            "height": 0.238806,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-003-q4-p014.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-003-full-p014.jpg",
-            "top": 0.585406,
-            "height": 0.356551,
-            "aspect": 4.204651
-          }
+          "assets/visuals/material-003-q5-p014.jpg"
         ]
       ],
       "fullVisuals": [
@@ -232,44 +207,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-004-full-p015.jpg",
-            "top": 0.138889,
-            "height": 0.103448,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-004-q1-p015.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-004-full-p015.jpg",
-            "top": 0.242337,
-            "height": 0.207854,
-            "aspect": 4.165899
-          }
+          "assets/visuals/material-004-q2-p015.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-004-full-p015.jpg",
-            "top": 0.450192,
-            "height": 0.137931,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-004-q3-p015.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-004-full-p015.jpg",
-            "top": 0.588123,
-            "height": 0.104406,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-004-q4-p015.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-004-full-p015.jpg",
-            "top": 0.692529,
-            "height": 0.273946,
-            "aspect": 3.160839
-          }
+          "assets/visuals/material-004-q5-p015.jpg"
         ]
       ],
       "fullVisuals": [
@@ -327,50 +277,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-005-full-p016.jpg",
-            "top": 0.424603,
-            "height": 0.085714,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-005-q1-p016.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-005-full-p016.jpg",
-            "top": 0.510317,
-            "height": 0.085714,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-005-q2-p016.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-005-full-p016.jpg",
-            "top": 0.596032,
-            "height": 0.114286,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-005-q3-p016.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-005-full-p016.jpg",
-            "top": 0.710317,
-            "height": 0.289683,
-            "aspect": 2.476712
-          },
-          {
-            "src": "assets/visuals/material-005-full-p017.jpg",
-            "top": 0.0,
-            "height": 0.526515,
-            "aspect": 3.251799
-          }
+          "assets/visuals/material-005-q4-p016.jpg",
+          "assets/visuals/material-005-q4-p017.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-005-full-p017.jpg",
-            "top": 0.526515,
-            "height": 0.407197,
-            "aspect": 4.204651
-          }
+          "assets/visuals/material-005-q5-p017.jpg"
         ]
       ],
       "fullVisuals": [
@@ -485,44 +405,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-007-full-p019.jpg",
-            "top": 0.0,
-            "height": 0.131089,
-            "aspect": 6.108108
-          }
+          "assets/visuals/material-007-q1-p019.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-007-full-p019.jpg",
-            "top": 0.131089,
-            "height": 0.09566,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-007-q2-p019.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-007-full-p019.jpg",
-            "top": 0.226749,
-            "height": 0.096546,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-007-q3-p019.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-007-full-p019.jpg",
-            "top": 0.323295,
-            "height": 0.361382,
-            "aspect": 2.215686
-          }
+          "assets/visuals/material-007-q4-p019.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-007-full-p019.jpg",
-            "top": 0.684677,
-            "height": 0.284322,
-            "aspect": 2.816199
-          }
+          "assets/visuals/material-007-q5-p019.jpg"
         ]
       ],
       "fullVisuals": [
@@ -696,44 +591,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-010-full-p023.jpg",
-            "top": 0.059904,
-            "height": 0.115815,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-010-q1-p023.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-010-full-p023.jpg",
-            "top": 0.175719,
-            "height": 0.115016,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-010-q2-p023.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-010-full-p023.jpg",
-            "top": 0.290735,
-            "height": 0.115815,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-010-q3-p023.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-010-full-p023.jpg",
-            "top": 0.40655,
-            "height": 0.371406,
-            "aspect": 1.944086
-          }
+          "assets/visuals/material-010-q4-p023.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-010-full-p023.jpg",
-            "top": 0.777955,
-            "height": 0.222045,
-            "aspect": 3.251799
-          }
+          "assets/visuals/material-010-q5-p023.jpg"
         ]
       ],
       "fullVisuals": [
@@ -792,50 +662,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-011-full-p024.jpg",
-            "top": 0.502161,
-            "height": 0.092481,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-011-q1-p024.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-011-full-p024.jpg",
-            "top": 0.594641,
-            "height": 0.125324,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-011-q2-p024.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-011-full-p024.jpg",
-            "top": 0.719965,
-            "height": 0.093345,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-011-q3-p024.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-011-full-p024.jpg",
-            "top": 0.81331,
-            "height": 0.18669,
-            "aspect": 4.185185
-          },
-          {
-            "src": "assets/visuals/material-011-full-p025.jpg",
-            "top": 0.0,
-            "height": 0.716931,
-            "aspect": 1.667897
-          }
+          "assets/visuals/material-011-q4-p024.jpg",
+          "assets/visuals/material-011-q4-p025.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-011-full-p025.jpg",
-            "top": 0.716931,
-            "height": 0.236772,
-            "aspect": 5.050279
-          }
+          "assets/visuals/material-011-q5-p025.jpg"
         ]
       ],
       "fullVisuals": [
@@ -1122,44 +962,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-016-full-p031.jpg",
-            "top": 0.0,
-            "height": 0.188329,
-            "aspect": 6.366197
-          }
+          "assets/visuals/material-016-q1-p031.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-016-full-p031.jpg",
-            "top": 0.188329,
-            "height": 0.143236,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-016-q2-p031.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-016-full-p031.jpg",
-            "top": 0.331565,
-            "height": 0.144562,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-016-q3-p031.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-016-full-p031.jpg",
-            "top": 0.476127,
-            "height": 0.190981,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-016-q4-p031.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-016-full-p031.jpg",
-            "top": 0.667109,
-            "height": 0.286472,
-            "aspect": 4.185185
-          }
+          "assets/visuals/material-016-q5-p031.jpg"
         ]
       ],
       "fullVisuals": [
@@ -1277,50 +1092,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-018-full-p034.jpg",
-            "top": 0.396166,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-018-q1-p034.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-018-full-p034.jpg",
-            "top": 0.482428,
-            "height": 0.087061,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-018-q2-p034.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-018-full-p034.jpg",
-            "top": 0.569489,
-            "height": 0.114217,
-            "aspect": 6.321678
-          }
+          "assets/visuals/material-018-q3-p034.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-018-full-p034.jpg",
-            "top": 0.683706,
-            "height": 0.144569,
-            "aspect": 4.994475
-          }
+          "assets/visuals/material-018-q4-p034.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-018-full-p034.jpg",
-            "top": 0.828275,
-            "height": 0.171725,
-            "aspect": 4.204651
-          },
-          {
-            "src": "assets/visuals/material-018-full-p035.jpg",
-            "top": 0.0,
-            "height": 0.801136,
-            "aspect": 6.411348
-          }
+          "assets/visuals/material-018-q5-p034.jpg",
+          "assets/visuals/material-018-q5-p035.jpg"
         ]
       ],
       "fullVisuals": [
@@ -1494,44 +1279,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-021-full-p038.jpg",
-            "top": 0.190476,
-            "height": 0.086508,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-021-q1-p038.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-021-full-p038.jpg",
-            "top": 0.276984,
-            "height": 0.085714,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-021-q2-p038.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-021-full-p038.jpg",
-            "top": 0.362698,
-            "height": 0.115079,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-021-q3-p038.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-021-full-p038.jpg",
-            "top": 0.477778,
-            "height": 0.257143,
-            "aspect": 2.790123
-          }
+          "assets/visuals/material-021-q4-p038.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-021-full-p038.jpg",
-            "top": 0.734921,
-            "height": 0.265079,
-            "aspect": 2.706587
-          }
+          "assets/visuals/material-021-q5-p038.jpg"
         ]
       ],
       "fullVisuals": [
@@ -1590,50 +1350,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-022-full-p039.jpg",
-            "top": 0.441355,
-            "height": 0.093831,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-022-q1-p039.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-022-full-p039.jpg",
-            "top": 0.535187,
-            "height": 0.156386,
-            "aspect": 5.022222
-          }
+          "assets/visuals/material-022-q2-p039.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-022-full-p039.jpg",
-            "top": 0.691573,
-            "height": 0.0947,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-022-q3-p039.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-022-full-p039.jpg",
-            "top": 0.786273,
-            "height": 0.0947,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-022-q4-p039.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-022-full-p039.jpg",
-            "top": 0.880973,
-            "height": 0.119027,
-            "aspect": 6.59854
-          },
-          {
-            "src": "assets/visuals/material-022-full-p040.jpg",
-            "top": 0.0,
-            "height": 0.8,
-            "aspect": 6.457143
-          }
+          "assets/visuals/material-022-q5-p039.jpg",
+          "assets/visuals/material-022-q5-p040.jpg"
         ]
       ],
       "fullVisuals": [
@@ -1690,44 +1420,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-023-full-p041.jpg",
-            "top": 0.292611,
-            "height": 0.106404,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-023-q1-p041.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-023-full-p041.jpg",
-            "top": 0.399015,
-            "height": 0.107389,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-023-q2-p041.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-023-full-p041.jpg",
-            "top": 0.506404,
-            "height": 0.105419,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-023-q3-p041.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-023-full-p041.jpg",
-            "top": 0.611823,
-            "height": 0.212808,
-            "aspect": 4.185185
-          }
+          "assets/visuals/material-023-q4-p041.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-023-full-p041.jpg",
-            "top": 0.824631,
-            "height": 0.140887,
-            "aspect": 6.321678
-          }
+          "assets/visuals/material-023-q5-p041.jpg"
         ]
       ],
       "fullVisuals": [
@@ -1842,50 +1547,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-025-full-p043.jpg",
-            "top": 0.491094,
-            "height": 0.091603,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-025-q1-p043.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-025-full-p043.jpg",
-            "top": 0.582697,
-            "height": 0.092451,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-025-q2-p043.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-025-full-p043.jpg",
-            "top": 0.675148,
-            "height": 0.090755,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-025-q3-p043.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-025-full-p043.jpg",
-            "top": 0.765903,
-            "height": 0.234097,
-            "aspect": 3.275362
-          },
-          {
-            "src": "assets/visuals/material-025-full-p044.jpg",
-            "top": 0.0,
-            "height": 0.490476,
-            "aspect": 4.38835
-          }
+          "assets/visuals/material-025-q4-p043.jpg",
+          "assets/visuals/material-025-q4-p044.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-025-full-p044.jpg",
-            "top": 0.490476,
-            "height": 0.42619,
-            "aspect": 5.050279
-          }
+          "assets/visuals/material-025-q5-p044.jpg"
         ]
       ],
       "fullVisuals": [
@@ -1942,50 +1617,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-026-full-p044.jpg",
-            "top": 0.739183,
-            "height": 0.129808,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-026-q1-p044.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-026-full-p044.jpg",
-            "top": 0.86899,
-            "height": 0.13101,
-            "aspect": 8.293578
-          },
-          {
-            "src": "assets/visuals/material-026-full-p045.jpg",
-            "top": 0.0,
-            "height": 0.200371,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-026-q2-p044.jpg",
+          "assets/visuals/material-026-q2-p045.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-026-full-p045.jpg",
-            "top": 0.200371,
-            "height": 0.200371,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-026-q3-p045.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-026-full-p045.jpg",
-            "top": 0.400742,
-            "height": 0.200371,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-026-q4-p045.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-026-full-p045.jpg",
-            "top": 0.601113,
-            "height": 0.333952,
-            "aspect": 5.022222
-          }
+          "assets/visuals/material-026-q5-p045.jpg"
         ]
       ],
       "fullVisuals": [
@@ -2159,50 +1804,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-029-full-p048.jpg",
-            "top": 0.597796,
-            "height": 0.099174,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-029-q1-p048.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-029-full-p048.jpg",
-            "top": 0.69697,
-            "height": 0.100092,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-029-q2-p048.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-029-full-p048.jpg",
-            "top": 0.797062,
-            "height": 0.099174,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-029-q3-p048.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-029-full-p048.jpg",
-            "top": 0.896235,
-            "height": 0.103765,
-            "aspect": 8.0
-          },
-          {
-            "src": "assets/visuals/material-029-full-p049.jpg",
-            "top": 0.0,
-            "height": 0.403361,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-029-q4-p048.jpg",
+          "assets/visuals/material-029-q4-p049.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-029-full-p049.jpg",
-            "top": 0.403361,
-            "height": 0.498599,
-            "aspect": 5.078652
-          }
+          "assets/visuals/material-029-q5-p049.jpg"
         ]
       ],
       "fullVisuals": [
@@ -2430,44 +2045,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-033-full-p053.jpg",
-            "top": 0.34318,
-            "height": 0.125109,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-033-q1-p053.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-033-full-p053.jpg",
-            "top": 0.468288,
-            "height": 0.0947,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-033-q2-p053.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-033-full-p053.jpg",
-            "top": 0.562989,
-            "height": 0.092963,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-033-q3-p053.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-033-full-p053.jpg",
-            "top": 0.655951,
-            "height": 0.093831,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-033-q4-p053.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-033-full-p053.jpg",
-            "top": 0.749783,
-            "height": 0.219809,
-            "aspect": 3.573123
-          }
+          "assets/visuals/material-033-q5-p053.jpg"
         ]
       ],
       "fullVisuals": [
@@ -2525,50 +2115,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-034-full-p054.jpg",
-            "top": 0.485623,
-            "height": 0.085463,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-034-q1-p054.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-034-full-p054.jpg",
-            "top": 0.571086,
-            "height": 0.115016,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-034-q2-p054.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-034-full-p054.jpg",
-            "top": 0.686102,
-            "height": 0.115016,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-034-q3-p054.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-034-full-p054.jpg",
-            "top": 0.801118,
-            "height": 0.116613,
-            "aspect": 6.191781
-          }
+          "assets/visuals/material-034-q4-p054.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-034-full-p054.jpg",
-            "top": 0.917732,
-            "height": 0.082268,
-            "aspect": 8.776699
-          },
-          {
-            "src": "assets/visuals/material-034-full-p055.jpg",
-            "top": 0.0,
-            "height": 0.837209,
-            "aspect": 5.022222
-          }
+          "assets/visuals/material-034-q5-p054.jpg",
+          "assets/visuals/material-034-q5-p055.jpg"
         ]
       ],
       "fullVisuals": [
@@ -2627,44 +2187,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-035-full-p055.jpg",
-            "top": 0.351977,
-            "height": 0.138862,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-035-q1-p055.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-035-full-p055.jpg",
-            "top": 0.490839,
-            "height": 0.104147,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-035-q2-p055.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-035-full-p055.jpg",
-            "top": 0.594986,
-            "height": 0.104147,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-035-q3-p055.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-035-full-p055.jpg",
-            "top": 0.699132,
-            "height": 0.138862,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-035-q4-p055.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-035-full-p055.jpg",
-            "top": 0.837994,
-            "height": 0.162006,
-            "aspect": 5.380952
-          }
+          "assets/visuals/material-035-q5-p055.jpg"
         ]
       ],
       "fullVisuals": [
@@ -2778,50 +2313,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-037-full-p057.jpg",
-            "top": 0.635052,
-            "height": 0.149485,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-037-q1-p057.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-037-full-p057.jpg",
-            "top": 0.784536,
-            "height": 0.215464,
-            "aspect": 4.325359
-          },
-          {
-            "src": "assets/visuals/material-037-full-p058.jpg",
-            "top": 0.0,
-            "height": 0.153605,
-            "aspect": 9.22449
-          }
+          "assets/visuals/material-037-q2-p057.jpg",
+          "assets/visuals/material-037-q2-p058.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-037-full-p058.jpg",
-            "top": 0.153605,
-            "height": 0.169279,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-037-q3-p058.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-037-full-p058.jpg",
-            "top": 0.322884,
-            "height": 0.340125,
-            "aspect": 4.165899
-          }
+          "assets/visuals/material-037-q4-p058.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-037-full-p058.jpg",
-            "top": 0.663009,
-            "height": 0.282132,
-            "aspect": 5.022222
-          }
+          "assets/visuals/material-037-q5-p058.jpg"
         ]
       ],
       "fullVisuals": [
@@ -2934,44 +2439,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-039-full-p060.jpg",
-            "top": 0.0,
-            "height": 0.170294,
-            "aspect": 6.796992
-          }
+          "assets/visuals/material-039-q1-p060.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-039-full-p060.jpg",
-            "top": 0.170294,
-            "height": 0.184379,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-039-q2-p060.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-039-full-p060.jpg",
-            "top": 0.354673,
-            "height": 0.277849,
-            "aspect": 4.165899
-          }
+          "assets/visuals/material-039-q3-p060.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-039-full-p060.jpg",
-            "top": 0.632522,
-            "height": 0.138284,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-039-q4-p060.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-039-full-p060.jpg",
-            "top": 0.770807,
-            "height": 0.184379,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-039-q5-p060.jpg"
         ]
       ],
       "fullVisuals": [
@@ -3088,50 +2568,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-041-full-p062.jpg",
-            "top": 0.605385,
-            "height": 0.100279,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-041-q1-p062.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-041-full-p062.jpg",
-            "top": 0.705664,
-            "height": 0.101207,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-041-q2-p062.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-041-full-p062.jpg",
-            "top": 0.806871,
-            "height": 0.193129,
-            "aspect": 4.346154
-          },
-          {
-            "src": "assets/visuals/material-041-full-p063.jpg",
-            "top": 0.0,
-            "height": 0.221258,
-            "aspect": 8.862745
-          }
+          "assets/visuals/material-041-q3-p062.jpg",
+          "assets/visuals/material-041-q3-p063.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-041-full-p063.jpg",
-            "top": 0.221258,
-            "height": 0.314534,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-041-q4-p063.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-041-full-p063.jpg",
-            "top": 0.535792,
-            "height": 0.388286,
-            "aspect": 5.050279
-          }
+          "assets/visuals/material-041-q5-p063.jpg"
         ]
       ],
       "fullVisuals": [
@@ -3303,44 +2753,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-044-full-p066.jpg",
-            "top": 0.51594,
-            "height": 0.089765,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-044-q1-p066.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-044-full-p066.jpg",
-            "top": 0.605705,
-            "height": 0.120805,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-044-q2-p066.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-044-full-p066.jpg",
-            "top": 0.72651,
-            "height": 0.121644,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-044-q3-p066.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-044-full-p066.jpg",
-            "top": 0.848154,
-            "height": 0.090604,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-044-q4-p066.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-044-full-p067.jpg",
-            "top": 0.0,
-            "height": 0.835681,
-            "aspect": 5.078652
-          }
+          "assets/visuals/material-044-q5-p067.jpg"
         ]
       ],
       "fullVisuals": [
@@ -3454,50 +2879,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-046-full-p068.jpg",
-            "top": 0.577626,
-            "height": 0.124429,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-046-q1-p068.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-046-full-p068.jpg",
-            "top": 0.702055,
-            "height": 0.123288,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-046-q2-p068.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-046-full-p068.jpg",
-            "top": 0.825342,
-            "height": 0.174658,
-            "aspect": 5.908497
-          },
-          {
-            "src": "assets/visuals/material-046-full-p069.jpg",
-            "top": 0.0,
-            "height": 0.24356,
-            "aspect": 8.692308
-          }
+          "assets/visuals/material-046-q3-p068.jpg",
+          "assets/visuals/material-046-q3-p069.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-046-full-p069.jpg",
-            "top": 0.24356,
-            "height": 0.255269,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-046-q4-p069.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-046-full-p069.jpg",
-            "top": 0.498829,
-            "height": 0.419204,
-            "aspect": 5.050279
-          }
+          "assets/visuals/material-046-q5-p069.jpg"
         ]
       ],
       "fullVisuals": [
@@ -3554,44 +2949,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-047-full-p069.jpg",
-            "top": 0.832727,
-            "height": 0.167273,
-            "aspect": 6.550725
-          }
+          "assets/visuals/material-047-q1-p069.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-047-full-p070.jpg",
-            "top": 0.098131,
-            "height": 0.169782,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-047-q2-p070.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-047-full-p070.jpg",
-            "top": 0.267913,
-            "height": 0.224299,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-047-q3-p070.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-047-full-p070.jpg",
-            "top": 0.492212,
-            "height": 0.225857,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-047-q4-p070.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-047-full-p070.jpg",
-            "top": 0.718069,
-            "height": 0.227414,
-            "aspect": 6.191781
-          }
+          "assets/visuals/material-047-q5-p070.jpg"
         ]
       ],
       "fullVisuals": [
@@ -3648,50 +3018,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-048-full-p070.jpg",
-            "top": 0.827869,
-            "height": 0.172131,
-            "aspect": 8.609524
-          },
-          {
-            "src": "assets/visuals/material-048-full-p071.jpg",
-            "top": 0.0,
-            "height": 0.16641,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-048-q1-p070.jpg",
+          "assets/visuals/material-048-q1-p071.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-048-full-p071.jpg",
-            "top": 0.16641,
-            "height": 0.164869,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-048-q2-p071.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-048-full-p071.jpg",
-            "top": 0.331279,
-            "height": 0.169492,
-            "aspect": 8.218182
-          }
+          "assets/visuals/material-048-q3-p071.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-048-full-p071.jpg",
-            "top": 0.50077,
-            "height": 0.167951,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-048-q4-p071.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-048-full-p071.jpg",
-            "top": 0.668721,
-            "height": 0.27735,
-            "aspect": 5.022222
-          }
+          "assets/visuals/material-048-q5-p071.jpg"
         ]
       ],
       "fullVisuals": [
@@ -3865,50 +3205,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-051-full-p074.jpg",
-            "top": 0.37859,
-            "height": 0.094865,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-051-q1-p074.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-051-full-p074.jpg",
-            "top": 0.473455,
-            "height": 0.093124,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-051-q2-p074.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-051-full-p074.jpg",
-            "top": 0.56658,
-            "height": 0.126197,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-051-q3-p074.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-051-full-p074.jpg",
-            "top": 0.692776,
-            "height": 0.094865,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-051-q4-p074.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-051-full-p074.jpg",
-            "top": 0.787641,
-            "height": 0.212359,
-            "aspect": 3.704918
-          },
-          {
-            "src": "assets/visuals/material-051-full-p075.jpg",
-            "top": 0.0,
-            "height": 0.765101,
-            "aspect": 7.929825
-          }
+          "assets/visuals/material-051-q5-p074.jpg",
+          "assets/visuals/material-051-q5-p075.jpg"
         ]
       ],
       "fullVisuals": [
@@ -4022,50 +3332,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-053-full-p076.jpg",
-            "top": 0.540984,
-            "height": 0.459016,
-            "aspect": 2.306122
-          },
-          {
-            "src": "assets/visuals/material-053-full-p077.jpg",
-            "top": 0.0,
-            "height": 0.128176,
-            "aspect": 8.144144
-          }
+          "assets/visuals/material-053-q1-p076.jpg",
+          "assets/visuals/material-053-q1-p077.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-053-full-p077.jpg",
-            "top": 0.128176,
-            "height": 0.166282,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-053-q2-p077.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-053-full-p077.jpg",
-            "top": 0.294457,
-            "height": 0.166282,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-053-q3-p077.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-053-full-p077.jpg",
-            "top": 0.460739,
-            "height": 0.209007,
-            "aspect": 4.994475
-          }
+          "assets/visuals/material-053-q4-p077.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-053-full-p077.jpg",
-            "top": 0.669746,
-            "height": 0.289838,
-            "aspect": 3.601594
-          }
+          "assets/visuals/material-053-q5-p077.jpg"
         ]
       ],
       "fullVisuals": [
@@ -4241,50 +3521,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-056-full-p080.jpg",
-            "top": 0.725128,
-            "height": 0.108718,
-            "aspect": 8.528302
-          }
+          "assets/visuals/material-056-q1-p080.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-056-full-p080.jpg",
-            "top": 0.833846,
-            "height": 0.166154,
-            "aspect": 5.580247
-          }
+          "assets/visuals/material-056-q2-p080.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-056-full-p081.jpg",
-            "top": 0.055911,
-            "height": 0.083866,
-            "aspect": 8.609524
-          }
+          "assets/visuals/material-056-q3-p081.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-056-full-p081.jpg",
-            "top": 0.139776,
-            "height": 0.111821,
-            "aspect": 6.457143
-          }
+          "assets/visuals/material-056-q4-p081.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-056-full-p081.jpg",
-            "top": 0.251597,
-            "height": 0.748403,
-            "aspect": 0.964781
-          },
-          {
-            "src": "assets/visuals/material-056-full-p082.jpg",
-            "top": 0.0,
-            "height": 1.0,
-            "aspect": 0.722045
-          }
+          "assets/visuals/material-056-q5-p081.jpg",
+          "assets/visuals/material-056-q5-p082.jpg"
         ]
       ],
       "fullVisuals": [
@@ -4631,36 +3881,16 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-062-full-p089.jpg",
-            "top": 0.18961,
-            "height": 0.186147,
-            "aspect": 4.204651
-          }
+          "assets/visuals/material-062-q1-p089.jpg"
         ],
         [],
         [],
         [
-          {
-            "src": "assets/visuals/material-062-full-p089.jpg",
-            "top": 0.47013,
-            "height": 0.249351,
-            "aspect": 3.138889
-          }
+          "assets/visuals/material-062-q4-p089.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-062-full-p089.jpg",
-            "top": 0.719481,
-            "height": 0.280519,
-            "aspect": 2.790123
-          },
-          {
-            "src": "assets/visuals/material-062-full-p090.jpg",
-            "top": 0.0,
-            "height": 0.944882,
-            "aspect": 1.506667
-          }
+          "assets/visuals/material-062-q5-p089.jpg",
+          "assets/visuals/material-062-q5-p090.jpg"
         ]
       ],
       "fullVisuals": [
@@ -4717,44 +3947,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-063-full-p090.jpg",
-            "top": 0.5824,
-            "height": 0.1728,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-063-q1-p090.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-063-full-p090.jpg",
-            "top": 0.7552,
-            "height": 0.2448,
-            "aspect": 5.908497
-          }
+          "assets/visuals/material-063-q2-p090.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-063-full-p091.jpg",
-            "top": 0.089032,
-            "height": 0.139355,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-063-q3-p091.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-063-full-p091.jpg",
-            "top": 0.228387,
-            "height": 0.543226,
-            "aspect": 2.147268
-          }
+          "assets/visuals/material-063-q4-p091.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-063-full-p091.jpg",
-            "top": 0.771613,
-            "height": 0.183226,
-            "aspect": 6.366197
-          }
+          "assets/visuals/material-063-q5-p091.jpg"
         ]
       ],
       "fullVisuals": [
@@ -4811,44 +4016,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-064-full-p092.jpg",
-            "top": 0.280159,
-            "height": 0.086508,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-064-q1-p092.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-064-full-p092.jpg",
-            "top": 0.366667,
-            "height": 0.085714,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-064-q2-p092.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-064-full-p092.jpg",
-            "top": 0.452381,
-            "height": 0.086508,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-064-q3-p092.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-064-full-p092.jpg",
-            "top": 0.538889,
-            "height": 0.211905,
-            "aspect": 3.385768
-          }
+          "assets/visuals/material-064-q4-p092.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-064-full-p092.jpg",
-            "top": 0.750794,
-            "height": 0.249206,
-            "aspect": 2.878981
-          }
+          "assets/visuals/material-064-q5-p092.jpg"
         ]
       ],
       "fullVisuals": [
@@ -5022,44 +4202,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-067-full-p096.jpg",
-            "top": 0.163354,
-            "height": 0.378565,
-            "aspect": 2.063927
-          }
+          "assets/visuals/material-067-q1-p096.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-067-full-p096.jpg",
-            "top": 0.541919,
-            "height": 0.093345,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-067-q2-p096.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-067-full-p096.jpg",
-            "top": 0.635264,
-            "height": 0.093345,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-067-q3-p096.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-067-full-p096.jpg",
-            "top": 0.728608,
-            "height": 0.125324,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-067-q4-p096.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-067-full-p096.jpg",
-            "top": 0.853933,
-            "height": 0.146067,
-            "aspect": 5.349112
-          }
+          "assets/visuals/material-067-q5-p096.jpg"
         ]
       ],
       "fullVisuals": [
@@ -5115,44 +4270,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-068-full-p097.jpg",
-            "top": 0.687236,
-            "height": 0.153001,
-            "aspect": 4.994475
-          }
+          "assets/visuals/material-068-q1-p097.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-068-full-p097.jpg",
-            "top": 0.840237,
-            "height": 0.12257,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-068-q2-p097.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-068-full-p098.jpg",
-            "top": 0.0,
-            "height": 0.287129,
-            "aspect": 5.195402
-          }
+          "assets/visuals/material-068-q3-p098.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-068-full-p098.jpg",
-            "top": 0.287129,
-            "height": 0.239274,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-068-q4-p098.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-068-full-p098.jpg",
-            "top": 0.526403,
-            "height": 0.415842,
-            "aspect": 3.587302
-          }
+          "assets/visuals/material-068-q5-p098.jpg"
         ]
       ],
       "fullVisuals": [
@@ -5269,44 +4399,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-070-full-p100.jpg",
-            "top": 0.684743,
-            "height": 0.100184,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-070-q1-p100.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-070-full-p100.jpg",
-            "top": 0.784926,
-            "height": 0.099265,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-070-q2-p100.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-070-full-p100.jpg",
-            "top": 0.884191,
-            "height": 0.115809,
-            "aspect": 7.174603
-          }
+          "assets/visuals/material-070-q3-p100.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-070-full-p101.jpg",
-            "top": 0.182278,
-            "height": 0.275949,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-070-q4-p101.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-070-full-p101.jpg",
-            "top": 0.458228,
-            "height": 0.453165,
-            "aspect": 5.050279
-          }
+          "assets/visuals/material-070-q5-p101.jpg"
         ]
       ],
       "fullVisuals": [
@@ -5363,44 +4468,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-071-full-p101.jpg",
-            "top": 0.653442,
-            "height": 0.169195,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-071-q1-p101.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-071-full-p101.jpg",
-            "top": 0.822637,
-            "height": 0.177363,
-            "aspect": 5.947368
-          }
+          "assets/visuals/material-071-q2-p101.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-071-full-p102.jpg",
-            "top": 0.093373,
-            "height": 0.218373,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-071-q3-p102.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-071-full-p102.jpg",
-            "top": 0.311747,
-            "height": 0.417169,
-            "aspect": 3.263538
-          }
+          "assets/visuals/material-071-q4-p102.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-071-full-p102.jpg",
-            "top": 0.728916,
-            "height": 0.218373,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-071-q5-p102.jpg"
         ]
       ],
       "fullVisuals": [
@@ -5457,44 +4537,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-072-full-p103.jpg",
-            "top": 0.348243,
-            "height": 0.087859,
-            "aspect": 8.218182
-          }
+          "assets/visuals/material-072-q1-p103.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-072-full-p103.jpg",
-            "top": 0.436102,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-072-q2-p103.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-072-full-p103.jpg",
-            "top": 0.522364,
-            "height": 0.085463,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-072-q3-p103.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-072-full-p103.jpg",
-            "top": 0.607827,
-            "height": 0.115815,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-072-q4-p103.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-072-full-p103.jpg",
-            "top": 0.723642,
-            "height": 0.276358,
-            "aspect": 2.612717
-          }
+          "assets/visuals/material-072-q5-p103.jpg"
         ]
       ],
       "fullVisuals": [
@@ -5609,44 +4664,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-074-full-p105.jpg",
-            "top": 0.514019,
-            "height": 0.144192,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-074-q1-p105.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-074-full-p105.jpg",
-            "top": 0.658211,
-            "height": 0.144192,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-074-q2-p105.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-074-full-p105.jpg",
-            "top": 0.802403,
-            "height": 0.145527,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-074-q3-p105.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-074-full-p106.jpg",
-            "top": 0.0,
-            "height": 0.627826,
-            "aspect": 2.504155
-          }
+          "assets/visuals/material-074-q4-p106.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-074-full-p106.jpg",
-            "top": 0.627826,
-            "height": 0.311304,
-            "aspect": 5.050279
-          }
+          "assets/visuals/material-074-q5-p106.jpg"
         ]
       ],
       "fullVisuals": [
@@ -5759,44 +4789,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-076-full-p108.jpg",
-            "top": 0.049521,
-            "height": 0.087859,
-            "aspect": 8.218182
-          }
+          "assets/visuals/material-076-q1-p108.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-076-full-p108.jpg",
-            "top": 0.13738,
-            "height": 0.304313,
-            "aspect": 2.372703
-          }
+          "assets/visuals/material-076-q2-p108.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-076-full-p108.jpg",
-            "top": 0.441693,
-            "height": 0.115016,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-076-q3-p108.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-076-full-p108.jpg",
-            "top": 0.556709,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-076-q4-p108.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-076-full-p108.jpg",
-            "top": 0.642971,
-            "height": 0.357029,
-            "aspect": 2.022371
-          }
+          "assets/visuals/material-076-q5-p108.jpg"
         ]
       ],
       "fullVisuals": [
@@ -5854,50 +4859,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-077-full-p109.jpg",
-            "top": 0.749367,
-            "height": 0.121519,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-077-q1-p109.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-077-full-p109.jpg",
-            "top": 0.870886,
-            "height": 0.129114,
-            "aspect": 5.908497
-          },
-          {
-            "src": "assets/visuals/material-077-full-p110.jpg",
-            "top": 0.0,
-            "height": 0.165837,
-            "aspect": 9.04
-          }
+          "assets/visuals/material-077-q2-p109.jpg",
+          "assets/visuals/material-077-q2-p110.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-077-full-p110.jpg",
-            "top": 0.165837,
-            "height": 0.238806,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-077-q3-p110.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-077-full-p110.jpg",
-            "top": 0.404643,
-            "height": 0.240464,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-077-q4-p110.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-077-full-p110.jpg",
-            "top": 0.645108,
-            "height": 0.296849,
-            "aspect": 5.050279
-          }
+          "assets/visuals/material-077-q5-p110.jpg"
         ]
       ],
       "fullVisuals": [
@@ -5955,42 +4930,17 @@ window.CARD_BANK = {
       "questionCrops": [
         [],
         [
-          {
-            "src": "assets/visuals/material-078-full-p110.jpg",
-            "top": 0.241911,
-            "height": 0.281972,
-            "aspect": 4.939891
-          }
+          "assets/visuals/material-078-q2-p110.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-078-full-p110.jpg",
-            "top": 0.523883,
-            "height": 0.224961,
-            "aspect": 6.191781
-          }
+          "assets/visuals/material-078-q3-p110.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-078-full-p110.jpg",
-            "top": 0.748844,
-            "height": 0.251156,
-            "aspect": 5.546012
-          },
-          {
-            "src": "assets/visuals/material-078-full-p111.jpg",
-            "top": 0.0,
-            "height": 0.696233,
-            "aspect": 1.577661
-          }
+          "assets/visuals/material-078-q4-p110.jpg",
+          "assets/visuals/material-078-q4-p111.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-078-full-p111.jpg",
-            "top": 0.696233,
-            "height": 0.261239,
-            "aspect": 4.204651
-          }
+          "assets/visuals/material-078-q5-p111.jpg"
         ]
       ],
       "fullVisuals": [
@@ -6107,44 +5057,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-080-full-p113.jpg",
-            "top": 0.413108,
-            "height": 0.103277,
-            "aspect": 8.692308
-          }
+          "assets/visuals/material-080-q1-p113.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-080-full-p113.jpg",
-            "top": 0.516385,
-            "height": 0.10427,
-            "aspect": 8.609524
-          }
+          "assets/visuals/material-080-q2-p113.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-080-full-p113.jpg",
-            "top": 0.620655,
-            "height": 0.10427,
-            "aspect": 8.609524
-          }
+          "assets/visuals/material-080-q3-p113.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-080-full-p113.jpg",
-            "top": 0.724926,
-            "height": 0.275074,
-            "aspect": 3.263538
-          }
+          "assets/visuals/material-080-q4-p113.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-080-full-p114.jpg",
-            "top": 0.189274,
-            "height": 0.700315,
-            "aspect": 4.072072
-          }
+          "assets/visuals/material-080-q5-p114.jpg"
         ]
       ],
       "fullVisuals": [
@@ -6202,50 +5127,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-081-full-p115.jpg",
-            "top": 0.403968,
-            "height": 0.115873,
-            "aspect": 6.191781
-          }
+          "assets/visuals/material-081-q1-p115.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-081-full-p115.jpg",
-            "top": 0.519841,
-            "height": 0.086508,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-081-q2-p115.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-081-full-p115.jpg",
-            "top": 0.606349,
-            "height": 0.087302,
-            "aspect": 8.218182
-          }
+          "assets/visuals/material-081-q3-p115.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-081-full-p115.jpg",
-            "top": 0.693651,
-            "height": 0.306349,
-            "aspect": 2.341969
-          },
-          {
-            "src": "assets/visuals/material-081-full-p116.jpg",
-            "top": 0.0,
-            "height": 0.564257,
-            "aspect": 3.217082
-          }
+          "assets/visuals/material-081-q4-p115.jpg",
+          "assets/visuals/material-081-q4-p116.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-081-full-p116.jpg",
-            "top": 0.564257,
-            "height": 0.365462,
-            "aspect": 4.967033
-          }
+          "assets/visuals/material-081-q5-p116.jpg"
         ]
       ],
       "fullVisuals": [
@@ -6419,44 +5314,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-084-full-p119.jpg",
-            "top": 0.334182,
-            "height": 0.536047,
-            "aspect": 1.43038
-          }
+          "assets/visuals/material-084-q1-p119.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-084-full-p119.jpg",
-            "top": 0.870229,
-            "height": 0.129771,
-            "aspect": 5.908497
-          }
+          "assets/visuals/material-084-q2-p119.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-084-full-p120.jpg",
-            "top": 0.115312,
-            "height": 0.274102,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-084-q3-p120.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-084-full-p120.jpg",
-            "top": 0.389414,
-            "height": 0.272212,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-084-q4-p120.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-084-full-p120.jpg",
-            "top": 0.661626,
-            "height": 0.272212,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-084-q5-p120.jpg"
         ]
       ],
       "fullVisuals": [
@@ -6513,50 +5383,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-085-full-p120.jpg",
-            "top": 0.46922,
-            "height": 0.399453,
-            "aspect": 3.09589
-          }
+          "assets/visuals/material-085-q1-p120.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-085-full-p120.jpg",
-            "top": 0.868673,
-            "height": 0.131327,
-            "aspect": 9.416667
-          },
-          {
-            "src": "assets/visuals/material-085-full-p121.jpg",
-            "top": 0.0,
-            "height": 0.148891,
-            "aspect": 6.411348
-          }
+          "assets/visuals/material-085-q2-p120.jpg",
+          "assets/visuals/material-085-q2-p121.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-085-full-p121.jpg",
-            "top": 0.148891,
-            "height": 0.223865,
-            "aspect": 4.264151
-          }
+          "assets/visuals/material-085-q3-p121.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-085-full-p121.jpg",
-            "top": 0.372756,
-            "height": 0.364308,
-            "aspect": 2.62029
-          }
+          "assets/visuals/material-085-q4-p121.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-085-full-p121.jpg",
-            "top": 0.737064,
-            "height": 0.225977,
-            "aspect": 4.224299
-          }
+          "assets/visuals/material-085-q5-p121.jpg"
         ]
       ],
       "fullVisuals": [
@@ -6615,44 +5455,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-086-full-p123.jpg",
-            "top": 0.307937,
-            "height": 0.086508,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-086-q1-p123.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-086-full-p123.jpg",
-            "top": 0.394444,
-            "height": 0.085714,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-086-q2-p123.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-086-full-p123.jpg",
-            "top": 0.480159,
-            "height": 0.14127,
-            "aspect": 5.078652
-          }
+          "assets/visuals/material-086-q3-p123.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-086-full-p123.jpg",
-            "top": 0.621429,
-            "height": 0.086508,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-086-q4-p123.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-086-full-p123.jpg",
-            "top": 0.707937,
-            "height": 0.292063,
-            "aspect": 2.456522
-          }
+          "assets/visuals/material-086-q5-p123.jpg"
         ]
       ],
       "fullVisuals": [
@@ -6713,50 +5528,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-087-full-p124.jpg",
-            "top": 0.64716,
-            "height": 0.123924,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-087-q1-p124.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-087-full-p124.jpg",
-            "top": 0.771084,
-            "height": 0.093804,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-087-q2-p124.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-087-full-p124.jpg",
-            "top": 0.864888,
-            "height": 0.135112,
-            "aspect": 5.757962
-          },
-          {
-            "src": "assets/visuals/material-087-full-p125.jpg",
-            "top": 0.0,
-            "height": 0.176849,
-            "aspect": 8.218182
-          }
+          "assets/visuals/material-087-q3-p124.jpg",
+          "assets/visuals/material-087-q3-p125.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-087-full-p125.jpg",
-            "top": 0.176849,
-            "height": 0.477492,
-            "aspect": 3.043771
-          }
+          "assets/visuals/material-087-q4-p125.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-087-full-p125.jpg",
-            "top": 0.654341,
-            "height": 0.289389,
-            "aspect": 5.022222
-          }
+          "assets/visuals/material-087-q5-p125.jpg"
         ]
       ],
       "fullVisuals": [
@@ -6875,44 +5660,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-089-full-p129.jpg",
-            "top": 0.085714,
-            "height": 0.135404,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-089-q1-p129.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-089-full-p129.jpg",
-            "top": 0.221118,
-            "height": 0.134161,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-089-q2-p129.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-089-full-p129.jpg",
-            "top": 0.35528,
-            "height": 0.134161,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-089-q3-p129.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-089-full-p129.jpg",
-            "top": 0.489441,
-            "height": 0.134161,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-089-q4-p129.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-089-full-p129.jpg",
-            "top": 0.623602,
-            "height": 0.332919,
-            "aspect": 3.373134
-          }
+          "assets/visuals/material-089-q5-p129.jpg"
         ]
       ],
       "fullVisuals": [
@@ -6970,56 +5730,21 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-090-full-p129.jpg",
-            "top": 0.286353,
-            "height": 0.713647,
-            "aspect": 2.833856
-          },
-          {
-            "src": "assets/visuals/material-090-full-p130.jpg",
-            "top": 0.0,
-            "height": 0.464058,
-            "aspect": 1.555938
-          }
+          "assets/visuals/material-090-q1-p129.jpg",
+          "assets/visuals/material-090-q1-p130.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-090-full-p130.jpg",
-            "top": 0.464058,
-            "height": 0.087061,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-090-q2-p130.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-090-full-p130.jpg",
-            "top": 0.551118,
-            "height": 0.085463,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-090-q3-p130.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-090-full-p130.jpg",
-            "top": 0.636581,
-            "height": 0.185304,
-            "aspect": 3.896552
-          }
+          "assets/visuals/material-090-q4-p130.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-090-full-p130.jpg",
-            "top": 0.821885,
-            "height": 0.178115,
-            "aspect": 4.053812
-          },
-          {
-            "src": "assets/visuals/material-090-full-p131.jpg",
-            "top": 0.0,
-            "height": 0.755245,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-090-q5-p130.jpg",
+          "assets/visuals/material-090-q5-p131.jpg"
         ]
       ],
       "fullVisuals": [
@@ -7078,44 +5803,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-091-full-p131.jpg",
-            "top": 0.853922,
-            "height": 0.097385,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-091-q1-p131.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-091-full-p132.jpg",
-            "top": 0.0,
-            "height": 0.233871,
-            "aspect": 5.195402
-          }
+          "assets/visuals/material-091-q2-p132.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-091-full-p132.jpg",
-            "top": 0.233871,
-            "height": 0.145161,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-091-q3-p132.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-091-full-p132.jpg",
-            "top": 0.379032,
-            "height": 0.193548,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-091-q4-p132.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-091-full-p132.jpg",
-            "top": 0.572581,
-            "height": 0.380376,
-            "aspect": 3.194346
-          }
+          "assets/visuals/material-091-q5-p132.jpg"
         ]
       ],
       "fullVisuals": [
@@ -7232,50 +5932,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-093-full-p134.jpg",
-            "top": 0.371097,
-            "height": 0.097235,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-093-q1-p134.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-093-full-p134.jpg",
-            "top": 0.468332,
-            "height": 0.127565,
-            "aspect": 6.321678
-          }
+          "assets/visuals/material-093-q2-p134.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-093-full-p134.jpg",
-            "top": 0.595897,
-            "height": 0.129349,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-093-q3-p134.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-093-full-p134.jpg",
-            "top": 0.725245,
-            "height": 0.129349,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-093-q4-p134.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-093-full-p134.jpg",
-            "top": 0.854594,
-            "height": 0.145406,
-            "aspect": 5.546012
-          },
-          {
-            "src": "assets/visuals/material-093-full-p135.jpg",
-            "top": 0.0,
-            "height": 0.8,
-            "aspect": 6.457143
-          }
+          "assets/visuals/material-093-q5-p134.jpg",
+          "assets/visuals/material-093-q5-p135.jpg"
         ]
       ],
       "fullVisuals": [
@@ -7390,42 +6060,17 @@ window.CARD_BANK = {
       "questionCrops": [
         [],
         [
-          {
-            "src": "assets/visuals/material-095-full-p136.jpg",
-            "top": 0.35,
-            "height": 0.65,
-            "aspect": 1.337278
-          },
-          {
-            "src": "assets/visuals/material-095-full-p137.jpg",
-            "top": 0.0,
-            "height": 0.305062,
-            "aspect": 4.053812
-          }
+          "assets/visuals/material-095-q2-p136.jpg",
+          "assets/visuals/material-095-q2-p137.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-095-full-p137.jpg",
-            "top": 0.305062,
-            "height": 0.198358,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-095-q3-p137.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-095-full-p137.jpg",
-            "top": 0.50342,
-            "height": 0.147743,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-095-q4-p137.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-095-full-p137.jpg",
-            "top": 0.651163,
-            "height": 0.300958,
-            "aspect": 4.109091
-          }
+          "assets/visuals/material-095-q5-p137.jpg"
         ]
       ],
       "fullVisuals": [
@@ -7483,50 +6128,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-096-full-p138.jpg",
-            "top": 0.40016,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-096-q1-p138.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-096-full-p138.jpg",
-            "top": 0.486422,
-            "height": 0.087061,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-096-q2-p138.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-096-full-p138.jpg",
-            "top": 0.573482,
-            "height": 0.114217,
-            "aspect": 6.321678
-          }
+          "assets/visuals/material-096-q3-p138.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-096-full-p138.jpg",
-            "top": 0.6877,
-            "height": 0.087061,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-096-q4-p138.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-096-full-p138.jpg",
-            "top": 0.77476,
-            "height": 0.22524,
-            "aspect": 3.205674
-          },
-          {
-            "src": "assets/visuals/material-096-full-p139.jpg",
-            "top": 0.0,
-            "height": 0.819588,
-            "aspect": 5.685535
-          }
+          "assets/visuals/material-096-q5-p138.jpg",
+          "assets/visuals/material-096-q5-p139.jpg"
         ]
       ],
       "fullVisuals": [
@@ -7820,44 +6435,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-101-full-p146.jpg",
-            "top": 0.495528,
-            "height": 0.09839,
-            "aspect": 8.218182
-          }
+          "assets/visuals/material-101-q1-p146.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-101-full-p146.jpg",
-            "top": 0.593918,
-            "height": 0.274597,
-            "aspect": 2.944625
-          }
+          "assets/visuals/material-101-q2-p146.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-101-full-p146.jpg",
-            "top": 0.868515,
-            "height": 0.131485,
-            "aspect": 6.14966
-          }
+          "assets/visuals/material-101-q3-p146.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-101-full-p147.jpg",
-            "top": 0.174641,
-            "height": 0.277512,
-            "aspect": 7.793103
-          }
+          "assets/visuals/material-101-q4-p147.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-101-full-p147.jpg",
-            "top": 0.452153,
-            "height": 0.464115,
-            "aspect": 4.659794
-          }
+          "assets/visuals/material-101-q5-p147.jpg"
         ]
       ],
       "fullVisuals": [
@@ -7915,44 +6505,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-102-full-p148.jpg",
-            "top": 0.553514,
-            "height": 0.085463,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-102-q1-p148.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-102-full-p148.jpg",
-            "top": 0.638978,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-102-q2-p148.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-102-full-p148.jpg",
-            "top": 0.72524,
-            "height": 0.115016,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-102-q3-p148.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-102-full-p148.jpg",
-            "top": 0.840256,
-            "height": 0.115815,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-102-q4-p148.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-102-full-p149.jpg",
-            "top": 0.0,
-            "height": 0.891304,
-            "aspect": 3.149826
-          }
+          "assets/visuals/material-102-q5-p149.jpg"
         ]
       ],
       "fullVisuals": [
@@ -8011,44 +6576,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-103-full-p150.jpg",
-            "top": 0.0,
-            "height": 0.140575,
-            "aspect": 5.136364
-          }
+          "assets/visuals/material-103-q1-p150.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-103-full-p150.jpg",
-            "top": 0.140575,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-103-q2-p150.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-103-full-p150.jpg",
-            "top": 0.226837,
-            "height": 0.115016,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-103-q3-p150.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-103-full-p150.jpg",
-            "top": 0.341853,
-            "height": 0.402556,
-            "aspect": 1.793651
-          }
+          "assets/visuals/material-103-q4-p150.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-103-full-p150.jpg",
-            "top": 0.744409,
-            "height": 0.255591,
-            "aspect": 2.825
-          }
+          "assets/visuals/material-103-q5-p150.jpg"
         ]
       ],
       "fullVisuals": [
@@ -8168,44 +6708,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-105-full-p155.jpg",
-            "top": 0.069549,
-            "height": 0.101504,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-105-q1-p155.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-105-full-p155.jpg",
-            "top": 0.171053,
-            "height": 0.102444,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-105-q2-p155.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-105-full-p155.jpg",
-            "top": 0.273496,
-            "height": 0.167293,
-            "aspect": 5.078652
-          }
+          "assets/visuals/material-105-q3-p155.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-105-full-p155.jpg",
-            "top": 0.440789,
-            "height": 0.102444,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-105-q4-p155.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-105-full-p155.jpg",
-            "top": 0.543233,
-            "height": 0.423872,
-            "aspect": 2.004435
-          }
+          "assets/visuals/material-105-q5-p155.jpg"
         ]
       ],
       "fullVisuals": [
@@ -8263,50 +6778,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-106-full-p156.jpg",
-            "top": 0.769841,
-            "height": 0.115079,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-106-q1-p156.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-106-full-p156.jpg",
-            "top": 0.884921,
-            "height": 0.115079,
-            "aspect": 6.234483
-          },
-          {
-            "src": "assets/visuals/material-106-full-p157.jpg",
-            "top": 0.0,
-            "height": 0.145749,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-106-q2-p156.jpg",
+          "assets/visuals/material-106-q2-p157.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-106-full-p157.jpg",
-            "top": 0.145749,
-            "height": 0.145749,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-106-q3-p157.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-106-full-p157.jpg",
-            "top": 0.291498,
-            "height": 0.369771,
-            "aspect": 3.29927
-          }
+          "assets/visuals/material-106-q4-p157.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-106-full-p157.jpg",
-            "top": 0.661269,
-            "height": 0.291498,
-            "aspect": 4.185185
-          }
+          "assets/visuals/material-106-q5-p157.jpg"
         ]
       ],
       "fullVisuals": [
@@ -8365,44 +6850,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-107-full-p158.jpg",
-            "top": 0.277555,
-            "height": 0.109218,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-107-q1-p158.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-107-full-p158.jpg",
-            "top": 0.386774,
-            "height": 0.109218,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-107-q2-p158.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-107-full-p158.jpg",
-            "top": 0.495992,
-            "height": 0.108216,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-107-q3-p158.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-107-full-p158.jpg",
-            "top": 0.604208,
-            "height": 0.108216,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-107-q4-p158.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-107-full-p158.jpg",
-            "top": 0.712425,
-            "height": 0.252505,
-            "aspect": 3.587302
-          }
+          "assets/visuals/material-107-q5-p158.jpg"
         ]
       ],
       "fullVisuals": [
@@ -8460,44 +6920,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-108-full-p159.jpg",
-            "top": 0.700794,
-            "height": 0.086508,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-108-q1-p159.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-108-full-p159.jpg",
-            "top": 0.787302,
-            "height": 0.086508,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-108-q2-p159.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-108-full-p159.jpg",
-            "top": 0.87381,
-            "height": 0.085714,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-108-q3-p159.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-108-full-p160.jpg",
-            "top": 0.0,
-            "height": 0.193651,
-            "aspect": 3.704918
-          }
+          "assets/visuals/material-108-q4-p160.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-108-full-p160.jpg",
-            "top": 0.193651,
-            "height": 0.806349,
-            "aspect": 0.889764
-          }
+          "assets/visuals/material-108-q5-p160.jpg"
         ]
       ],
       "fullVisuals": [
@@ -8730,23 +7165,13 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-112-full-p166.jpg",
-            "top": 0.069489,
-            "height": 0.300319,
-            "aspect": 2.404255
-          }
+          "assets/visuals/material-112-q1-p166.jpg"
         ],
         [],
         [],
         [],
         [
-          {
-            "src": "assets/visuals/material-112-full-p166.jpg",
-            "top": 0.370607,
-            "height": 0.629393,
-            "aspect": 1.147208
-          }
+          "assets/visuals/material-112-q5-p166.jpg"
         ]
       ],
       "fullVisuals": [
@@ -8804,50 +7229,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-113-full-p167.jpg",
-            "top": 0.817032,
-            "height": 0.091906,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-113-q1-p167.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-113-full-p167.jpg",
-            "top": 0.908938,
-            "height": 0.091062,
-            "aspect": 8.37037
-          },
-          {
-            "src": "assets/visuals/material-113-full-p168.jpg",
-            "top": 0.0,
-            "height": 0.221719,
-            "aspect": 6.14966
-          }
+          "assets/visuals/material-113-q2-p167.jpg",
+          "assets/visuals/material-113-q2-p168.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-113-full-p168.jpg",
-            "top": 0.221719,
-            "height": 0.168929,
-            "aspect": 8.071429
-          }
+          "assets/visuals/material-113-q3-p168.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-113-full-p168.jpg",
-            "top": 0.390649,
-            "height": 0.167421,
-            "aspect": 8.144144
-          }
+          "assets/visuals/material-113-q4-p168.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-113-full-p168.jpg",
-            "top": 0.558069,
-            "height": 0.38914,
-            "aspect": 3.503876
-          }
+          "assets/visuals/material-113-q5-p168.jpg"
         ]
       ],
       "fullVisuals": [
@@ -9080,44 +7475,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-117-full-p174.jpg",
-            "top": 0.090546,
-            "height": 0.143808,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-117-q1-p174.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-117-full-p174.jpg",
-            "top": 0.234354,
-            "height": 0.143808,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-117-q2-p174.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-117-full-p174.jpg",
-            "top": 0.378162,
-            "height": 0.14514,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-117-q3-p174.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-117-full-p174.jpg",
-            "top": 0.523302,
-            "height": 0.193076,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-117-q4-p174.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-117-full-p174.jpg",
-            "top": 0.716378,
-            "height": 0.237017,
-            "aspect": 5.078652
-          }
+          "assets/visuals/material-117-q5-p174.jpg"
         ]
       ],
       "fullVisuals": [
@@ -9175,44 +7545,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-118-full-p175.jpg",
-            "top": 0.152556,
-            "height": 0.230831,
-            "aspect": 3.128028
-          }
+          "assets/visuals/material-118-q1-p175.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-118-full-p175.jpg",
-            "top": 0.383387,
-            "height": 0.264377,
-            "aspect": 2.731118
-          }
+          "assets/visuals/material-118-q2-p175.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-118-full-p175.jpg",
-            "top": 0.647764,
-            "height": 0.113419,
-            "aspect": 6.366197
-          }
+          "assets/visuals/material-118-q3-p175.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-118-full-p175.jpg",
-            "top": 0.761182,
-            "height": 0.083866,
-            "aspect": 8.609524
-          }
+          "assets/visuals/material-118-q4-p175.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-118-full-p175.jpg",
-            "top": 0.845048,
-            "height": 0.154952,
-            "aspect": 4.659794
-          }
+          "assets/visuals/material-118-q5-p175.jpg"
         ]
       ],
       "fullVisuals": [
@@ -9271,44 +7616,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-119-full-p176.jpg",
-            "top": 0.873803,
-            "height": 0.093995,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-119-q1-p176.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-119-full-p177.jpg",
-            "top": 0.0,
-            "height": 0.22003,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-119-q2-p177.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-119-full-p177.jpg",
-            "top": 0.22003,
-            "height": 0.206373,
-            "aspect": 6.647059
-          }
+          "assets/visuals/material-119-q3-p177.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-119-full-p177.jpg",
-            "top": 0.426404,
-            "height": 0.15478,
-            "aspect": 8.862745
-          }
+          "assets/visuals/material-119-q4-p177.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-119-full-p177.jpg",
-            "top": 0.581184,
-            "height": 0.365706,
-            "aspect": 3.751037
-          }
+          "assets/visuals/material-119-q5-p177.jpg"
         ]
       ],
       "fullVisuals": [
@@ -9426,44 +7746,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-121-full-p180.jpg",
-            "top": 0.255591,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-121-q1-p180.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-121-full-p180.jpg",
-            "top": 0.341853,
-            "height": 0.115016,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-121-q2-p180.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-121-full-p180.jpg",
-            "top": 0.456869,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-121-q3-p180.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-121-full-p180.jpg",
-            "top": 0.543131,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-121-q4-p180.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-121-full-p180.jpg",
-            "top": 0.629393,
-            "height": 0.370607,
-            "aspect": 1.948276
-          }
+          "assets/visuals/material-121-q5-p180.jpg"
         ]
       ],
       "fullVisuals": [
@@ -9580,50 +7875,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-123-full-p183.jpg",
-            "top": 0.496006,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-123-q1-p183.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-123-full-p183.jpg",
-            "top": 0.582268,
-            "height": 0.085463,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-123-q2-p183.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-123-full-p183.jpg",
-            "top": 0.667732,
-            "height": 0.115815,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-123-q3-p183.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-123-full-p183.jpg",
-            "top": 0.783546,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-123-q4-p183.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-123-full-p183.jpg",
-            "top": 0.869808,
-            "height": 0.130192,
-            "aspect": 5.546012
-          },
-          {
-            "src": "assets/visuals/material-123-full-p184.jpg",
-            "top": 0.0,
-            "height": 0.730769,
-            "aspect": 9.515789
-          }
+          "assets/visuals/material-123-q5-p183.jpg",
+          "assets/visuals/material-123-q5-p184.jpg"
         ]
       ],
       "fullVisuals": [
@@ -9682,50 +7947,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-124-full-p184.jpg",
-            "top": 0.475045,
-            "height": 0.103387,
-            "aspect": 7.793103
-          }
+          "assets/visuals/material-124-q1-p184.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-124-full-p184.jpg",
-            "top": 0.578431,
-            "height": 0.103387,
-            "aspect": 7.793103
-          }
+          "assets/visuals/material-124-q2-p184.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-124-full-p184.jpg",
-            "top": 0.681818,
-            "height": 0.099822,
-            "aspect": 8.071429
-          }
+          "assets/visuals/material-124-q3-p184.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-124-full-p184.jpg",
-            "top": 0.78164,
-            "height": 0.09893,
-            "aspect": 8.144144
-          }
+          "assets/visuals/material-124-q4-p184.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-124-full-p184.jpg",
-            "top": 0.88057,
-            "height": 0.11943,
-            "aspect": 6.746269
-          },
-          {
-            "src": "assets/visuals/material-124-full-p185.jpg",
-            "top": 0.0,
-            "height": 0.798851,
-            "aspect": 6.503597
-          }
+          "assets/visuals/material-124-q5-p184.jpg",
+          "assets/visuals/material-124-q5-p185.jpg"
         ]
       ],
       "fullVisuals": [
@@ -9782,44 +8017,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-125-full-p185.jpg",
-            "top": 0.83859,
-            "height": 0.16141,
-            "aspect": 5.195402
-          }
+          "assets/visuals/material-125-q1-p185.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-125-full-p186.jpg",
-            "top": 0.081409,
-            "height": 0.176185,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-125-q2-p186.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-125-full-p186.jpg",
-            "top": 0.257594,
-            "height": 0.17497,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-125-q3-p186.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-125-full-p186.jpg",
-            "top": 0.432564,
-            "height": 0.221142,
-            "aspect": 4.967033
-          }
+          "assets/visuals/material-125-q4-p186.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-125-full-p186.jpg",
-            "top": 0.653706,
-            "height": 0.303767,
-            "aspect": 3.616
-          }
+          "assets/visuals/material-125-q5-p186.jpg"
         ]
       ],
       "fullVisuals": [
@@ -9936,44 +8146,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-127-full-p189.jpg",
-            "top": 0.391374,
-            "height": 0.087061,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-127-q1-p189.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-127-full-p189.jpg",
-            "top": 0.478435,
-            "height": 0.089457,
-            "aspect": 8.071429
-          }
+          "assets/visuals/material-127-q2-p189.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-127-full-p189.jpg",
-            "top": 0.567891,
-            "height": 0.083067,
-            "aspect": 8.692308
-          }
+          "assets/visuals/material-127-q3-p189.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-127-full-p189.jpg",
-            "top": 0.650958,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-127-q4-p189.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-127-full-p189.jpg",
-            "top": 0.73722,
-            "height": 0.26278,
-            "aspect": 2.74772
-          }
+          "assets/visuals/material-127-q5-p189.jpg"
         ]
       ],
       "fullVisuals": [
@@ -10145,44 +8330,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-130-full-p193.jpg",
-            "top": 0.151695,
-            "height": 0.365254,
-            "aspect": 2.097448
-          }
+          "assets/visuals/material-130-q1-p193.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-130-full-p193.jpg",
-            "top": 0.516949,
-            "height": 0.090678,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-130-q2-p193.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-130-full-p193.jpg",
-            "top": 0.607627,
-            "height": 0.122881,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-130-q3-p193.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-130-full-p193.jpg",
-            "top": 0.730508,
-            "height": 0.088983,
-            "aspect": 8.609524
-          }
+          "assets/visuals/material-130-q4-p193.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-130-full-p193.jpg",
-            "top": 0.819492,
-            "height": 0.150847,
-            "aspect": 5.078652
-          }
+          "assets/visuals/material-130-q5-p193.jpg"
         ]
       ],
       "fullVisuals": [
@@ -10296,56 +8456,21 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-132-full-p195.jpg",
-            "top": 0.432798,
-            "height": 0.567202,
-            "aspect": 1.347243
-          },
-          {
-            "src": "assets/visuals/material-132-full-p196.jpg",
-            "top": 0.0,
-            "height": 0.683706,
-            "aspect": 1.056075
-          }
+          "assets/visuals/material-132-q1-p195.jpg",
+          "assets/visuals/material-132-q1-p196.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-132-full-p196.jpg",
-            "top": 0.683706,
-            "height": 0.316294,
-            "aspect": 2.282828
-          },
-          {
-            "src": "assets/visuals/material-132-full-p197.jpg",
-            "top": 0.0,
-            "height": 0.525968,
-            "aspect": 1.62298
-          }
+          "assets/visuals/material-132-q2-p196.jpg",
+          "assets/visuals/material-132-q2-p197.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-132-full-p197.jpg",
-            "top": 0.525968,
-            "height": 0.103872,
-            "aspect": 8.218182
-          }
+          "assets/visuals/material-132-q3-p197.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-132-full-p197.jpg",
-            "top": 0.629839,
-            "height": 0.101039,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-132-q4-p197.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-132-full-p197.jpg",
-            "top": 0.730878,
-            "height": 0.236072,
-            "aspect": 3.616
-          }
+          "assets/visuals/material-132-q5-p197.jpg"
         ]
       ],
       "fullVisuals": [
@@ -10405,44 +8530,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-133-full-p198.jpg",
-            "top": 0.409744,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-133-q1-p198.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-133-full-p198.jpg",
-            "top": 0.496006,
-            "height": 0.087061,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-133-q2-p198.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-133-full-p198.jpg",
-            "top": 0.583067,
-            "height": 0.085463,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-133-q3-p198.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-133-full-p198.jpg",
-            "top": 0.66853,
-            "height": 0.087061,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-133-q4-p198.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-133-full-p198.jpg",
-            "top": 0.755591,
-            "height": 0.244409,
-            "aspect": 2.954248
-          }
+          "assets/visuals/material-133-q5-p198.jpg"
         ]
       ],
       "fullVisuals": [
@@ -10501,50 +8601,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-134-full-p199.jpg",
-            "top": 0.883377,
-            "height": 0.116623,
-            "aspect": 6.746269
-          },
-          {
-            "src": "assets/visuals/material-134-full-p200.jpg",
-            "top": 0.0,
-            "height": 0.104808,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-134-q1-p199.jpg",
+          "assets/visuals/material-134-q1-p200.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-134-full-p200.jpg",
-            "top": 0.104808,
-            "height": 0.139423,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-134-q2-p200.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-134-full-p200.jpg",
-            "top": 0.244231,
-            "height": 0.139423,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-134-q3-p200.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-134-full-p200.jpg",
-            "top": 0.383654,
-            "height": 0.138462,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-134-q4-p200.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-134-full-p200.jpg",
-            "top": 0.522115,
-            "height": 0.444231,
-            "aspect": 1.95671
-          }
+          "assets/visuals/material-134-q5-p200.jpg"
         ]
       ],
       "fullVisuals": [
@@ -10606,18 +8676,8 @@ window.CARD_BANK = {
         [],
         [],
         [
-          {
-            "src": "assets/visuals/material-135-full-p201.jpg",
-            "top": 0.3123,
-            "height": 0.6877,
-            "aspect": 1.049942
-          },
-          {
-            "src": "assets/visuals/material-135-full-p202.jpg",
-            "top": 0.0,
-            "height": 0.934701,
-            "aspect": 1.804391
-          }
+          "assets/visuals/material-135-q5-p201.jpg",
+          "assets/visuals/material-135-q5-p202.jpg"
         ]
       ],
       "fullVisuals": [
@@ -10675,44 +8735,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-136-full-p203.jpg",
-            "top": 0.106207,
-            "height": 0.150345,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-136-q1-p203.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-136-full-p203.jpg",
-            "top": 0.256552,
-            "height": 0.148966,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-136-q2-p203.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-136-full-p203.jpg",
-            "top": 0.405517,
-            "height": 0.148966,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-136-q3-p203.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-136-full-p203.jpg",
-            "top": 0.554483,
-            "height": 0.150345,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-136-q4-p203.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-136-full-p203.jpg",
-            "top": 0.704828,
-            "height": 0.246897,
-            "aspect": 5.050279
-          }
+          "assets/visuals/material-136-q5-p203.jpg"
         ]
       ],
       "fullVisuals": [
@@ -10945,44 +8980,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-140-full-p209.jpg",
-            "top": 0.556709,
-            "height": 0.114217,
-            "aspect": 6.321678
-          }
+          "assets/visuals/material-140-q1-p209.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-140-full-p209.jpg",
-            "top": 0.670927,
-            "height": 0.115815,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-140-q2-p209.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-140-full-p209.jpg",
-            "top": 0.786741,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-140-q3-p209.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-140-full-p209.jpg",
-            "top": 0.873003,
-            "height": 0.087061,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-140-q4-p209.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-140-full-p210.jpg",
-            "top": 0.0,
-            "height": 0.888889,
-            "aspect": 3.228571
-          }
+          "assets/visuals/material-140-q5-p210.jpg"
         ]
       ],
       "fullVisuals": [
@@ -11041,50 +9051,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-141-full-p210.jpg",
-            "top": 0.342583,
-            "height": 0.657417,
-            "aspect": 1.467532
-          },
-          {
-            "src": "assets/visuals/material-141-full-p211.jpg",
-            "top": 0.0,
-            "height": 0.274686,
-            "aspect": 2.954248
-          }
+          "assets/visuals/material-141-q1-p210.jpg",
+          "assets/visuals/material-141-q1-p211.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-141-full-p211.jpg",
-            "top": 0.274686,
-            "height": 0.129264,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-141-q2-p211.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-141-full-p211.jpg",
-            "top": 0.40395,
-            "height": 0.130162,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-141-q3-p211.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-141-full-p211.jpg",
-            "top": 0.534111,
-            "height": 0.097846,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-141-q4-p211.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-141-full-p211.jpg",
-            "top": 0.631957,
-            "height": 0.336625,
-            "aspect": 2.410667
-          }
+          "assets/visuals/material-141-q5-p211.jpg"
         ]
       ],
       "fullVisuals": [
@@ -11201,44 +9181,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-143-full-p213.jpg",
-            "top": 0.77551,
-            "height": 0.22449,
-            "aspect": 5.136364
-          }
+          "assets/visuals/material-143-q1-p213.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-143-full-p214.jpg",
-            "top": 0.08589,
-            "height": 0.131288,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-143-q2-p214.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-143-full-p214.jpg",
-            "top": 0.217178,
-            "height": 0.177914,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-143-q3-p214.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-143-full-p214.jpg",
-            "top": 0.395092,
-            "height": 0.131288,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-143-q4-p214.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-143-full-p214.jpg",
-            "top": 0.52638,
-            "height": 0.430675,
-            "aspect": 2.575499
-          }
+          "assets/visuals/material-143-q5-p214.jpg"
         ]
       ],
       "fullVisuals": [
@@ -11296,44 +9251,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-144-full-p215.jpg",
-            "top": 0.471246,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-144-q1-p215.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-144-full-p215.jpg",
-            "top": 0.557508,
-            "height": 0.085463,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-144-q2-p215.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-144-full-p215.jpg",
-            "top": 0.642971,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-144-q3-p215.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-144-full-p215.jpg",
-            "top": 0.729233,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-144-q4-p215.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-144-full-p215.jpg",
-            "top": 0.815495,
-            "height": 0.184505,
-            "aspect": 3.91342
-          }
+          "assets/visuals/material-144-q5-p215.jpg"
         ]
       ],
       "fullVisuals": [
@@ -11392,50 +9322,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-145-full-p216.jpg",
-            "top": 0.625,
-            "height": 0.093103,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-145-q1-p216.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-145-full-p216.jpg",
-            "top": 0.718103,
-            "height": 0.093966,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-145-q2-p216.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-145-full-p216.jpg",
-            "top": 0.812069,
-            "height": 0.093103,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-145-q3-p216.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-145-full-p216.jpg",
-            "top": 0.905172,
-            "height": 0.094828,
-            "aspect": 8.218182
-          },
-          {
-            "src": "assets/visuals/material-145-full-p217.jpg",
-            "top": 0.0,
-            "height": 0.324921,
-            "aspect": 8.776699
-          }
+          "assets/visuals/material-145-q4-p216.jpg",
+          "assets/visuals/material-145-q4-p217.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-145-full-p217.jpg",
-            "top": 0.324921,
-            "height": 0.564669,
-            "aspect": 5.050279
-          }
+          "assets/visuals/material-145-q5-p217.jpg"
         ]
       ],
       "fullVisuals": [
@@ -11550,44 +9450,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-147-full-p219.jpg",
-            "top": 0.466454,
-            "height": 0.154153,
-            "aspect": 4.683938
-          }
+          "assets/visuals/material-147-q1-p219.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-147-full-p219.jpg",
-            "top": 0.620607,
-            "height": 0.119808,
-            "aspect": 6.026667
-          }
+          "assets/visuals/material-147-q2-p219.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-147-full-p219.jpg",
-            "top": 0.740415,
-            "height": 0.115016,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-147-q3-p219.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-147-full-p219.jpg",
-            "top": 0.855431,
-            "height": 0.144569,
-            "aspect": 4.994475
-          }
+          "assets/visuals/material-147-q4-p219.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-147-full-p220.jpg",
-            "top": 0.198083,
-            "height": 0.690096,
-            "aspect": 4.185185
-          }
+          "assets/visuals/material-147-q5-p220.jpg"
         ]
       ],
       "fullVisuals": [
@@ -11764,44 +9639,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-150-full-p224.jpg",
-            "top": 0.421725,
-            "height": 0.115016,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-150-q1-p224.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-150-full-p224.jpg",
-            "top": 0.536741,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-150-q2-p224.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-150-full-p224.jpg",
-            "top": 0.623003,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-150-q3-p224.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-150-full-p224.jpg",
-            "top": 0.709265,
-            "height": 0.087061,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-150-q4-p224.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-150-full-p224.jpg",
-            "top": 0.796326,
-            "height": 0.203674,
-            "aspect": 3.545098
-          }
+          "assets/visuals/material-150-q5-p224.jpg"
         ]
       ],
       "fullVisuals": [
@@ -11861,50 +9711,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-151-full-p225.jpg",
-            "top": 0.404865,
-            "height": 0.595135,
-            "aspect": 1.319708
-          },
-          {
-            "src": "assets/visuals/material-151-full-p226.jpg",
-            "top": 0.0,
-            "height": 0.136581,
-            "aspect": 5.28655
-          }
+          "assets/visuals/material-151-q1-p225.jpg",
+          "assets/visuals/material-151-q1-p226.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-151-full-p226.jpg",
-            "top": 0.136581,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-151-q2-p226.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-151-full-p226.jpg",
-            "top": 0.222843,
-            "height": 0.395367,
-            "aspect": 1.826263
-          }
+          "assets/visuals/material-151-q3-p226.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-151-full-p226.jpg",
-            "top": 0.618211,
-            "height": 0.115815,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-151-q4-p226.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-151-full-p226.jpg",
-            "top": 0.734026,
-            "height": 0.265974,
-            "aspect": 2.714715
-          }
+          "assets/visuals/material-151-q5-p226.jpg"
         ]
       ],
       "fullVisuals": [
@@ -11968,24 +9788,9 @@ window.CARD_BANK = {
         [],
         [],
         [
-          {
-            "src": "assets/visuals/material-152-full-p227.jpg",
-            "top": 0.368375,
-            "height": 0.631625,
-            "aspect": 1.264336
-          },
-          {
-            "src": "assets/visuals/material-152-full-p228.jpg",
-            "top": 0.0,
-            "height": 1.0,
-            "aspect": 0.722045
-          },
-          {
-            "src": "assets/visuals/material-152-full-p229.jpg",
-            "top": 0.0,
-            "height": 0.748201,
-            "aspect": 8.692308
-          }
+          "assets/visuals/material-152-q5-p227.jpg",
+          "assets/visuals/material-152-q5-p228.jpg",
+          "assets/visuals/material-152-q5-p229.jpg"
         ]
       ],
       "fullVisuals": [
@@ -12162,50 +9967,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-155-full-p233.jpg",
-            "top": 0.436102,
-            "height": 0.087061,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-155-q1-p233.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-155-full-p233.jpg",
-            "top": 0.523163,
-            "height": 0.115815,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-155-q2-p233.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-155-full-p233.jpg",
-            "top": 0.638978,
-            "height": 0.090256,
-            "aspect": 8.0
-          }
+          "assets/visuals/material-155-q3-p233.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-155-full-p233.jpg",
-            "top": 0.729233,
-            "height": 0.145367,
-            "aspect": 4.967033
-          }
+          "assets/visuals/material-155-q4-p233.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-155-full-p233.jpg",
-            "top": 0.874601,
-            "height": 0.125399,
-            "aspect": 5.757962
-          },
-          {
-            "src": "assets/visuals/material-155-full-p234.jpg",
-            "top": 0.0,
-            "height": 0.925214,
-            "aspect": 2.08776
-          }
+          "assets/visuals/material-155-q5-p233.jpg",
+          "assets/visuals/material-155-q5-p234.jpg"
         ]
       ],
       "fullVisuals": [
@@ -12263,44 +10038,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-156-full-p235.jpg",
-            "top": 0.103675,
-            "height": 0.141732,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-156-q1-p235.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-156-full-p235.jpg",
-            "top": 0.245407,
-            "height": 0.190289,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-156-q2-p235.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-156-full-p235.jpg",
-            "top": 0.435696,
-            "height": 0.141732,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-156-q3-p235.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-156-full-p235.jpg",
-            "top": 0.577428,
-            "height": 0.144357,
-            "aspect": 8.218182
-          }
+          "assets/visuals/material-156-q4-p235.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-156-full-p235.jpg",
-            "top": 0.721785,
-            "height": 0.232283,
-            "aspect": 5.107345
-          }
+          "assets/visuals/material-156-q5-p235.jpg"
         ]
       ],
       "fullVisuals": [
@@ -12358,50 +10108,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-157-full-p236.jpg",
-            "top": 0.397764,
-            "height": 0.178914,
-            "aspect": 4.035714
-          }
+          "assets/visuals/material-157-q1-p236.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-157-full-p236.jpg",
-            "top": 0.576677,
-            "height": 0.084665,
-            "aspect": 8.528302
-          }
+          "assets/visuals/material-157-q2-p236.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-157-full-p236.jpg",
-            "top": 0.661342,
-            "height": 0.115815,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-157-q3-p236.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-157-full-p236.jpg",
-            "top": 0.777157,
-            "height": 0.115815,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-157-q4-p236.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-157-full-p236.jpg",
-            "top": 0.892971,
-            "height": 0.107029,
-            "aspect": 6.746269
-          },
-          {
-            "src": "assets/visuals/material-157-full-p237.jpg",
-            "top": 0.0,
-            "height": 0.807692,
-            "aspect": 6.14966
-          }
+          "assets/visuals/material-157-q5-p236.jpg",
+          "assets/visuals/material-157-q5-p237.jpg"
         ]
       ],
       "fullVisuals": [
@@ -12518,44 +10238,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-159-full-p239.jpg",
-            "top": 0.55234,
-            "height": 0.091915,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-159-q1-p239.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-159-full-p239.jpg",
-            "top": 0.644255,
-            "height": 0.091915,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-159-q2-p239.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-159-full-p239.jpg",
-            "top": 0.73617,
-            "height": 0.091915,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-159-q3-p239.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-159-full-p239.jpg",
-            "top": 0.828085,
-            "height": 0.123404,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-159-q4-p239.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-159-full-p240.jpg",
-            "top": 0.0,
-            "height": 0.877193,
-            "aspect": 3.616
-          }
+          "assets/visuals/material-159-q5-p240.jpg"
         ]
       ],
       "fullVisuals": [
@@ -12730,50 +10425,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-162-full-p244.jpg",
-            "top": 0.516773,
-            "height": 0.085463,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-162-q1-p244.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-162-full-p244.jpg",
-            "top": 0.602236,
-            "height": 0.14377,
-            "aspect": 5.022222
-          }
+          "assets/visuals/material-162-q2-p244.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-162-full-p244.jpg",
-            "top": 0.746006,
-            "height": 0.144569,
-            "aspect": 4.994475
-          }
+          "assets/visuals/material-162-q3-p244.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-162-full-p244.jpg",
-            "top": 0.890575,
-            "height": 0.109425,
-            "aspect": 6.59854
-          },
-          {
-            "src": "assets/visuals/material-162-full-p245.jpg",
-            "top": 0.0,
-            "height": 0.30854,
-            "aspect": 8.071429
-          }
+          "assets/visuals/material-162-q4-p244.jpg",
+          "assets/visuals/material-162-q4-p245.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-162-full-p245.jpg",
-            "top": 0.30854,
-            "height": 0.595041,
-            "aspect": 4.185185
-          }
+          "assets/visuals/material-162-q5-p245.jpg"
         ]
       ],
       "fullVisuals": [
@@ -12949,50 +10614,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-165-full-p248.jpg",
-            "top": 0.434644,
-            "height": 0.565356,
-            "aspect": 1.699248
-          },
-          {
-            "src": "assets/visuals/material-165-full-p249.jpg",
-            "top": 0.0,
-            "height": 0.236388,
-            "aspect": 5.078652
-          }
+          "assets/visuals/material-165-q1-p248.jpg",
+          "assets/visuals/material-165-q1-p249.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-165-full-p249.jpg",
-            "top": 0.236388,
-            "height": 0.143426,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-165-q2-p249.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-165-full-p249.jpg",
-            "top": 0.379814,
-            "height": 0.192563,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-165-q3-p249.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-165-full-p249.jpg",
-            "top": 0.572377,
-            "height": 0.144754,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-165-q4-p249.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-165-full-p249.jpg",
-            "top": 0.717131,
-            "height": 0.236388,
-            "aspect": 5.078652
-          }
+          "assets/visuals/material-165-q5-p249.jpg"
         ]
       ],
       "fullVisuals": [
@@ -13403,44 +11038,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-172-full-p260.jpg",
-            "top": 0.444158,
-            "height": 0.093643,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-172-q1-p260.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-172-full-p260.jpg",
-            "top": 0.537801,
-            "height": 0.093643,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-172-q2-p260.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-172-full-p260.jpg",
-            "top": 0.631443,
-            "height": 0.091924,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-172-q3-p260.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-172-full-p260.jpg",
-            "top": 0.723368,
-            "height": 0.092784,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-172-q4-p260.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-172-full-p260.jpg",
-            "top": 0.816151,
-            "height": 0.15378,
-            "aspect": 5.050279
-          }
+          "assets/visuals/material-172-q5-p260.jpg"
         ]
       ],
       "fullVisuals": [
@@ -13497,50 +11107,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-173-full-p261.jpg",
-            "top": 0.41853,
-            "height": 0.116613,
-            "aspect": 6.191781
-          }
+          "assets/visuals/material-173-q1-p261.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-173-full-p261.jpg",
-            "top": 0.535144,
-            "height": 0.084665,
-            "aspect": 8.528302
-          }
+          "assets/visuals/material-173-q2-p261.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-173-full-p261.jpg",
-            "top": 0.619808,
-            "height": 0.115815,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-173-q3-p261.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-173-full-p261.jpg",
-            "top": 0.735623,
-            "height": 0.117412,
-            "aspect": 6.14966
-          }
+          "assets/visuals/material-173-q4-p261.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-173-full-p261.jpg",
-            "top": 0.853035,
-            "height": 0.146965,
-            "aspect": 4.913043
-          },
-          {
-            "src": "assets/visuals/material-173-full-p262.jpg",
-            "top": 0.0,
-            "height": 0.744526,
-            "aspect": 8.862745
-          }
+          "assets/visuals/material-173-q5-p261.jpg",
+          "assets/visuals/material-173-q5-p262.jpg"
         ]
       ],
       "fullVisuals": [
@@ -13598,50 +11178,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-174-full-p262.jpg",
-            "top": 0.789238,
-            "height": 0.130045,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-174-q1-p262.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-174-full-p262.jpg",
-            "top": 0.919283,
-            "height": 0.080717,
-            "aspect": 10.044444
-          },
-          {
-            "src": "assets/visuals/material-174-full-p263.jpg",
-            "top": 0.0,
-            "height": 0.117412,
-            "aspect": 6.14966
-          }
+          "assets/visuals/material-174-q2-p262.jpg",
+          "assets/visuals/material-174-q2-p263.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-174-full-p263.jpg",
-            "top": 0.117412,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-174-q3-p263.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-174-full-p263.jpg",
-            "top": 0.203674,
-            "height": 0.484824,
-            "aspect": 1.489292
-          }
+          "assets/visuals/material-174-q4-p263.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-174-full-p263.jpg",
-            "top": 0.688498,
-            "height": 0.311502,
-            "aspect": 2.317949
-          }
+          "assets/visuals/material-174-q5-p263.jpg"
         ]
       ],
       "fullVisuals": [
@@ -13756,44 +11306,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-176-full-p266.jpg",
-            "top": 0.27361,
-            "height": 0.095322,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-176-q1-p266.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-176-full-p266.jpg",
-            "top": 0.368932,
-            "height": 0.127096,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-176-q2-p266.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-176-full-p266.jpg",
-            "top": 0.496028,
-            "height": 0.123566,
-            "aspect": 6.457143
-          }
+          "assets/visuals/material-176-q3-p266.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-176-full-p266.jpg",
-            "top": 0.619594,
-            "height": 0.191527,
-            "aspect": 4.165899
-          }
+          "assets/visuals/material-176-q4-p266.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-176-full-p266.jpg",
-            "top": 0.811121,
-            "height": 0.157988,
-            "aspect": 5.050279
-          }
+          "assets/visuals/material-176-q5-p266.jpg"
         ]
       ],
       "fullVisuals": [
@@ -13851,44 +11376,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-177-full-p267.jpg",
-            "top": 0.853834,
-            "height": 0.115815,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-177-q1-p267.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-177-full-p268.jpg",
-            "top": 0.0,
-            "height": 0.217391,
-            "aspect": 6.457143
-          }
+          "assets/visuals/material-177-q2-p268.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-177-full-p268.jpg",
-            "top": 0.217391,
-            "height": 0.225155,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-177-q3-p268.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-177-full-p268.jpg",
-            "top": 0.442547,
-            "height": 0.167702,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-177-q4-p268.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-177-full-p268.jpg",
-            "top": 0.610248,
-            "height": 0.335404,
-            "aspect": 4.185185
-          }
+          "assets/visuals/material-177-q5-p268.jpg"
         ]
       ],
       "fullVisuals": [
@@ -14005,44 +11505,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-179-full-p271.jpg",
-            "top": 0.0,
-            "height": 0.136364,
-            "aspect": 8.144144
-          }
+          "assets/visuals/material-179-q1-p271.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-179-full-p271.jpg",
-            "top": 0.136364,
-            "height": 0.132678,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-179-q2-p271.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-179-full-p271.jpg",
-            "top": 0.269042,
-            "height": 0.176904,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-179-q3-p271.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-179-full-p271.jpg",
-            "top": 0.445946,
-            "height": 0.178133,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-179-q4-p271.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-179-full-p271.jpg",
-            "top": 0.624079,
-            "height": 0.332924,
-            "aspect": 3.335793
-          }
+          "assets/visuals/material-179-q5-p271.jpg"
         ]
       ],
       "fullVisuals": [
@@ -14159,44 +11634,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-181-full-p274.jpg",
-            "top": 0.284079,
-            "height": 0.114464,
-            "aspect": 8.218182
-          }
+          "assets/visuals/material-181-q1-p274.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-181-full-p274.jpg",
-            "top": 0.398543,
-            "height": 0.112383,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-181-q2-p274.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-181-full-p274.jpg",
-            "top": 0.510926,
-            "height": 0.113424,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-181-q3-p274.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-181-full-p274.jpg",
-            "top": 0.62435,
-            "height": 0.112383,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-181-q4-p274.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-181-full-p274.jpg",
-            "top": 0.736733,
-            "height": 0.226847,
-            "aspect": 4.146789
-          }
+          "assets/visuals/material-181-q5-p274.jpg"
         ]
       ],
       "fullVisuals": [
@@ -14837,50 +12287,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-192-full-p289.jpg",
-            "top": 0.32427,
-            "height": 0.67573,
-            "aspect": 1.347243
-          },
-          {
-            "src": "assets/visuals/material-192-full-p290.jpg",
-            "top": 0.0,
-            "height": 0.549521,
-            "aspect": 1.313953
-          }
+          "assets/visuals/material-192-q1-p289.jpg",
+          "assets/visuals/material-192-q1-p290.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-192-full-p290.jpg",
-            "top": 0.549521,
-            "height": 0.085463,
-            "aspect": 8.448598
-          }
+          "assets/visuals/material-192-q2-p290.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-192-full-p290.jpg",
-            "top": 0.634984,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-192-q3-p290.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-192-full-p290.jpg",
-            "top": 0.721246,
-            "height": 0.116613,
-            "aspect": 6.191781
-          }
+          "assets/visuals/material-192-q4-p290.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-192-full-p290.jpg",
-            "top": 0.837859,
-            "height": 0.162141,
-            "aspect": 4.453202
-          }
+          "assets/visuals/material-192-q5-p290.jpg"
         ]
       ],
       "fullVisuals": [
@@ -14995,44 +12415,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-194-full-p293.jpg",
-            "top": 0.0,
-            "height": 0.189655,
-            "aspect": 6.321678
-          }
+          "assets/visuals/material-194-q1-p293.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-194-full-p293.jpg",
-            "top": 0.189655,
-            "height": 0.143236,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-194-q2-p293.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-194-full-p293.jpg",
-            "top": 0.332891,
-            "height": 0.143236,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-194-q3-p293.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-194-full-p293.jpg",
-            "top": 0.476127,
-            "height": 0.192308,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-194-q4-p293.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-194-full-p293.jpg",
-            "top": 0.668435,
-            "height": 0.285146,
-            "aspect": 4.204651
-          }
+          "assets/visuals/material-194-q5-p293.jpg"
         ]
       ],
       "fullVisuals": [
@@ -15090,50 +12485,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-195-full-p293.jpg",
-            "top": 0.638554,
-            "height": 0.361446,
-            "aspect": 5.022222
-          },
-          {
-            "src": "assets/visuals/material-195-full-p294.jpg",
-            "top": 0.0,
-            "height": 0.731629,
-            "aspect": 0.9869
-          }
+          "assets/visuals/material-195-q1-p293.jpg",
+          "assets/visuals/material-195-q1-p294.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-195-full-p294.jpg",
-            "top": 0.731629,
-            "height": 0.087061,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-195-q2-p294.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-195-full-p294.jpg",
-            "top": 0.81869,
-            "height": 0.115016,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-195-q3-p294.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-195-full-p295.jpg",
-            "top": 0.0,
-            "height": 0.320583,
-            "aspect": 5.136364
-          }
+          "assets/visuals/material-195-q4-p295.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-195-full-p295.jpg",
-            "top": 0.320583,
-            "height": 0.615665,
-            "aspect": 2.674556
-          }
+          "assets/visuals/material-195-q5-p295.jpg"
         ]
       ],
       "fullVisuals": [
@@ -15193,50 +12558,20 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-196-full-p295.jpg",
-            "top": 0.489331,
-            "height": 0.510669,
-            "aspect": 2.518106
-          },
-          {
-            "src": "assets/visuals/material-196-full-p296.jpg",
-            "top": 0.0,
-            "height": 0.666933,
-            "aspect": 1.082635
-          }
+          "assets/visuals/material-196-q1-p295.jpg",
+          "assets/visuals/material-196-q1-p296.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-196-full-p296.jpg",
-            "top": 0.666933,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-196-q2-p296.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-196-full-p296.jpg",
-            "top": 0.753195,
-            "height": 0.087061,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-196-q3-p296.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-196-full-p296.jpg",
-            "top": 0.840256,
-            "height": 0.115016,
-            "aspect": 6.277778
-          }
+          "assets/visuals/material-196-q4-p296.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-196-full-p297.jpg",
-            "top": 0.0,
-            "height": 0.859438,
-            "aspect": 4.224299
-          }
+          "assets/visuals/material-196-q5-p297.jpg"
         ]
       ],
       "fullVisuals": [
@@ -15294,44 +12629,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-197-full-p298.jpg",
-            "top": 0.0,
-            "height": 0.185829,
-            "aspect": 6.503597
-          }
+          "assets/visuals/material-197-q1-p298.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-197-full-p298.jpg",
-            "top": 0.185829,
-            "height": 0.145722,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-197-q2-p298.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-197-full-p298.jpg",
-            "top": 0.331551,
-            "height": 0.188503,
-            "aspect": 6.411348
-          }
+          "assets/visuals/material-197-q3-p298.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-197-full-p298.jpg",
-            "top": 0.520053,
-            "height": 0.19385,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-197-q4-p298.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-197-full-p298.jpg",
-            "top": 0.713904,
-            "height": 0.239305,
-            "aspect": 5.050279
-          }
+          "assets/visuals/material-197-q5-p298.jpg"
         ]
       ],
       "fullVisuals": [
@@ -15389,44 +12699,19 @@ window.CARD_BANK = {
       ],
       "questionCrops": [
         [
-          {
-            "src": "assets/visuals/material-198-full-p299.jpg",
-            "top": 0.425719,
-            "height": 0.087061,
-            "aspect": 8.293578
-          }
+          "assets/visuals/material-198-q1-p299.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-198-full-p299.jpg",
-            "top": 0.51278,
-            "height": 0.086262,
-            "aspect": 8.37037
-          }
+          "assets/visuals/material-198-q2-p299.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-198-full-p299.jpg",
-            "top": 0.599042,
-            "height": 0.084665,
-            "aspect": 8.528302
-          }
+          "assets/visuals/material-198-q3-p299.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-198-full-p299.jpg",
-            "top": 0.683706,
-            "height": 0.115815,
-            "aspect": 6.234483
-          }
+          "assets/visuals/material-198-q4-p299.jpg"
         ],
         [
-          {
-            "src": "assets/visuals/material-198-full-p299.jpg",
-            "top": 0.799521,
-            "height": 0.200479,
-            "aspect": 3.601594
-          }
+          "assets/visuals/material-198-q5-p299.jpg"
         ]
       ],
       "fullVisuals": [
