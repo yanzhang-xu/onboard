@@ -2,6 +2,7 @@ const INSTALLED_BANK=window.QuestionBankAPI?.getInstalled(),BANK=INSTALLED_BANK?
 const FIXED_GROUP_ORDER=shuffle(BANK.groups.map(g=>g.id),`${BANK.version}:fixed-schedule-v1`);
 const DAILY_MOTTOS=['先估后算，速度翻倍','简算一步，领先一路','数字再多，也有捷径','把复杂拆小，把速度练快','先找关系，再动笔计算','巧算靠方法，提速靠积累','每天十题，稳步提速','看准基期，算得更快','少算一步，多赢一分','练的是简算，涨的是分数','先判断量级，再精确计算','今天的熟练，换考场的从容'];
 function dailyMotto(date){const random=rng(hash(`${date}:motto-v1`));return DAILY_MOTTOS[Math.floor(random()*DAILY_MOTTOS.length)]}
+if(!state.notes||typeof state.notes!=='object')state.notes={};
 function save(){localStorage.setItem(KEY,JSON.stringify(state))}function hash(t){let h=2166136261;for(const c of t){h^=c.charCodeAt(0);h=Math.imul(h,16777619)}return h>>>0}function rng(s){return()=>{s|=0;s=s+0x6D2B79F5|0;let t=Math.imul(s^s>>>15,1|s);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296}}function shuffle(a,s){const o=[...a],r=rng(hash(s));for(let i=o.length-1;i>0;i--){const j=Math.floor(r()*(i+1));[o[i],o[j]]=[o[j],o[i]]}return o}function getGroup(id){return BANK.groups.find(g=>g.id===id)}function assignedGroups(){return new Set(Object.values(state.days).flatMap(d=>d.groupIds||[]))}
 function scheduleOffset(date){const [y,m,d]=date.split('-').map(Number),[fy,fm,fd]=FIRST_DAY.split('-').map(Number);return Math.floor((Date.UTC(y,m-1,d)-Date.UTC(fy,fm-1,fd))/86400000)}
 function scheduledGroups(date){const offset=scheduleOffset(date);return offset<0?[]:FIXED_GROUP_ORDER.slice(offset*2,offset*2+2)}
@@ -34,8 +35,9 @@ function normalizeImportedData(backup){
     const elapsedMs=Number.isFinite(record.timer?.elapsedMs)&&record.timer.elapsedMs>=0?Math.floor(record.timer.elapsedMs):0,started=Boolean(record.timer?.started||elapsedMs||Object.values(answers).some(a=>a.some(Boolean))),finishedAt=Number.isFinite(record.timer?.finishedAt)?record.timer.finishedAt:null;
     days[date]={groupIds,answers,submitted,complete:groupIds.length>0&&groupIds.every(id=>submitted.includes(id)),timer:{elapsedMs,runningSince:null,started,finishedAt}};
   }
-  const wrong=Array.isArray(source.wrong)?source.wrong.filter(x=>x&&validIds.has(x.groupId)&&Number.isInteger(x.index)&&x.index>=0&&x.index<5).map(x=>({groupId:x.groupId,index:x.index})):[];
-  return{days,wrong};
+  const wrong=Array.isArray(source.wrong)?source.wrong.filter(x=>x&&validIds.has(x.groupId)&&Number.isInteger(x.index)&&x.index>=0&&x.index<5).map(x=>({groupId:x.groupId,index:x.index})):[],notes={};
+  if(source.notes&&typeof source.notes==='object'&&!Array.isArray(source.notes))for(const [key,value] of Object.entries(source.notes)){const match=/^(material-\d+):(\d)$/.exec(key);if(match&&validIds.has(match[1])&&Number(match[2])<5&&typeof value==='string')notes[key]=value.slice(0,5000)}
+  return{days,wrong,notes};
 }
 async function importQuizData(file){
   if(!file)return;
@@ -49,6 +51,11 @@ async function importQuizData(file){
 $('#exportDataBtn').onclick=exportQuizData;
 $('#importDataBtn').onclick=()=>$('#importDataFile').click();
 $('#importDataFile').onchange=e=>{importQuizData(e.target.files[0]);e.target.value=''};
+
+function reminderMessage(){const url=location.href.split('?')[0].split('#')[0];return`今天的资料分析 10 题还没完成，记得抽时间刷题。\n${dailyMotto(dayKey)}\n${url}`}
+async function copyReminder(text){try{await navigator.clipboard.writeText(text)}catch(_){const area=document.createElement('textarea');area.value=text;area.style.position='fixed';area.style.opacity='0';document.body.appendChild(area);area.select();document.execCommand('copy');area.remove()}}
+$('#wechatReminderBtn').onclick=async()=>{const text=reminderMessage(),url=location.href.split('?')[0].split('#')[0];if(navigator.share){try{await navigator.share({title:'每日资料分析刷题提醒',text,url});return}catch(error){if(error.name==='AbortError')return}}await copyReminder(text);toast('提醒内容已复制，请粘贴发送到微信')};
+$('#emailReminderBtn').onclick=()=>{const subject=encodeURIComponent('每日资料分析刷题提醒'),body=encodeURIComponent(reminderMessage());location.href=`mailto:?subject=${subject}&body=${body}`};
 
 function timerElapsed(timer){return Math.max(0,timer.elapsedMs+(timer.runningSince?Date.now()-timer.runningSince:0))}
 function formatTimer(ms){const seconds=Math.floor(ms/1000),h=Math.floor(seconds/3600),m=Math.floor(seconds%3600/60),s=seconds%60;return[h,m,s].map(x=>String(x).padStart(2,'0')).join(':')}
@@ -86,6 +93,7 @@ function cropGroupCard(g,n,d=null,review=false){
     const row=document.createElement('div');row.className='answer-row';row.innerHTML=`<b>本组第 ${i+1} 题</b><div></div>`;
     if(review&&!wrongIndexes.has(i)){row.hidden=true}else if(review){row.classList.add('wrong-review-row')}
     for(const l of letters){const b=document.createElement('button');b.textContent=l;b.className='answer-choice';if(chosen[i]===l)b.classList.add('selected');if(submitted&&g.answers[i]===l)b.classList.add('correct');if(submitted&&chosen[i]===l&&chosen[i]!==g.answers[i])b.classList.add('wrong');b.disabled=submitted||review;b.onclick=()=>{const a=d.answers[g.id]||Array(5).fill('');a[i]=l;d.answers[g.id]=a;save();render()};row.querySelector('div').appendChild(b)}
+    if(review&&wrongIndexes.has(i)){const box=document.createElement('div'),label=document.createElement('label'),note=document.createElement('textarea'),key=`${g.id}:${i}`;box.className='wrong-note-box';label.className='wrong-note-label';label.textContent='我的错题解析';note.className='wrong-note';note.rows=3;note.maxLength=5000;note.placeholder='写下错误原因、公式、简算方法或下次要注意的地方…';note.value=state.notes[key]||'';note.oninput=()=>{state.notes[key]=note.value;save()};box.append(label,note);row.appendChild(box)}
     grid.appendChild(row);
   }
   const score=chosen.filter((a,i)=>a===g.answers[i]).length;
