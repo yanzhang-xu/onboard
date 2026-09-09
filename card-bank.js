@@ -140,7 +140,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-003-full-p013.jpg",
-            "top": 0.693154,
+            "top": 0.707824,
             "height": 0.177262,
             "aspect": 6.234483
           }
@@ -148,15 +148,15 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-003-full-p013.jpg",
-            "top": 0.870416,
-            "height": 0.129584,
-            "aspect": 8.528302
+            "top": 0.885086,
+            "height": 0.114914,
+            "aspect": 9.617021
           }
         ],
         [
           {
             "src": "assets/visuals/material-003-full-p014.jpg",
-            "top": 0.087894,
+            "top": 0.107794,
             "height": 0.238806,
             "aspect": 6.277778
           }
@@ -164,7 +164,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-003-full-p014.jpg",
-            "top": 0.3267,
+            "top": 0.3466,
             "height": 0.238806,
             "aspect": 6.277778
           }
@@ -172,9 +172,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-003-full-p014.jpg",
-            "top": 0.565506,
-            "height": 0.376451,
-            "aspect": 3.982379
+            "top": 0.585406,
+            "height": 0.356551,
+            "aspect": 4.204651
           }
         ]
       ],
@@ -234,7 +234,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-004-full-p015.jpg",
-            "top": 0.127395,
+            "top": 0.138889,
             "height": 0.103448,
             "aspect": 8.37037
           }
@@ -242,7 +242,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-004-full-p015.jpg",
-            "top": 0.230843,
+            "top": 0.242337,
             "height": 0.207854,
             "aspect": 4.165899
           }
@@ -250,7 +250,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-004-full-p015.jpg",
-            "top": 0.438697,
+            "top": 0.450192,
             "height": 0.137931,
             "aspect": 6.277778
           }
@@ -258,7 +258,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-004-full-p015.jpg",
-            "top": 0.576628,
+            "top": 0.588123,
             "height": 0.104406,
             "aspect": 8.293578
           }
@@ -266,9 +266,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-004-full-p015.jpg",
-            "top": 0.681034,
-            "height": 0.285441,
-            "aspect": 3.033557
+            "top": 0.692529,
+            "height": 0.273946,
+            "aspect": 3.160839
           }
         ]
       ],
@@ -329,7 +329,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-005-full-p016.jpg",
-            "top": 0.415079,
+            "top": 0.424603,
             "height": 0.085714,
             "aspect": 8.37037
           }
@@ -337,7 +337,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-005-full-p016.jpg",
-            "top": 0.500794,
+            "top": 0.510317,
             "height": 0.085714,
             "aspect": 8.37037
           }
@@ -345,7 +345,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-005-full-p016.jpg",
-            "top": 0.586508,
+            "top": 0.596032,
             "height": 0.114286,
             "aspect": 6.277778
           }
@@ -353,23 +353,23 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-005-full-p016.jpg",
-            "top": 0.700794,
-            "height": 0.299206,
-            "aspect": 2.397878
+            "top": 0.710317,
+            "height": 0.289683,
+            "aspect": 2.476712
           },
           {
             "src": "assets/visuals/material-005-full-p017.jpg",
             "top": 0.0,
-            "height": 0.503788,
-            "aspect": 3.398496
+            "height": 0.526515,
+            "aspect": 3.251799
           }
         ],
         [
           {
             "src": "assets/visuals/material-005-full-p017.jpg",
-            "top": 0.503788,
-            "height": 0.429924,
-            "aspect": 3.982379
+            "top": 0.526515,
+            "height": 0.407197,
+            "aspect": 4.204651
           }
         ]
       ],
@@ -488,14 +488,14 @@ window.CARD_BANK = {
           {
             "src": "assets/visuals/material-007-full-p019.jpg",
             "top": 0.0,
-            "height": 0.120461,
-            "aspect": 6.647059
+            "height": 0.131089,
+            "aspect": 6.108108
           }
         ],
         [
           {
             "src": "assets/visuals/material-007-full-p019.jpg",
-            "top": 0.120461,
+            "top": 0.131089,
             "height": 0.09566,
             "aspect": 8.37037
           }
@@ -503,7 +503,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-007-full-p019.jpg",
-            "top": 0.21612,
+            "top": 0.226749,
             "height": 0.096546,
             "aspect": 8.293578
           }
@@ -511,7 +511,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-007-full-p019.jpg",
-            "top": 0.312666,
+            "top": 0.323295,
             "height": 0.361382,
             "aspect": 2.215686
           }
@@ -519,9 +519,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-007-full-p019.jpg",
-            "top": 0.674048,
-            "height": 0.294951,
-            "aspect": 2.714715
+            "top": 0.684677,
+            "height": 0.284322,
+            "aspect": 2.816199
           }
         ]
       ],
@@ -698,7 +698,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-010-full-p023.jpg",
-            "top": 0.050319,
+            "top": 0.059904,
             "height": 0.115815,
             "aspect": 6.234483
           }
@@ -706,7 +706,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-010-full-p023.jpg",
-            "top": 0.166134,
+            "top": 0.175719,
             "height": 0.115016,
             "aspect": 6.277778
           }
@@ -714,7 +714,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-010-full-p023.jpg",
-            "top": 0.28115,
+            "top": 0.290735,
             "height": 0.115815,
             "aspect": 6.234483
           }
@@ -722,7 +722,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-010-full-p023.jpg",
-            "top": 0.396965,
+            "top": 0.40655,
             "height": 0.371406,
             "aspect": 1.944086
           }
@@ -730,9 +730,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-010-full-p023.jpg",
-            "top": 0.768371,
-            "height": 0.231629,
-            "aspect": 3.117241
+            "top": 0.777955,
+            "height": 0.222045,
+            "aspect": 3.251799
           }
         ]
       ],
@@ -794,7 +794,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-011-full-p024.jpg",
-            "top": 0.491789,
+            "top": 0.502161,
             "height": 0.092481,
             "aspect": 8.448598
           }
@@ -802,7 +802,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-011-full-p024.jpg",
-            "top": 0.58427,
+            "top": 0.594641,
             "height": 0.125324,
             "aspect": 6.234483
           }
@@ -810,7 +810,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-011-full-p024.jpg",
-            "top": 0.709594,
+            "top": 0.719965,
             "height": 0.093345,
             "aspect": 8.37037
           }
@@ -818,23 +818,23 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-011-full-p024.jpg",
-            "top": 0.802939,
-            "height": 0.197061,
-            "aspect": 3.964912
+            "top": 0.81331,
+            "height": 0.18669,
+            "aspect": 4.185185
           },
           {
             "src": "assets/visuals/material-011-full-p025.jpg",
             "top": 0.0,
-            "height": 0.701058,
-            "aspect": 1.70566
+            "height": 0.716931,
+            "aspect": 1.667897
           }
         ],
         [
           {
             "src": "assets/visuals/material-011-full-p025.jpg",
-            "top": 0.701058,
-            "height": 0.252646,
-            "aspect": 4.732984
+            "top": 0.716931,
+            "height": 0.236772,
+            "aspect": 5.050279
           }
         ]
       ],
@@ -1125,14 +1125,14 @@ window.CARD_BANK = {
           {
             "src": "assets/visuals/material-016-full-p031.jpg",
             "top": 0.0,
-            "height": 0.172414,
-            "aspect": 6.953846
+            "height": 0.188329,
+            "aspect": 6.366197
           }
         ],
         [
           {
             "src": "assets/visuals/material-016-full-p031.jpg",
-            "top": 0.172414,
+            "top": 0.188329,
             "height": 0.143236,
             "aspect": 8.37037
           }
@@ -1140,7 +1140,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-016-full-p031.jpg",
-            "top": 0.31565,
+            "top": 0.331565,
             "height": 0.144562,
             "aspect": 8.293578
           }
@@ -1148,7 +1148,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-016-full-p031.jpg",
-            "top": 0.460212,
+            "top": 0.476127,
             "height": 0.190981,
             "aspect": 6.277778
           }
@@ -1156,9 +1156,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-016-full-p031.jpg",
-            "top": 0.651194,
-            "height": 0.302387,
-            "aspect": 3.964912
+            "top": 0.667109,
+            "height": 0.286472,
+            "aspect": 4.185185
           }
         ]
       ],
@@ -1279,7 +1279,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-018-full-p034.jpg",
-            "top": 0.386581,
+            "top": 0.396166,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -1287,7 +1287,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-018-full-p034.jpg",
-            "top": 0.472843,
+            "top": 0.482428,
             "height": 0.087061,
             "aspect": 8.293578
           }
@@ -1295,7 +1295,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-018-full-p034.jpg",
-            "top": 0.559904,
+            "top": 0.569489,
             "height": 0.114217,
             "aspect": 6.321678
           }
@@ -1303,7 +1303,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-018-full-p034.jpg",
-            "top": 0.674121,
+            "top": 0.683706,
             "height": 0.144569,
             "aspect": 4.994475
           }
@@ -1311,9 +1311,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-018-full-p034.jpg",
-            "top": 0.81869,
-            "height": 0.18131,
-            "aspect": 3.982379
+            "top": 0.828275,
+            "height": 0.171725,
+            "aspect": 4.204651
           },
           {
             "src": "assets/visuals/material-018-full-p035.jpg",
@@ -1496,7 +1496,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-021-full-p038.jpg",
-            "top": 0.180952,
+            "top": 0.190476,
             "height": 0.086508,
             "aspect": 8.293578
           }
@@ -1504,7 +1504,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-021-full-p038.jpg",
-            "top": 0.26746,
+            "top": 0.276984,
             "height": 0.085714,
             "aspect": 8.37037
           }
@@ -1512,7 +1512,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-021-full-p038.jpg",
-            "top": 0.353175,
+            "top": 0.362698,
             "height": 0.115079,
             "aspect": 6.234483
           }
@@ -1520,7 +1520,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-021-full-p038.jpg",
-            "top": 0.468254,
+            "top": 0.477778,
             "height": 0.257143,
             "aspect": 2.790123
           }
@@ -1528,9 +1528,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-021-full-p038.jpg",
-            "top": 0.725397,
-            "height": 0.274603,
-            "aspect": 2.612717
+            "top": 0.734921,
+            "height": 0.265079,
+            "aspect": 2.706587
           }
         ]
       ],
@@ -1592,7 +1592,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-022-full-p039.jpg",
-            "top": 0.43093,
+            "top": 0.441355,
             "height": 0.093831,
             "aspect": 8.37037
           }
@@ -1600,7 +1600,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-022-full-p039.jpg",
-            "top": 0.524761,
+            "top": 0.535187,
             "height": 0.156386,
             "aspect": 5.022222
           }
@@ -1608,7 +1608,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-022-full-p039.jpg",
-            "top": 0.681147,
+            "top": 0.691573,
             "height": 0.0947,
             "aspect": 8.293578
           }
@@ -1616,7 +1616,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-022-full-p039.jpg",
-            "top": 0.775847,
+            "top": 0.786273,
             "height": 0.0947,
             "aspect": 8.293578
           }
@@ -1624,9 +1624,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-022-full-p039.jpg",
-            "top": 0.870547,
-            "height": 0.129453,
-            "aspect": 6.067114
+            "top": 0.880973,
+            "height": 0.119027,
+            "aspect": 6.59854
           },
           {
             "src": "assets/visuals/material-022-full-p040.jpg",
@@ -1692,7 +1692,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-023-full-p041.jpg",
-            "top": 0.280788,
+            "top": 0.292611,
             "height": 0.106404,
             "aspect": 8.37037
           }
@@ -1700,7 +1700,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-023-full-p041.jpg",
-            "top": 0.387192,
+            "top": 0.399015,
             "height": 0.107389,
             "aspect": 8.293578
           }
@@ -1708,7 +1708,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-023-full-p041.jpg",
-            "top": 0.494581,
+            "top": 0.506404,
             "height": 0.105419,
             "aspect": 8.448598
           }
@@ -1716,7 +1716,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-023-full-p041.jpg",
-            "top": 0.6,
+            "top": 0.611823,
             "height": 0.212808,
             "aspect": 4.185185
           }
@@ -1724,9 +1724,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-023-full-p041.jpg",
-            "top": 0.812808,
-            "height": 0.152709,
-            "aspect": 5.832258
+            "top": 0.824631,
+            "height": 0.140887,
+            "aspect": 6.321678
           }
         ]
       ],
@@ -1844,7 +1844,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-025-full-p043.jpg",
-            "top": 0.480916,
+            "top": 0.491094,
             "height": 0.091603,
             "aspect": 8.37037
           }
@@ -1852,7 +1852,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-025-full-p043.jpg",
-            "top": 0.572519,
+            "top": 0.582697,
             "height": 0.092451,
             "aspect": 8.293578
           }
@@ -1860,7 +1860,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-025-full-p043.jpg",
-            "top": 0.66497,
+            "top": 0.675148,
             "height": 0.090755,
             "aspect": 8.448598
           }
@@ -1868,23 +1868,23 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-025-full-p043.jpg",
-            "top": 0.755725,
-            "height": 0.244275,
-            "aspect": 3.138889
+            "top": 0.765903,
+            "height": 0.234097,
+            "aspect": 3.275362
           },
           {
             "src": "assets/visuals/material-025-full-p044.jpg",
             "top": 0.0,
-            "height": 0.461905,
-            "aspect": 4.659794
+            "height": 0.490476,
+            "aspect": 4.38835
           }
         ],
         [
           {
             "src": "assets/visuals/material-025-full-p044.jpg",
-            "top": 0.461905,
-            "height": 0.454762,
-            "aspect": 4.732984
+            "top": 0.490476,
+            "height": 0.42619,
+            "aspect": 5.050279
           }
         ]
       ],
@@ -1944,7 +1944,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-026-full-p044.jpg",
-            "top": 0.72476,
+            "top": 0.739183,
             "height": 0.129808,
             "aspect": 8.37037
           }
@@ -1952,21 +1952,13 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-026-full-p044.jpg",
-            "top": 0.854567,
-            "height": 0.145433,
-            "aspect": 7.471074
+            "top": 0.86899,
+            "height": 0.13101,
+            "aspect": 8.293578
           },
           {
             "src": "assets/visuals/material-026-full-p045.jpg",
             "top": 0.0,
-            "height": 0.178108,
-            "aspect": 9.416667
-          }
-        ],
-        [
-          {
-            "src": "assets/visuals/material-026-full-p045.jpg",
-            "top": 0.178108,
             "height": 0.200371,
             "aspect": 8.37037
           }
@@ -1974,7 +1966,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-026-full-p045.jpg",
-            "top": 0.378479,
+            "top": 0.200371,
             "height": 0.200371,
             "aspect": 8.37037
           }
@@ -1982,9 +1974,17 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-026-full-p045.jpg",
-            "top": 0.57885,
-            "height": 0.356215,
-            "aspect": 4.708333
+            "top": 0.400742,
+            "height": 0.200371,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-026-full-p045.jpg",
+            "top": 0.601113,
+            "height": 0.333952,
+            "aspect": 5.022222
           }
         ]
       ],
@@ -2161,7 +2161,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-029-full-p048.jpg",
-            "top": 0.586777,
+            "top": 0.597796,
             "height": 0.099174,
             "aspect": 8.37037
           }
@@ -2169,7 +2169,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-029-full-p048.jpg",
-            "top": 0.68595,
+            "top": 0.69697,
             "height": 0.100092,
             "aspect": 8.293578
           }
@@ -2177,7 +2177,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-029-full-p048.jpg",
-            "top": 0.786042,
+            "top": 0.797062,
             "height": 0.099174,
             "aspect": 8.37037
           }
@@ -2185,23 +2185,23 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-029-full-p048.jpg",
-            "top": 0.885216,
-            "height": 0.114784,
-            "aspect": 7.232
+            "top": 0.896235,
+            "height": 0.103765,
+            "aspect": 8.0
           },
           {
             "src": "assets/visuals/material-029-full-p049.jpg",
             "top": 0.0,
-            "height": 0.369748,
-            "aspect": 6.848485
+            "height": 0.403361,
+            "aspect": 6.277778
           }
         ],
         [
           {
             "src": "assets/visuals/material-029-full-p049.jpg",
-            "top": 0.369748,
-            "height": 0.532213,
-            "aspect": 4.757895
+            "top": 0.403361,
+            "height": 0.498599,
+            "aspect": 5.078652
           }
         ]
       ],
@@ -2432,7 +2432,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-033-full-p053.jpg",
-            "top": 0.332754,
+            "top": 0.34318,
             "height": 0.125109,
             "aspect": 6.277778
           }
@@ -2440,7 +2440,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-033-full-p053.jpg",
-            "top": 0.457863,
+            "top": 0.468288,
             "height": 0.0947,
             "aspect": 8.293578
           }
@@ -2448,7 +2448,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-033-full-p053.jpg",
-            "top": 0.552563,
+            "top": 0.562989,
             "height": 0.092963,
             "aspect": 8.448598
           }
@@ -2456,7 +2456,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-033-full-p053.jpg",
-            "top": 0.645526,
+            "top": 0.655951,
             "height": 0.093831,
             "aspect": 8.37037
           }
@@ -2464,9 +2464,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-033-full-p053.jpg",
-            "top": 0.739357,
-            "height": 0.230235,
-            "aspect": 3.411321
+            "top": 0.749783,
+            "height": 0.219809,
+            "aspect": 3.573123
           }
         ]
       ],
@@ -2527,7 +2527,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-034-full-p054.jpg",
-            "top": 0.476038,
+            "top": 0.485623,
             "height": 0.085463,
             "aspect": 8.448598
           }
@@ -2535,7 +2535,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-034-full-p054.jpg",
-            "top": 0.561502,
+            "top": 0.571086,
             "height": 0.115016,
             "aspect": 6.277778
           }
@@ -2543,7 +2543,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-034-full-p054.jpg",
-            "top": 0.676518,
+            "top": 0.686102,
             "height": 0.115016,
             "aspect": 6.277778
           }
@@ -2551,7 +2551,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-034-full-p054.jpg",
-            "top": 0.791534,
+            "top": 0.801118,
             "height": 0.116613,
             "aspect": 6.191781
           }
@@ -2559,9 +2559,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-034-full-p054.jpg",
-            "top": 0.908147,
-            "height": 0.091853,
-            "aspect": 7.86087
+            "top": 0.917732,
+            "height": 0.082268,
+            "aspect": 8.776699
           },
           {
             "src": "assets/visuals/material-034-full-p055.jpg",
@@ -2629,7 +2629,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-035-full-p055.jpg",
-            "top": 0.340405,
+            "top": 0.351977,
             "height": 0.138862,
             "aspect": 6.277778
           }
@@ -2637,7 +2637,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-035-full-p055.jpg",
-            "top": 0.479267,
+            "top": 0.490839,
             "height": 0.104147,
             "aspect": 8.37037
           }
@@ -2645,7 +2645,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-035-full-p055.jpg",
-            "top": 0.583414,
+            "top": 0.594986,
             "height": 0.104147,
             "aspect": 8.37037
           }
@@ -2653,7 +2653,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-035-full-p055.jpg",
-            "top": 0.68756,
+            "top": 0.699132,
             "height": 0.138862,
             "aspect": 6.277778
           }
@@ -2661,9 +2661,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-035-full-p055.jpg",
-            "top": 0.826422,
-            "height": 0.173578,
-            "aspect": 5.022222
+            "top": 0.837994,
+            "height": 0.162006,
+            "aspect": 5.380952
           }
         ]
       ],
@@ -2780,7 +2780,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-037-full-p057.jpg",
-            "top": 0.62268,
+            "top": 0.635052,
             "height": 0.149485,
             "aspect": 6.234483
           }
@@ -2788,15 +2788,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-037-full-p057.jpg",
-            "top": 0.772165,
-            "height": 0.227835,
-            "aspect": 4.090498
+            "top": 0.784536,
+            "height": 0.215464,
+            "aspect": 4.325359
+          },
+          {
+            "src": "assets/visuals/material-037-full-p058.jpg",
+            "top": 0.0,
+            "height": 0.153605,
+            "aspect": 9.22449
           }
         ],
         [
           {
             "src": "assets/visuals/material-037-full-p058.jpg",
-            "top": 0.134796,
+            "top": 0.153605,
             "height": 0.169279,
             "aspect": 8.37037
           }
@@ -2804,7 +2810,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-037-full-p058.jpg",
-            "top": 0.304075,
+            "top": 0.322884,
             "height": 0.340125,
             "aspect": 4.165899
           }
@@ -2812,9 +2818,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-037-full-p058.jpg",
-            "top": 0.644201,
-            "height": 0.30094,
-            "aspect": 4.708333
+            "top": 0.663009,
+            "height": 0.282132,
+            "aspect": 5.022222
           }
         ]
       ],
@@ -2931,14 +2937,14 @@ window.CARD_BANK = {
           {
             "src": "assets/visuals/material-039-full-p060.jpg",
             "top": 0.0,
-            "height": 0.15493,
-            "aspect": 7.471074
+            "height": 0.170294,
+            "aspect": 6.796992
           }
         ],
         [
           {
             "src": "assets/visuals/material-039-full-p060.jpg",
-            "top": 0.15493,
+            "top": 0.170294,
             "height": 0.184379,
             "aspect": 6.277778
           }
@@ -2946,7 +2952,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-039-full-p060.jpg",
-            "top": 0.339309,
+            "top": 0.354673,
             "height": 0.277849,
             "aspect": 4.165899
           }
@@ -2954,7 +2960,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-039-full-p060.jpg",
-            "top": 0.617157,
+            "top": 0.632522,
             "height": 0.138284,
             "aspect": 8.37037
           }
@@ -2962,9 +2968,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-039-full-p060.jpg",
-            "top": 0.755442,
-            "height": 0.199744,
-            "aspect": 5.794872
+            "top": 0.770807,
+            "height": 0.184379,
+            "aspect": 6.277778
           }
         ]
       ],
@@ -3084,7 +3090,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-041-full-p062.jpg",
-            "top": 0.594243,
+            "top": 0.605385,
             "height": 0.100279,
             "aspect": 8.37037
           }
@@ -3092,7 +3098,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-041-full-p062.jpg",
-            "top": 0.694522,
+            "top": 0.705664,
             "height": 0.101207,
             "aspect": 8.293578
           }
@@ -3100,21 +3106,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-041-full-p062.jpg",
-            "top": 0.795729,
-            "height": 0.204271,
-            "aspect": 4.109091
+            "top": 0.806871,
+            "height": 0.193129,
+            "aspect": 4.346154
           },
           {
             "src": "assets/visuals/material-041-full-p063.jpg",
             "top": 0.0,
-            "height": 0.195228,
-            "aspect": 10.044444
+            "height": 0.221258,
+            "aspect": 8.862745
           }
         ],
         [
           {
             "src": "assets/visuals/material-041-full-p063.jpg",
-            "top": 0.195228,
+            "top": 0.221258,
             "height": 0.314534,
             "aspect": 6.234483
           }
@@ -3122,9 +3128,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-041-full-p063.jpg",
-            "top": 0.509761,
-            "height": 0.414317,
-            "aspect": 4.732984
+            "top": 0.535792,
+            "height": 0.388286,
+            "aspect": 5.050279
           }
         ]
       ],
@@ -3299,7 +3305,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-044-full-p066.jpg",
-            "top": 0.505872,
+            "top": 0.51594,
             "height": 0.089765,
             "aspect": 8.448598
           }
@@ -3307,7 +3313,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-044-full-p066.jpg",
-            "top": 0.595638,
+            "top": 0.605705,
             "height": 0.120805,
             "aspect": 6.277778
           }
@@ -3315,7 +3321,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-044-full-p066.jpg",
-            "top": 0.716443,
+            "top": 0.72651,
             "height": 0.121644,
             "aspect": 6.234483
           }
@@ -3323,7 +3329,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-044-full-p066.jpg",
-            "top": 0.838087,
+            "top": 0.848154,
             "height": 0.090604,
             "aspect": 8.37037
           }
@@ -3450,7 +3456,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-046-full-p068.jpg",
-            "top": 0.563927,
+            "top": 0.577626,
             "height": 0.124429,
             "aspect": 8.293578
           }
@@ -3458,7 +3464,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-046-full-p068.jpg",
-            "top": 0.688356,
+            "top": 0.702055,
             "height": 0.123288,
             "aspect": 8.37037
           }
@@ -3466,21 +3472,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-046-full-p068.jpg",
-            "top": 0.811644,
-            "height": 0.188356,
-            "aspect": 5.478788
+            "top": 0.825342,
+            "height": 0.174658,
+            "aspect": 5.908497
           },
           {
             "src": "assets/visuals/material-046-full-p069.jpg",
             "top": 0.0,
-            "height": 0.215457,
-            "aspect": 9.826087
+            "height": 0.24356,
+            "aspect": 8.692308
           }
         ],
         [
           {
             "src": "assets/visuals/material-046-full-p069.jpg",
-            "top": 0.215457,
+            "top": 0.24356,
             "height": 0.255269,
             "aspect": 8.293578
           }
@@ -3488,9 +3494,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-046-full-p069.jpg",
-            "top": 0.470726,
-            "height": 0.447307,
-            "aspect": 4.732984
+            "top": 0.498829,
+            "height": 0.419204,
+            "aspect": 5.050279
           }
         ]
       ],
@@ -3550,15 +3556,15 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-047-full-p069.jpg",
-            "top": 0.818182,
-            "height": 0.181818,
-            "aspect": 6.026667
+            "top": 0.832727,
+            "height": 0.167273,
+            "aspect": 6.550725
           }
         ],
         [
           {
             "src": "assets/visuals/material-047-full-p070.jpg",
-            "top": 0.079439,
+            "top": 0.098131,
             "height": 0.169782,
             "aspect": 8.293578
           }
@@ -3566,7 +3572,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-047-full-p070.jpg",
-            "top": 0.249221,
+            "top": 0.267913,
             "height": 0.224299,
             "aspect": 6.277778
           }
@@ -3574,7 +3580,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-047-full-p070.jpg",
-            "top": 0.47352,
+            "top": 0.492212,
             "height": 0.225857,
             "aspect": 6.234483
           }
@@ -3582,9 +3588,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-047-full-p070.jpg",
-            "top": 0.699377,
-            "height": 0.246106,
-            "aspect": 5.721519
+            "top": 0.718069,
+            "height": 0.227414,
+            "aspect": 6.191781
           }
         ]
       ],
@@ -3644,21 +3650,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-048-full-p070.jpg",
-            "top": 0.808197,
-            "height": 0.191803,
-            "aspect": 7.726496
+            "top": 0.827869,
+            "height": 0.172131,
+            "aspect": 8.609524
           },
           {
             "src": "assets/visuals/material-048-full-p071.jpg",
             "top": 0.0,
-            "height": 0.14792,
-            "aspect": 9.416667
+            "height": 0.16641,
+            "aspect": 8.37037
           }
         ],
         [
           {
             "src": "assets/visuals/material-048-full-p071.jpg",
-            "top": 0.14792,
+            "top": 0.16641,
             "height": 0.164869,
             "aspect": 8.448598
           }
@@ -3666,7 +3672,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-048-full-p071.jpg",
-            "top": 0.312789,
+            "top": 0.331279,
             "height": 0.169492,
             "aspect": 8.218182
           }
@@ -3674,7 +3680,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-048-full-p071.jpg",
-            "top": 0.48228,
+            "top": 0.50077,
             "height": 0.167951,
             "aspect": 8.293578
           }
@@ -3682,9 +3688,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-048-full-p071.jpg",
-            "top": 0.650231,
-            "height": 0.29584,
-            "aspect": 4.708333
+            "top": 0.668721,
+            "height": 0.27735,
+            "aspect": 5.022222
           }
         ]
       ],
@@ -3861,7 +3867,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-051-full-p074.jpg",
-            "top": 0.368146,
+            "top": 0.37859,
             "height": 0.094865,
             "aspect": 8.293578
           }
@@ -3869,7 +3875,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-051-full-p074.jpg",
-            "top": 0.463011,
+            "top": 0.473455,
             "height": 0.093124,
             "aspect": 8.448598
           }
@@ -3877,7 +3883,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-051-full-p074.jpg",
-            "top": 0.556136,
+            "top": 0.56658,
             "height": 0.126197,
             "aspect": 6.234483
           }
@@ -3885,7 +3891,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-051-full-p074.jpg",
-            "top": 0.682332,
+            "top": 0.692776,
             "height": 0.094865,
             "aspect": 8.293578
           }
@@ -3893,9 +3899,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-051-full-p074.jpg",
-            "top": 0.777198,
-            "height": 0.222802,
-            "aspect": 3.53125
+            "top": 0.787641,
+            "height": 0.212359,
+            "aspect": 3.704918
           },
           {
             "src": "assets/visuals/material-051-full-p075.jpg",
@@ -4018,21 +4024,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-053-full-p076.jpg",
-            "top": 0.526932,
-            "height": 0.473068,
-            "aspect": 2.237624
+            "top": 0.540984,
+            "height": 0.459016,
+            "aspect": 2.306122
           },
           {
             "src": "assets/visuals/material-053-full-p077.jpg",
             "top": 0.0,
-            "height": 0.114319,
-            "aspect": 9.131313
+            "height": 0.128176,
+            "aspect": 8.144144
           }
         ],
         [
           {
             "src": "assets/visuals/material-053-full-p077.jpg",
-            "top": 0.114319,
+            "top": 0.128176,
             "height": 0.166282,
             "aspect": 6.277778
           }
@@ -4040,7 +4046,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-053-full-p077.jpg",
-            "top": 0.2806,
+            "top": 0.294457,
             "height": 0.166282,
             "aspect": 6.277778
           }
@@ -4048,7 +4054,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-053-full-p077.jpg",
-            "top": 0.446882,
+            "top": 0.460739,
             "height": 0.209007,
             "aspect": 4.994475
           }
@@ -4056,9 +4062,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-053-full-p077.jpg",
-            "top": 0.655889,
-            "height": 0.303695,
-            "aspect": 3.437262
+            "top": 0.669746,
+            "height": 0.289838,
+            "aspect": 3.601594
           }
         ]
       ],
@@ -4237,7 +4243,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-056-full-p080.jpg",
-            "top": 0.712821,
+            "top": 0.725128,
             "height": 0.108718,
             "aspect": 8.528302
           }
@@ -4245,15 +4251,15 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-056-full-p080.jpg",
-            "top": 0.821538,
-            "height": 0.178462,
-            "aspect": 5.195402
+            "top": 0.833846,
+            "height": 0.166154,
+            "aspect": 5.580247
           }
         ],
         [
           {
             "src": "assets/visuals/material-056-full-p081.jpg",
-            "top": 0.046326,
+            "top": 0.055911,
             "height": 0.083866,
             "aspect": 8.609524
           }
@@ -4261,7 +4267,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-056-full-p081.jpg",
-            "top": 0.130192,
+            "top": 0.139776,
             "height": 0.111821,
             "aspect": 6.457143
           }
@@ -4269,9 +4275,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-056-full-p081.jpg",
-            "top": 0.242013,
-            "height": 0.757987,
-            "aspect": 0.952582
+            "top": 0.251597,
+            "height": 0.748403,
+            "aspect": 0.964781
           },
           {
             "src": "assets/visuals/material-056-full-p082.jpg",
@@ -4627,7 +4633,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-062-full-p089.jpg",
-            "top": 0.179221,
+            "top": 0.18961,
             "height": 0.186147,
             "aspect": 4.204651
           }
@@ -4637,7 +4643,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-062-full-p089.jpg",
-            "top": 0.45974,
+            "top": 0.47013,
             "height": 0.249351,
             "aspect": 3.138889
           }
@@ -4645,9 +4651,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-062-full-p089.jpg",
-            "top": 0.709091,
-            "height": 0.290909,
-            "aspect": 2.690476
+            "top": 0.719481,
+            "height": 0.280519,
+            "aspect": 2.790123
           },
           {
             "src": "assets/visuals/material-062-full-p090.jpg",
@@ -4713,7 +4719,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-063-full-p090.jpg",
-            "top": 0.5632,
+            "top": 0.5824,
             "height": 0.1728,
             "aspect": 8.37037
           }
@@ -4721,15 +4727,15 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-063-full-p090.jpg",
-            "top": 0.736,
-            "height": 0.264,
-            "aspect": 5.478788
+            "top": 0.7552,
+            "height": 0.2448,
+            "aspect": 5.908497
           }
         ],
         [
           {
             "src": "assets/visuals/material-063-full-p091.jpg",
-            "top": 0.073548,
+            "top": 0.089032,
             "height": 0.139355,
             "aspect": 8.37037
           }
@@ -4737,7 +4743,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-063-full-p091.jpg",
-            "top": 0.212903,
+            "top": 0.228387,
             "height": 0.543226,
             "aspect": 2.147268
           }
@@ -4745,9 +4751,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-063-full-p091.jpg",
-            "top": 0.756129,
-            "height": 0.19871,
-            "aspect": 5.87013
+            "top": 0.771613,
+            "height": 0.183226,
+            "aspect": 6.366197
           }
         ]
       ],
@@ -4807,7 +4813,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-064-full-p092.jpg",
-            "top": 0.270635,
+            "top": 0.280159,
             "height": 0.086508,
             "aspect": 8.293578
           }
@@ -4815,7 +4821,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-064-full-p092.jpg",
-            "top": 0.357143,
+            "top": 0.366667,
             "height": 0.085714,
             "aspect": 8.37037
           }
@@ -4823,7 +4829,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-064-full-p092.jpg",
-            "top": 0.442857,
+            "top": 0.452381,
             "height": 0.086508,
             "aspect": 8.293578
           }
@@ -4831,7 +4837,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-064-full-p092.jpg",
-            "top": 0.529365,
+            "top": 0.538889,
             "height": 0.211905,
             "aspect": 3.385768
           }
@@ -4839,9 +4845,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-064-full-p092.jpg",
-            "top": 0.74127,
-            "height": 0.25873,
-            "aspect": 2.773006
+            "top": 0.750794,
+            "height": 0.249206,
+            "aspect": 2.878981
           }
         ]
       ],
@@ -5018,7 +5024,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-067-full-p096.jpg",
-            "top": 0.152982,
+            "top": 0.163354,
             "height": 0.378565,
             "aspect": 2.063927
           }
@@ -5026,7 +5032,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-067-full-p096.jpg",
-            "top": 0.531547,
+            "top": 0.541919,
             "height": 0.093345,
             "aspect": 8.37037
           }
@@ -5034,7 +5040,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-067-full-p096.jpg",
-            "top": 0.624892,
+            "top": 0.635264,
             "height": 0.093345,
             "aspect": 8.37037
           }
@@ -5042,7 +5048,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-067-full-p096.jpg",
-            "top": 0.718237,
+            "top": 0.728608,
             "height": 0.125324,
             "aspect": 6.234483
           }
@@ -5050,9 +5056,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-067-full-p096.jpg",
-            "top": 0.843561,
-            "height": 0.156439,
-            "aspect": 4.994475
+            "top": 0.853933,
+            "height": 0.146067,
+            "aspect": 5.349112
           }
         ]
       ],
@@ -5111,7 +5117,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-068-full-p097.jpg",
-            "top": 0.677092,
+            "top": 0.687236,
             "height": 0.153001,
             "aspect": 4.994475
           }
@@ -5119,7 +5125,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-068-full-p097.jpg",
-            "top": 0.830093,
+            "top": 0.840237,
             "height": 0.12257,
             "aspect": 6.234483
           }
@@ -5128,14 +5134,14 @@ window.CARD_BANK = {
           {
             "src": "assets/visuals/material-068-full-p098.jpg",
             "top": 0.0,
-            "height": 0.267327,
-            "aspect": 5.580247
+            "height": 0.287129,
+            "aspect": 5.195402
           }
         ],
         [
           {
             "src": "assets/visuals/material-068-full-p098.jpg",
-            "top": 0.267327,
+            "top": 0.287129,
             "height": 0.239274,
             "aspect": 6.234483
           }
@@ -5143,9 +5149,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-068-full-p098.jpg",
-            "top": 0.506601,
-            "height": 0.435644,
-            "aspect": 3.424242
+            "top": 0.526403,
+            "height": 0.415842,
+            "aspect": 3.587302
           }
         ]
       ],
@@ -5265,7 +5271,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-070-full-p100.jpg",
-            "top": 0.673713,
+            "top": 0.684743,
             "height": 0.100184,
             "aspect": 8.293578
           }
@@ -5273,7 +5279,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-070-full-p100.jpg",
-            "top": 0.773897,
+            "top": 0.784926,
             "height": 0.099265,
             "aspect": 8.37037
           }
@@ -5281,15 +5287,15 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-070-full-p100.jpg",
-            "top": 0.873162,
-            "height": 0.126838,
-            "aspect": 6.550725
+            "top": 0.884191,
+            "height": 0.115809,
+            "aspect": 7.174603
           }
         ],
         [
           {
             "src": "assets/visuals/material-070-full-p101.jpg",
-            "top": 0.151899,
+            "top": 0.182278,
             "height": 0.275949,
             "aspect": 8.293578
           }
@@ -5297,9 +5303,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-070-full-p101.jpg",
-            "top": 0.427848,
-            "height": 0.483544,
-            "aspect": 4.732984
+            "top": 0.458228,
+            "height": 0.453165,
+            "aspect": 5.050279
           }
         ]
       ],
@@ -5359,7 +5365,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-071-full-p101.jpg",
-            "top": 0.63944,
+            "top": 0.653442,
             "height": 0.169195,
             "aspect": 6.234483
           }
@@ -5367,15 +5373,15 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-071-full-p101.jpg",
-            "top": 0.808635,
-            "height": 0.191365,
-            "aspect": 5.512195
+            "top": 0.822637,
+            "height": 0.177363,
+            "aspect": 5.947368
           }
         ],
         [
           {
             "src": "assets/visuals/material-071-full-p102.jpg",
-            "top": 0.075301,
+            "top": 0.093373,
             "height": 0.218373,
             "aspect": 6.234483
           }
@@ -5383,7 +5389,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-071-full-p102.jpg",
-            "top": 0.293675,
+            "top": 0.311747,
             "height": 0.417169,
             "aspect": 3.263538
           }
@@ -5391,9 +5397,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-071-full-p102.jpg",
-            "top": 0.710843,
-            "height": 0.236446,
-            "aspect": 5.757962
+            "top": 0.728916,
+            "height": 0.218373,
+            "aspect": 6.234483
           }
         ]
       ],
@@ -5453,7 +5459,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-072-full-p103.jpg",
-            "top": 0.338658,
+            "top": 0.348243,
             "height": 0.087859,
             "aspect": 8.218182
           }
@@ -5461,7 +5467,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-072-full-p103.jpg",
-            "top": 0.426518,
+            "top": 0.436102,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -5469,7 +5475,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-072-full-p103.jpg",
-            "top": 0.51278,
+            "top": 0.522364,
             "height": 0.085463,
             "aspect": 8.448598
           }
@@ -5477,7 +5483,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-072-full-p103.jpg",
-            "top": 0.598243,
+            "top": 0.607827,
             "height": 0.115815,
             "aspect": 6.234483
           }
@@ -5485,9 +5491,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-072-full-p103.jpg",
-            "top": 0.714058,
-            "height": 0.285942,
-            "aspect": 2.52514
+            "top": 0.723642,
+            "height": 0.276358,
+            "aspect": 2.612717
           }
         ]
       ],
@@ -5605,7 +5611,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-074-full-p105.jpg",
-            "top": 0.497997,
+            "top": 0.514019,
             "height": 0.144192,
             "aspect": 8.37037
           }
@@ -5613,7 +5619,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-074-full-p105.jpg",
-            "top": 0.64219,
+            "top": 0.658211,
             "height": 0.144192,
             "aspect": 8.37037
           }
@@ -5621,7 +5627,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-074-full-p105.jpg",
-            "top": 0.786382,
+            "top": 0.802403,
             "height": 0.145527,
             "aspect": 8.293578
           }
@@ -5630,16 +5636,16 @@ window.CARD_BANK = {
           {
             "src": "assets/visuals/material-074-full-p106.jpg",
             "top": 0.0,
-            "height": 0.606957,
-            "aspect": 2.590258
+            "height": 0.627826,
+            "aspect": 2.504155
           }
         ],
         [
           {
             "src": "assets/visuals/material-074-full-p106.jpg",
-            "top": 0.606957,
-            "height": 0.332174,
-            "aspect": 4.732984
+            "top": 0.627826,
+            "height": 0.311304,
+            "aspect": 5.050279
           }
         ]
       ],
@@ -5755,7 +5761,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-076-full-p108.jpg",
-            "top": 0.039936,
+            "top": 0.049521,
             "height": 0.087859,
             "aspect": 8.218182
           }
@@ -5763,7 +5769,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-076-full-p108.jpg",
-            "top": 0.127796,
+            "top": 0.13738,
             "height": 0.304313,
             "aspect": 2.372703
           }
@@ -5771,7 +5777,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-076-full-p108.jpg",
-            "top": 0.432109,
+            "top": 0.441693,
             "height": 0.115016,
             "aspect": 6.277778
           }
@@ -5779,7 +5785,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-076-full-p108.jpg",
-            "top": 0.547125,
+            "top": 0.556709,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -5787,9 +5793,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-076-full-p108.jpg",
-            "top": 0.633387,
-            "height": 0.366613,
-            "aspect": 1.969499
+            "top": 0.642971,
+            "height": 0.357029,
+            "aspect": 2.022371
           }
         ]
       ],
@@ -5850,7 +5856,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-077-full-p109.jpg",
-            "top": 0.739241,
+            "top": 0.749367,
             "height": 0.121519,
             "aspect": 6.277778
           }
@@ -5858,15 +5864,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-077-full-p109.jpg",
-            "top": 0.860759,
-            "height": 0.139241,
-            "aspect": 5.478788
+            "top": 0.870886,
+            "height": 0.129114,
+            "aspect": 5.908497
+          },
+          {
+            "src": "assets/visuals/material-077-full-p110.jpg",
+            "top": 0.0,
+            "height": 0.165837,
+            "aspect": 9.04
           }
         ],
         [
           {
             "src": "assets/visuals/material-077-full-p110.jpg",
-            "top": 0.145937,
+            "top": 0.165837,
             "height": 0.238806,
             "aspect": 6.277778
           }
@@ -5874,7 +5886,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-077-full-p110.jpg",
-            "top": 0.384743,
+            "top": 0.404643,
             "height": 0.240464,
             "aspect": 6.234483
           }
@@ -5882,9 +5894,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-077-full-p110.jpg",
-            "top": 0.625207,
-            "height": 0.31675,
-            "aspect": 4.732984
+            "top": 0.645108,
+            "height": 0.296849,
+            "aspect": 5.050279
           }
         ]
       ],
@@ -5945,7 +5957,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-078-full-p110.jpg",
-            "top": 0.223421,
+            "top": 0.241911,
             "height": 0.281972,
             "aspect": 4.939891
           }
@@ -5953,7 +5965,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-078-full-p110.jpg",
-            "top": 0.505393,
+            "top": 0.523883,
             "height": 0.224961,
             "aspect": 6.191781
           }
@@ -5961,23 +5973,23 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-078-full-p110.jpg",
-            "top": 0.730354,
-            "height": 0.269646,
-            "aspect": 5.165714
+            "top": 0.748844,
+            "height": 0.251156,
+            "aspect": 5.546012
           },
           {
             "src": "assets/visuals/material-078-full-p111.jpg",
             "top": 0.0,
-            "height": 0.681652,
-            "aspect": 1.611408
+            "height": 0.696233,
+            "aspect": 1.577661
           }
         ],
         [
           {
             "src": "assets/visuals/material-078-full-p111.jpg",
-            "top": 0.681652,
-            "height": 0.27582,
-            "aspect": 3.982379
+            "top": 0.696233,
+            "height": 0.261239,
+            "aspect": 4.204651
           }
         ]
       ],
@@ -6097,7 +6109,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-080-full-p113.jpg",
-            "top": 0.401192,
+            "top": 0.413108,
             "height": 0.103277,
             "aspect": 8.692308
           }
@@ -6105,7 +6117,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-080-full-p113.jpg",
-            "top": 0.504469,
+            "top": 0.516385,
             "height": 0.10427,
             "aspect": 8.609524
           }
@@ -6113,7 +6125,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-080-full-p113.jpg",
-            "top": 0.608739,
+            "top": 0.620655,
             "height": 0.10427,
             "aspect": 8.609524
           }
@@ -6121,17 +6133,17 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-080-full-p113.jpg",
-            "top": 0.713009,
-            "height": 0.286991,
-            "aspect": 3.128028
+            "top": 0.724926,
+            "height": 0.275074,
+            "aspect": 3.263538
           }
         ],
         [
           {
             "src": "assets/visuals/material-080-full-p114.jpg",
-            "top": 0.15142,
-            "height": 0.73817,
-            "aspect": 3.863248
+            "top": 0.189274,
+            "height": 0.700315,
+            "aspect": 4.072072
           }
         ]
       ],
@@ -6192,7 +6204,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-081-full-p115.jpg",
-            "top": 0.394444,
+            "top": 0.403968,
             "height": 0.115873,
             "aspect": 6.191781
           }
@@ -6200,7 +6212,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-081-full-p115.jpg",
-            "top": 0.510317,
+            "top": 0.519841,
             "height": 0.086508,
             "aspect": 8.293578
           }
@@ -6208,7 +6220,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-081-full-p115.jpg",
-            "top": 0.596825,
+            "top": 0.606349,
             "height": 0.087302,
             "aspect": 8.218182
           }
@@ -6216,23 +6228,23 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-081-full-p115.jpg",
-            "top": 0.684127,
-            "height": 0.315873,
-            "aspect": 2.271357
+            "top": 0.693651,
+            "height": 0.306349,
+            "aspect": 2.341969
           },
           {
             "src": "assets/visuals/material-081-full-p116.jpg",
             "top": 0.0,
-            "height": 0.540161,
-            "aspect": 3.360595
+            "height": 0.564257,
+            "aspect": 3.217082
           }
         ],
         [
           {
             "src": "assets/visuals/material-081-full-p116.jpg",
-            "top": 0.540161,
-            "height": 0.389558,
-            "aspect": 4.659794
+            "top": 0.564257,
+            "height": 0.365462,
+            "aspect": 4.967033
           }
         ]
       ],
@@ -6409,7 +6421,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-084-full-p119.jpg",
-            "top": 0.324003,
+            "top": 0.334182,
             "height": 0.536047,
             "aspect": 1.43038
           }
@@ -6417,15 +6429,15 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-084-full-p119.jpg",
-            "top": 0.860051,
-            "height": 0.139949,
-            "aspect": 5.478788
+            "top": 0.870229,
+            "height": 0.129771,
+            "aspect": 5.908497
           }
         ],
         [
           {
             "src": "assets/visuals/material-084-full-p120.jpg",
-            "top": 0.092628,
+            "top": 0.115312,
             "height": 0.274102,
             "aspect": 6.234483
           }
@@ -6433,7 +6445,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-084-full-p120.jpg",
-            "top": 0.36673,
+            "top": 0.389414,
             "height": 0.272212,
             "aspect": 6.277778
           }
@@ -6441,9 +6453,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-084-full-p120.jpg",
-            "top": 0.638941,
-            "height": 0.294896,
-            "aspect": 5.794872
+            "top": 0.661626,
+            "height": 0.272212,
+            "aspect": 6.277778
           }
         ]
       ],
@@ -6503,7 +6515,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-085-full-p120.jpg",
-            "top": 0.452804,
+            "top": 0.46922,
             "height": 0.399453,
             "aspect": 3.09589
           }
@@ -6511,21 +6523,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-085-full-p120.jpg",
-            "top": 0.852257,
-            "height": 0.147743,
-            "aspect": 8.37037
+            "top": 0.868673,
+            "height": 0.131327,
+            "aspect": 9.416667
           },
           {
             "src": "assets/visuals/material-085-full-p121.jpg",
             "top": 0.0,
-            "height": 0.13622,
-            "aspect": 7.007752
+            "height": 0.148891,
+            "aspect": 6.411348
           }
         ],
         [
           {
             "src": "assets/visuals/material-085-full-p121.jpg",
-            "top": 0.13622,
+            "top": 0.148891,
             "height": 0.223865,
             "aspect": 4.264151
           }
@@ -6533,7 +6545,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-085-full-p121.jpg",
-            "top": 0.360084,
+            "top": 0.372756,
             "height": 0.364308,
             "aspect": 2.62029
           }
@@ -6541,9 +6553,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-085-full-p121.jpg",
-            "top": 0.724393,
-            "height": 0.238648,
-            "aspect": 4.0
+            "top": 0.737064,
+            "height": 0.225977,
+            "aspect": 4.224299
           }
         ]
       ],
@@ -6605,7 +6617,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-086-full-p123.jpg",
-            "top": 0.298413,
+            "top": 0.307937,
             "height": 0.086508,
             "aspect": 8.293578
           }
@@ -6613,7 +6625,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-086-full-p123.jpg",
-            "top": 0.384921,
+            "top": 0.394444,
             "height": 0.085714,
             "aspect": 8.37037
           }
@@ -6621,7 +6633,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-086-full-p123.jpg",
-            "top": 0.470635,
+            "top": 0.480159,
             "height": 0.14127,
             "aspect": 5.078652
           }
@@ -6629,7 +6641,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-086-full-p123.jpg",
-            "top": 0.611905,
+            "top": 0.621429,
             "height": 0.086508,
             "aspect": 8.293578
           }
@@ -6637,9 +6649,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-086-full-p123.jpg",
-            "top": 0.698413,
-            "height": 0.301587,
-            "aspect": 2.378947
+            "top": 0.707937,
+            "height": 0.292063,
+            "aspect": 2.456522
           }
         ]
       ],
@@ -6703,7 +6715,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-087-full-p124.jpg",
-            "top": 0.636833,
+            "top": 0.64716,
             "height": 0.123924,
             "aspect": 6.277778
           }
@@ -6711,7 +6723,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-087-full-p124.jpg",
-            "top": 0.760757,
+            "top": 0.771084,
             "height": 0.093804,
             "aspect": 8.293578
           }
@@ -6719,21 +6731,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-087-full-p124.jpg",
-            "top": 0.854561,
-            "height": 0.145439,
-            "aspect": 5.349112
+            "top": 0.864888,
+            "height": 0.135112,
+            "aspect": 5.757962
           },
           {
             "src": "assets/visuals/material-087-full-p125.jpg",
             "top": 0.0,
-            "height": 0.157556,
-            "aspect": 9.22449
+            "height": 0.176849,
+            "aspect": 8.218182
           }
         ],
         [
           {
             "src": "assets/visuals/material-087-full-p125.jpg",
-            "top": 0.157556,
+            "top": 0.176849,
             "height": 0.477492,
             "aspect": 3.043771
           }
@@ -6741,9 +6753,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-087-full-p125.jpg",
-            "top": 0.635048,
-            "height": 0.308682,
-            "aspect": 4.708333
+            "top": 0.654341,
+            "height": 0.289389,
+            "aspect": 5.022222
           }
         ]
       ],
@@ -6865,7 +6877,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-089-full-p129.jpg",
-            "top": 0.070807,
+            "top": 0.085714,
             "height": 0.135404,
             "aspect": 8.293578
           }
@@ -6873,7 +6885,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-089-full-p129.jpg",
-            "top": 0.206211,
+            "top": 0.221118,
             "height": 0.134161,
             "aspect": 8.37037
           }
@@ -6881,7 +6893,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-089-full-p129.jpg",
-            "top": 0.340373,
+            "top": 0.35528,
             "height": 0.134161,
             "aspect": 8.37037
           }
@@ -6889,7 +6901,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-089-full-p129.jpg",
-            "top": 0.474534,
+            "top": 0.489441,
             "height": 0.134161,
             "aspect": 8.37037
           }
@@ -6897,9 +6909,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-089-full-p129.jpg",
-            "top": 0.608696,
-            "height": 0.347826,
-            "aspect": 3.228571
+            "top": 0.623602,
+            "height": 0.332919,
+            "aspect": 3.373134
           }
         ]
       ],
@@ -6960,21 +6972,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-090-full-p129.jpg",
-            "top": 0.259508,
-            "height": 0.740492,
-            "aspect": 2.731118
+            "top": 0.286353,
+            "height": 0.713647,
+            "aspect": 2.833856
           },
           {
             "src": "assets/visuals/material-090-full-p130.jpg",
             "top": 0.0,
-            "height": 0.454473,
-            "aspect": 1.588752
+            "height": 0.464058,
+            "aspect": 1.555938
           }
         ],
         [
           {
             "src": "assets/visuals/material-090-full-p130.jpg",
-            "top": 0.454473,
+            "top": 0.464058,
             "height": 0.087061,
             "aspect": 8.293578
           }
@@ -6982,7 +6994,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-090-full-p130.jpg",
-            "top": 0.541534,
+            "top": 0.551118,
             "height": 0.085463,
             "aspect": 8.448598
           }
@@ -6990,7 +7002,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-090-full-p130.jpg",
-            "top": 0.626997,
+            "top": 0.636581,
             "height": 0.185304,
             "aspect": 3.896552
           }
@@ -6998,9 +7010,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-090-full-p130.jpg",
-            "top": 0.8123,
-            "height": 0.1877,
-            "aspect": 3.846809
+            "top": 0.821885,
+            "height": 0.178115,
+            "aspect": 4.053812
           },
           {
             "src": "assets/visuals/material-090-full-p131.jpg",
@@ -7068,7 +7080,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-091-full-p131.jpg",
-            "top": 0.843102,
+            "top": 0.853922,
             "height": 0.097385,
             "aspect": 8.37037
           }
@@ -7077,14 +7089,14 @@ window.CARD_BANK = {
           {
             "src": "assets/visuals/material-091-full-p132.jpg",
             "top": 0.0,
-            "height": 0.217742,
-            "aspect": 5.580247
+            "height": 0.233871,
+            "aspect": 5.195402
           }
         ],
         [
           {
             "src": "assets/visuals/material-091-full-p132.jpg",
-            "top": 0.217742,
+            "top": 0.233871,
             "height": 0.145161,
             "aspect": 8.37037
           }
@@ -7092,7 +7104,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-091-full-p132.jpg",
-            "top": 0.362903,
+            "top": 0.379032,
             "height": 0.193548,
             "aspect": 6.277778
           }
@@ -7100,9 +7112,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-091-full-p132.jpg",
-            "top": 0.556452,
-            "height": 0.396505,
-            "aspect": 3.064407
+            "top": 0.572581,
+            "height": 0.380376,
+            "aspect": 3.194346
           }
         ]
       ],
@@ -7222,7 +7234,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-093-full-p134.jpg",
-            "top": 0.360393,
+            "top": 0.371097,
             "height": 0.097235,
             "aspect": 8.293578
           }
@@ -7230,7 +7242,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-093-full-p134.jpg",
-            "top": 0.457627,
+            "top": 0.468332,
             "height": 0.127565,
             "aspect": 6.321678
           }
@@ -7238,7 +7250,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-093-full-p134.jpg",
-            "top": 0.585192,
+            "top": 0.595897,
             "height": 0.129349,
             "aspect": 6.234483
           }
@@ -7246,7 +7258,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-093-full-p134.jpg",
-            "top": 0.714541,
+            "top": 0.725245,
             "height": 0.129349,
             "aspect": 6.234483
           }
@@ -7254,9 +7266,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-093-full-p134.jpg",
-            "top": 0.843889,
-            "height": 0.156111,
-            "aspect": 5.165714
+            "top": 0.854594,
+            "height": 0.145406,
+            "aspect": 5.546012
           },
           {
             "src": "assets/visuals/material-093-full-p135.jpg",
@@ -7380,21 +7392,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-095-full-p136.jpg",
-            "top": 0.338462,
-            "height": 0.661538,
-            "aspect": 1.313953
+            "top": 0.35,
+            "height": 0.65,
+            "aspect": 1.337278
           },
           {
             "src": "assets/visuals/material-095-full-p137.jpg",
             "top": 0.0,
-            "height": 0.288646,
-            "aspect": 4.28436
+            "height": 0.305062,
+            "aspect": 4.053812
           }
         ],
         [
           {
             "src": "assets/visuals/material-095-full-p137.jpg",
-            "top": 0.288646,
+            "top": 0.305062,
             "height": 0.198358,
             "aspect": 6.234483
           }
@@ -7402,7 +7414,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-095-full-p137.jpg",
-            "top": 0.487004,
+            "top": 0.50342,
             "height": 0.147743,
             "aspect": 8.37037
           }
@@ -7410,9 +7422,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-095-full-p137.jpg",
-            "top": 0.634747,
-            "height": 0.317373,
-            "aspect": 3.896552
+            "top": 0.651163,
+            "height": 0.300958,
+            "aspect": 4.109091
           }
         ]
       ],
@@ -7473,7 +7485,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-096-full-p138.jpg",
-            "top": 0.390575,
+            "top": 0.40016,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -7481,7 +7493,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-096-full-p138.jpg",
-            "top": 0.476837,
+            "top": 0.486422,
             "height": 0.087061,
             "aspect": 8.293578
           }
@@ -7489,7 +7501,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-096-full-p138.jpg",
-            "top": 0.563898,
+            "top": 0.573482,
             "height": 0.114217,
             "aspect": 6.321678
           }
@@ -7497,7 +7509,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-096-full-p138.jpg",
-            "top": 0.678115,
+            "top": 0.6877,
             "height": 0.087061,
             "aspect": 8.293578
           }
@@ -7505,9 +7517,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-096-full-p138.jpg",
-            "top": 0.765176,
-            "height": 0.234824,
-            "aspect": 3.07483
+            "top": 0.77476,
+            "height": 0.22524,
+            "aspect": 3.205674
           },
           {
             "src": "assets/visuals/material-096-full-p139.jpg",
@@ -7810,7 +7822,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-101-full-p146.jpg",
-            "top": 0.484794,
+            "top": 0.495528,
             "height": 0.09839,
             "aspect": 8.218182
           }
@@ -7818,7 +7830,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-101-full-p146.jpg",
-            "top": 0.583184,
+            "top": 0.593918,
             "height": 0.274597,
             "aspect": 2.944625
           }
@@ -7826,15 +7838,15 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-101-full-p146.jpg",
-            "top": 0.857782,
-            "height": 0.142218,
-            "aspect": 5.685535
+            "top": 0.868515,
+            "height": 0.131485,
+            "aspect": 6.14966
           }
         ],
         [
           {
             "src": "assets/visuals/material-101-full-p147.jpg",
-            "top": 0.145933,
+            "top": 0.174641,
             "height": 0.277512,
             "aspect": 7.793103
           }
@@ -7842,9 +7854,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-101-full-p147.jpg",
-            "top": 0.423445,
-            "height": 0.492823,
-            "aspect": 4.38835
+            "top": 0.452153,
+            "height": 0.464115,
+            "aspect": 4.659794
           }
         ]
       ],
@@ -7905,7 +7917,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-102-full-p148.jpg",
-            "top": 0.54393,
+            "top": 0.553514,
             "height": 0.085463,
             "aspect": 8.448598
           }
@@ -7913,7 +7925,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-102-full-p148.jpg",
-            "top": 0.629393,
+            "top": 0.638978,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -7921,7 +7933,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-102-full-p148.jpg",
-            "top": 0.715655,
+            "top": 0.72524,
             "height": 0.115016,
             "aspect": 6.277778
           }
@@ -7929,7 +7941,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-102-full-p148.jpg",
-            "top": 0.830671,
+            "top": 0.840256,
             "height": 0.115815,
             "aspect": 6.234483
           }
@@ -8000,22 +8012,16 @@ window.CARD_BANK = {
       "questionCrops": [
         [
           {
-            "src": "assets/visuals/material-103-full-p149.jpg",
-            "top": 0.902985,
-            "height": 0.097015,
-            "aspect": 9.934066
-          },
-          {
             "src": "assets/visuals/material-103-full-p150.jpg",
             "top": 0.0,
-            "height": 0.13099,
-            "aspect": 5.512195
+            "height": 0.140575,
+            "aspect": 5.136364
           }
         ],
         [
           {
             "src": "assets/visuals/material-103-full-p150.jpg",
-            "top": 0.13099,
+            "top": 0.140575,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -8023,7 +8029,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-103-full-p150.jpg",
-            "top": 0.217252,
+            "top": 0.226837,
             "height": 0.115016,
             "aspect": 6.277778
           }
@@ -8031,7 +8037,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-103-full-p150.jpg",
-            "top": 0.332268,
+            "top": 0.341853,
             "height": 0.402556,
             "aspect": 1.793651
           }
@@ -8039,9 +8045,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-103-full-p150.jpg",
-            "top": 0.734824,
-            "height": 0.265176,
-            "aspect": 2.722892
+            "top": 0.744409,
+            "height": 0.255591,
+            "aspect": 2.825
           }
         ]
       ],
@@ -8164,7 +8170,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-105-full-p155.jpg",
-            "top": 0.058271,
+            "top": 0.069549,
             "height": 0.101504,
             "aspect": 8.37037
           }
@@ -8172,7 +8178,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-105-full-p155.jpg",
-            "top": 0.159774,
+            "top": 0.171053,
             "height": 0.102444,
             "aspect": 8.293578
           }
@@ -8180,7 +8186,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-105-full-p155.jpg",
-            "top": 0.262218,
+            "top": 0.273496,
             "height": 0.167293,
             "aspect": 5.078652
           }
@@ -8188,7 +8194,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-105-full-p155.jpg",
-            "top": 0.429511,
+            "top": 0.440789,
             "height": 0.102444,
             "aspect": 8.293578
           }
@@ -8196,9 +8202,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-105-full-p155.jpg",
-            "top": 0.531955,
-            "height": 0.43515,
-            "aspect": 1.952484
+            "top": 0.543233,
+            "height": 0.423872,
+            "aspect": 2.004435
           }
         ]
       ],
@@ -8259,7 +8265,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-106-full-p156.jpg",
-            "top": 0.760317,
+            "top": 0.769841,
             "height": 0.115079,
             "aspect": 6.234483
           }
@@ -8267,21 +8273,13 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-106-full-p156.jpg",
-            "top": 0.875397,
-            "height": 0.124603,
-            "aspect": 5.757962
+            "top": 0.884921,
+            "height": 0.115079,
+            "aspect": 6.234483
           },
           {
             "src": "assets/visuals/material-106-full-p157.jpg",
             "top": 0.0,
-            "height": 0.129555,
-            "aspect": 9.416667
-          }
-        ],
-        [
-          {
-            "src": "assets/visuals/material-106-full-p157.jpg",
-            "top": 0.129555,
             "height": 0.145749,
             "aspect": 8.37037
           }
@@ -8289,7 +8287,15 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-106-full-p157.jpg",
-            "top": 0.275304,
+            "top": 0.145749,
+            "height": 0.145749,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-106-full-p157.jpg",
+            "top": 0.291498,
             "height": 0.369771,
             "aspect": 3.29927
           }
@@ -8297,9 +8303,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-106-full-p157.jpg",
-            "top": 0.645074,
-            "height": 0.307692,
-            "aspect": 3.964912
+            "top": 0.661269,
+            "height": 0.291498,
+            "aspect": 4.185185
           }
         ]
       ],
@@ -8361,7 +8367,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-107-full-p158.jpg",
-            "top": 0.265531,
+            "top": 0.277555,
             "height": 0.109218,
             "aspect": 8.293578
           }
@@ -8369,7 +8375,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-107-full-p158.jpg",
-            "top": 0.374749,
+            "top": 0.386774,
             "height": 0.109218,
             "aspect": 8.293578
           }
@@ -8377,7 +8383,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-107-full-p158.jpg",
-            "top": 0.483968,
+            "top": 0.495992,
             "height": 0.108216,
             "aspect": 8.37037
           }
@@ -8385,7 +8391,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-107-full-p158.jpg",
-            "top": 0.592184,
+            "top": 0.604208,
             "height": 0.108216,
             "aspect": 8.37037
           }
@@ -8393,9 +8399,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-107-full-p158.jpg",
-            "top": 0.700401,
-            "height": 0.264529,
-            "aspect": 3.424242
+            "top": 0.712425,
+            "height": 0.252505,
+            "aspect": 3.587302
           }
         ]
       ],
@@ -8456,7 +8462,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-108-full-p159.jpg",
-            "top": 0.69127,
+            "top": 0.700794,
             "height": 0.086508,
             "aspect": 8.293578
           }
@@ -8464,7 +8470,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-108-full-p159.jpg",
-            "top": 0.777778,
+            "top": 0.787302,
             "height": 0.086508,
             "aspect": 8.293578
           }
@@ -8472,7 +8478,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-108-full-p159.jpg",
-            "top": 0.864286,
+            "top": 0.87381,
             "height": 0.085714,
             "aspect": 8.37037
           }
@@ -8481,16 +8487,16 @@ window.CARD_BANK = {
           {
             "src": "assets/visuals/material-108-full-p160.jpg",
             "top": 0.0,
-            "height": 0.184127,
-            "aspect": 3.896552
+            "height": 0.193651,
+            "aspect": 3.704918
           }
         ],
         [
           {
             "src": "assets/visuals/material-108-full-p160.jpg",
-            "top": 0.184127,
-            "height": 0.815873,
-            "aspect": 0.879377
+            "top": 0.193651,
+            "height": 0.806349,
+            "aspect": 0.889764
           }
         ]
       ],
@@ -8726,7 +8732,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-112-full-p166.jpg",
-            "top": 0.059904,
+            "top": 0.069489,
             "height": 0.300319,
             "aspect": 2.404255
           }
@@ -8737,9 +8743,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-112-full-p166.jpg",
-            "top": 0.361022,
-            "height": 0.638978,
-            "aspect": 1.13
+            "top": 0.370607,
+            "height": 0.629393,
+            "aspect": 1.147208
           }
         ]
       ],
@@ -8800,7 +8806,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-113-full-p167.jpg",
-            "top": 0.806914,
+            "top": 0.817032,
             "height": 0.091906,
             "aspect": 8.293578
           }
@@ -8808,21 +8814,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-113-full-p167.jpg",
-            "top": 0.89882,
-            "height": 0.10118,
-            "aspect": 7.533333
+            "top": 0.908938,
+            "height": 0.091062,
+            "aspect": 8.37037
           },
           {
             "src": "assets/visuals/material-113-full-p168.jpg",
             "top": 0.0,
-            "height": 0.20362,
-            "aspect": 6.696296
+            "height": 0.221719,
+            "aspect": 6.14966
           }
         ],
         [
           {
             "src": "assets/visuals/material-113-full-p168.jpg",
-            "top": 0.20362,
+            "top": 0.221719,
             "height": 0.168929,
             "aspect": 8.071429
           }
@@ -8830,7 +8836,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-113-full-p168.jpg",
-            "top": 0.372549,
+            "top": 0.390649,
             "height": 0.167421,
             "aspect": 8.144144
           }
@@ -8838,9 +8844,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-113-full-p168.jpg",
-            "top": 0.53997,
-            "height": 0.40724,
-            "aspect": 3.348148
+            "top": 0.558069,
+            "height": 0.38914,
+            "aspect": 3.503876
           }
         ]
       ],
@@ -9076,7 +9082,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-117-full-p174.jpg",
-            "top": 0.074567,
+            "top": 0.090546,
             "height": 0.143808,
             "aspect": 8.37037
           }
@@ -9084,7 +9090,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-117-full-p174.jpg",
-            "top": 0.218375,
+            "top": 0.234354,
             "height": 0.143808,
             "aspect": 8.37037
           }
@@ -9092,7 +9098,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-117-full-p174.jpg",
-            "top": 0.362184,
+            "top": 0.378162,
             "height": 0.14514,
             "aspect": 8.293578
           }
@@ -9100,7 +9106,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-117-full-p174.jpg",
-            "top": 0.507324,
+            "top": 0.523302,
             "height": 0.193076,
             "aspect": 6.234483
           }
@@ -9108,9 +9114,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-117-full-p174.jpg",
-            "top": 0.700399,
-            "height": 0.252996,
-            "aspect": 4.757895
+            "top": 0.716378,
+            "height": 0.237017,
+            "aspect": 5.078652
           }
         ]
       ],
@@ -9171,7 +9177,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-118-full-p175.jpg",
-            "top": 0.142971,
+            "top": 0.152556,
             "height": 0.230831,
             "aspect": 3.128028
           }
@@ -9179,7 +9185,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-118-full-p175.jpg",
-            "top": 0.373802,
+            "top": 0.383387,
             "height": 0.264377,
             "aspect": 2.731118
           }
@@ -9187,7 +9193,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-118-full-p175.jpg",
-            "top": 0.638179,
+            "top": 0.647764,
             "height": 0.113419,
             "aspect": 6.366197
           }
@@ -9195,7 +9201,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-118-full-p175.jpg",
-            "top": 0.751597,
+            "top": 0.761182,
             "height": 0.083866,
             "aspect": 8.609524
           }
@@ -9203,9 +9209,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-118-full-p175.jpg",
-            "top": 0.835463,
-            "height": 0.164537,
-            "aspect": 4.38835
+            "top": 0.845048,
+            "height": 0.154952,
+            "aspect": 4.659794
           }
         ]
       ],
@@ -9267,7 +9273,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-119-full-p176.jpg",
-            "top": 0.863359,
+            "top": 0.873803,
             "height": 0.093995,
             "aspect": 8.37037
           }
@@ -9276,14 +9282,14 @@ window.CARD_BANK = {
           {
             "src": "assets/visuals/material-119-full-p177.jpg",
             "top": 0.0,
-            "height": 0.201821,
-            "aspect": 6.796992
+            "height": 0.22003,
+            "aspect": 6.234483
           }
         ],
         [
           {
             "src": "assets/visuals/material-119-full-p177.jpg",
-            "top": 0.201821,
+            "top": 0.22003,
             "height": 0.206373,
             "aspect": 6.647059
           }
@@ -9291,7 +9297,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-119-full-p177.jpg",
-            "top": 0.408194,
+            "top": 0.426404,
             "height": 0.15478,
             "aspect": 8.862745
           }
@@ -9299,9 +9305,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-119-full-p177.jpg",
-            "top": 0.562974,
-            "height": 0.383915,
-            "aspect": 3.573123
+            "top": 0.581184,
+            "height": 0.365706,
+            "aspect": 3.751037
           }
         ]
       ],
@@ -9422,7 +9428,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-121-full-p180.jpg",
-            "top": 0.246006,
+            "top": 0.255591,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -9430,7 +9436,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-121-full-p180.jpg",
-            "top": 0.332268,
+            "top": 0.341853,
             "height": 0.115016,
             "aspect": 6.277778
           }
@@ -9438,7 +9444,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-121-full-p180.jpg",
-            "top": 0.447284,
+            "top": 0.456869,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -9446,7 +9452,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-121-full-p180.jpg",
-            "top": 0.533546,
+            "top": 0.543131,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -9454,9 +9460,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-121-full-p180.jpg",
-            "top": 0.619808,
-            "height": 0.380192,
-            "aspect": 1.89916
+            "top": 0.629393,
+            "height": 0.370607,
+            "aspect": 1.948276
           }
         ]
       ],
@@ -9576,7 +9582,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-123-full-p183.jpg",
-            "top": 0.486422,
+            "top": 0.496006,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -9584,7 +9590,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-123-full-p183.jpg",
-            "top": 0.572684,
+            "top": 0.582268,
             "height": 0.085463,
             "aspect": 8.448598
           }
@@ -9592,7 +9598,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-123-full-p183.jpg",
-            "top": 0.658147,
+            "top": 0.667732,
             "height": 0.115815,
             "aspect": 6.234483
           }
@@ -9600,7 +9606,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-123-full-p183.jpg",
-            "top": 0.773962,
+            "top": 0.783546,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -9608,9 +9614,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-123-full-p183.jpg",
-            "top": 0.860224,
-            "height": 0.139776,
-            "aspect": 5.165714
+            "top": 0.869808,
+            "height": 0.130192,
+            "aspect": 5.546012
           },
           {
             "src": "assets/visuals/material-123-full-p184.jpg",
@@ -9678,7 +9684,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-124-full-p184.jpg",
-            "top": 0.464349,
+            "top": 0.475045,
             "height": 0.103387,
             "aspect": 7.793103
           }
@@ -9686,7 +9692,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-124-full-p184.jpg",
-            "top": 0.567736,
+            "top": 0.578431,
             "height": 0.103387,
             "aspect": 7.793103
           }
@@ -9694,7 +9700,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-124-full-p184.jpg",
-            "top": 0.671123,
+            "top": 0.681818,
             "height": 0.099822,
             "aspect": 8.071429
           }
@@ -9702,7 +9708,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-124-full-p184.jpg",
-            "top": 0.770945,
+            "top": 0.78164,
             "height": 0.09893,
             "aspect": 8.144144
           }
@@ -9710,9 +9716,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-124-full-p184.jpg",
-            "top": 0.869875,
-            "height": 0.130125,
-            "aspect": 6.191781
+            "top": 0.88057,
+            "height": 0.11943,
+            "aspect": 6.746269
           },
           {
             "src": "assets/visuals/material-124-full-p185.jpg",
@@ -9778,15 +9784,15 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-125-full-p185.jpg",
-            "top": 0.827458,
-            "height": 0.172542,
-            "aspect": 4.860215
+            "top": 0.83859,
+            "height": 0.16141,
+            "aspect": 5.195402
           }
         ],
         [
           {
             "src": "assets/visuals/material-125-full-p186.jpg",
-            "top": 0.066829,
+            "top": 0.081409,
             "height": 0.176185,
             "aspect": 6.234483
           }
@@ -9794,7 +9800,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-125-full-p186.jpg",
-            "top": 0.243013,
+            "top": 0.257594,
             "height": 0.17497,
             "aspect": 6.277778
           }
@@ -9802,7 +9808,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-125-full-p186.jpg",
-            "top": 0.417983,
+            "top": 0.432564,
             "height": 0.221142,
             "aspect": 4.967033
           }
@@ -9810,9 +9816,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-125-full-p186.jpg",
-            "top": 0.639125,
-            "height": 0.318348,
-            "aspect": 3.450382
+            "top": 0.653706,
+            "height": 0.303767,
+            "aspect": 3.616
           }
         ]
       ],
@@ -9932,7 +9938,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-127-full-p189.jpg",
-            "top": 0.381789,
+            "top": 0.391374,
             "height": 0.087061,
             "aspect": 8.293578
           }
@@ -9940,7 +9946,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-127-full-p189.jpg",
-            "top": 0.46885,
+            "top": 0.478435,
             "height": 0.089457,
             "aspect": 8.071429
           }
@@ -9948,7 +9954,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-127-full-p189.jpg",
-            "top": 0.558307,
+            "top": 0.567891,
             "height": 0.083067,
             "aspect": 8.692308
           }
@@ -9956,7 +9962,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-127-full-p189.jpg",
-            "top": 0.641374,
+            "top": 0.650958,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -9964,9 +9970,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-127-full-p189.jpg",
-            "top": 0.727636,
-            "height": 0.272364,
-            "aspect": 2.651026
+            "top": 0.73722,
+            "height": 0.26278,
+            "aspect": 2.74772
           }
         ]
       ],
@@ -10141,7 +10147,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-130-full-p193.jpg",
-            "top": 0.141525,
+            "top": 0.151695,
             "height": 0.365254,
             "aspect": 2.097448
           }
@@ -10149,7 +10155,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-130-full-p193.jpg",
-            "top": 0.50678,
+            "top": 0.516949,
             "height": 0.090678,
             "aspect": 8.448598
           }
@@ -10157,7 +10163,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-130-full-p193.jpg",
-            "top": 0.597458,
+            "top": 0.607627,
             "height": 0.122881,
             "aspect": 6.234483
           }
@@ -10165,7 +10171,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-130-full-p193.jpg",
-            "top": 0.720339,
+            "top": 0.730508,
             "height": 0.088983,
             "aspect": 8.609524
           }
@@ -10173,9 +10179,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-130-full-p193.jpg",
-            "top": 0.809322,
-            "height": 0.161017,
-            "aspect": 4.757895
+            "top": 0.819492,
+            "height": 0.150847,
+            "aspect": 5.078652
           }
         ]
       ],
@@ -10292,35 +10298,35 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-132-full-p195.jpg",
-            "top": 0.422654,
-            "height": 0.577346,
-            "aspect": 1.323572
+            "top": 0.432798,
+            "height": 0.567202,
+            "aspect": 1.347243
           },
           {
             "src": "assets/visuals/material-132-full-p196.jpg",
             "top": 0.0,
-            "height": 0.674121,
-            "aspect": 1.07109
+            "height": 0.683706,
+            "aspect": 1.056075
           }
         ],
         [
           {
             "src": "assets/visuals/material-132-full-p196.jpg",
-            "top": 0.674121,
-            "height": 0.325879,
-            "aspect": 2.215686
+            "top": 0.683706,
+            "height": 0.316294,
+            "aspect": 2.282828
           },
           {
             "src": "assets/visuals/material-132-full-p197.jpg",
             "top": 0.0,
-            "height": 0.514636,
-            "aspect": 1.658716
+            "height": 0.525968,
+            "aspect": 1.62298
           }
         ],
         [
           {
             "src": "assets/visuals/material-132-full-p197.jpg",
-            "top": 0.514636,
+            "top": 0.525968,
             "height": 0.103872,
             "aspect": 8.218182
           }
@@ -10328,7 +10334,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-132-full-p197.jpg",
-            "top": 0.618508,
+            "top": 0.629839,
             "height": 0.101039,
             "aspect": 8.448598
           }
@@ -10336,9 +10342,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-132-full-p197.jpg",
-            "top": 0.719547,
-            "height": 0.247403,
-            "aspect": 3.450382
+            "top": 0.730878,
+            "height": 0.236072,
+            "aspect": 3.616
           }
         ]
       ],
@@ -10401,7 +10407,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-133-full-p198.jpg",
-            "top": 0.40016,
+            "top": 0.409744,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -10409,7 +10415,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-133-full-p198.jpg",
-            "top": 0.486422,
+            "top": 0.496006,
             "height": 0.087061,
             "aspect": 8.293578
           }
@@ -10417,7 +10423,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-133-full-p198.jpg",
-            "top": 0.573482,
+            "top": 0.583067,
             "height": 0.085463,
             "aspect": 8.448598
           }
@@ -10425,7 +10431,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-133-full-p198.jpg",
-            "top": 0.658946,
+            "top": 0.66853,
             "height": 0.087061,
             "aspect": 8.293578
           }
@@ -10433,9 +10439,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-133-full-p198.jpg",
-            "top": 0.746006,
-            "height": 0.253994,
-            "aspect": 2.842767
+            "top": 0.755591,
+            "height": 0.244409,
+            "aspect": 2.954248
           }
         ]
       ],
@@ -10497,21 +10503,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-134-full-p199.jpg",
-            "top": 0.872933,
-            "height": 0.127067,
-            "aspect": 6.191781
+            "top": 0.883377,
+            "height": 0.116623,
+            "aspect": 6.746269
           },
           {
             "src": "assets/visuals/material-134-full-p200.jpg",
             "top": 0.0,
-            "height": 0.093269,
-            "aspect": 9.319588
+            "height": 0.104808,
+            "aspect": 8.293578
           }
         ],
         [
           {
             "src": "assets/visuals/material-134-full-p200.jpg",
-            "top": 0.093269,
+            "top": 0.104808,
             "height": 0.139423,
             "aspect": 6.234483
           }
@@ -10519,7 +10525,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-134-full-p200.jpg",
-            "top": 0.232692,
+            "top": 0.244231,
             "height": 0.139423,
             "aspect": 6.234483
           }
@@ -10527,7 +10533,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-134-full-p200.jpg",
-            "top": 0.372115,
+            "top": 0.383654,
             "height": 0.138462,
             "aspect": 6.277778
           }
@@ -10535,9 +10541,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-134-full-p200.jpg",
-            "top": 0.510577,
-            "height": 0.455769,
-            "aspect": 1.907173
+            "top": 0.522115,
+            "height": 0.444231,
+            "aspect": 1.95671
           }
         ]
       ],
@@ -10602,9 +10608,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-135-full-p201.jpg",
-            "top": 0.302716,
-            "height": 0.697284,
-            "aspect": 1.03551
+            "top": 0.3123,
+            "height": 0.6877,
+            "aspect": 1.049942
           },
           {
             "src": "assets/visuals/material-135-full-p202.jpg",
@@ -10671,7 +10677,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-136-full-p203.jpg",
-            "top": 0.089655,
+            "top": 0.106207,
             "height": 0.150345,
             "aspect": 8.293578
           }
@@ -10679,7 +10685,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-136-full-p203.jpg",
-            "top": 0.24,
+            "top": 0.256552,
             "height": 0.148966,
             "aspect": 8.37037
           }
@@ -10687,7 +10693,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-136-full-p203.jpg",
-            "top": 0.388966,
+            "top": 0.405517,
             "height": 0.148966,
             "aspect": 8.37037
           }
@@ -10695,7 +10701,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-136-full-p203.jpg",
-            "top": 0.537931,
+            "top": 0.554483,
             "height": 0.150345,
             "aspect": 8.293578
           }
@@ -10703,9 +10709,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-136-full-p203.jpg",
-            "top": 0.688276,
-            "height": 0.263448,
-            "aspect": 4.732984
+            "top": 0.704828,
+            "height": 0.246897,
+            "aspect": 5.050279
           }
         ]
       ],
@@ -10941,7 +10947,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-140-full-p209.jpg",
-            "top": 0.547125,
+            "top": 0.556709,
             "height": 0.114217,
             "aspect": 6.321678
           }
@@ -10949,7 +10955,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-140-full-p209.jpg",
-            "top": 0.661342,
+            "top": 0.670927,
             "height": 0.115815,
             "aspect": 6.234483
           }
@@ -10957,7 +10963,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-140-full-p209.jpg",
-            "top": 0.777157,
+            "top": 0.786741,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -10965,7 +10971,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-140-full-p209.jpg",
-            "top": 0.863419,
+            "top": 0.873003,
             "height": 0.087061,
             "aspect": 8.293578
           }
@@ -11037,21 +11043,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-141-full-p210.jpg",
-            "top": 0.329776,
-            "height": 0.670224,
-            "aspect": 1.43949
+            "top": 0.342583,
+            "height": 0.657417,
+            "aspect": 1.467532
           },
           {
             "src": "assets/visuals/material-141-full-p211.jpg",
             "top": 0.0,
-            "height": 0.263914,
-            "aspect": 3.07483
+            "height": 0.274686,
+            "aspect": 2.954248
           }
         ],
         [
           {
             "src": "assets/visuals/material-141-full-p211.jpg",
-            "top": 0.263914,
+            "top": 0.274686,
             "height": 0.129264,
             "aspect": 6.277778
           }
@@ -11059,7 +11065,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-141-full-p211.jpg",
-            "top": 0.393178,
+            "top": 0.40395,
             "height": 0.130162,
             "aspect": 6.234483
           }
@@ -11067,7 +11073,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-141-full-p211.jpg",
-            "top": 0.523339,
+            "top": 0.534111,
             "height": 0.097846,
             "aspect": 8.293578
           }
@@ -11075,9 +11081,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-141-full-p211.jpg",
-            "top": 0.621185,
-            "height": 0.347397,
-            "aspect": 2.335917
+            "top": 0.631957,
+            "height": 0.336625,
+            "aspect": 2.410667
           }
         ]
       ],
@@ -11197,15 +11203,15 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-143-full-p213.jpg",
-            "top": 0.760204,
-            "height": 0.239796,
-            "aspect": 4.808511
+            "top": 0.77551,
+            "height": 0.22449,
+            "aspect": 5.136364
           }
         ],
         [
           {
             "src": "assets/visuals/material-143-full-p214.jpg",
-            "top": 0.071166,
+            "top": 0.08589,
             "height": 0.131288,
             "aspect": 8.448598
           }
@@ -11213,7 +11219,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-143-full-p214.jpg",
-            "top": 0.202454,
+            "top": 0.217178,
             "height": 0.177914,
             "aspect": 6.234483
           }
@@ -11221,7 +11227,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-143-full-p214.jpg",
-            "top": 0.380368,
+            "top": 0.395092,
             "height": 0.131288,
             "aspect": 8.448598
           }
@@ -11229,9 +11235,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-143-full-p214.jpg",
-            "top": 0.511656,
-            "height": 0.445399,
-            "aspect": 2.490358
+            "top": 0.52638,
+            "height": 0.430675,
+            "aspect": 2.575499
           }
         ]
       ],
@@ -11292,7 +11298,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-144-full-p215.jpg",
-            "top": 0.461661,
+            "top": 0.471246,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -11300,7 +11306,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-144-full-p215.jpg",
-            "top": 0.547923,
+            "top": 0.557508,
             "height": 0.085463,
             "aspect": 8.448598
           }
@@ -11308,7 +11314,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-144-full-p215.jpg",
-            "top": 0.633387,
+            "top": 0.642971,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -11316,7 +11322,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-144-full-p215.jpg",
-            "top": 0.719649,
+            "top": 0.729233,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -11324,9 +11330,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-144-full-p215.jpg",
-            "top": 0.805911,
-            "height": 0.194089,
-            "aspect": 3.720165
+            "top": 0.815495,
+            "height": 0.184505,
+            "aspect": 3.91342
           }
         ]
       ],
@@ -11388,7 +11394,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-145-full-p216.jpg",
-            "top": 0.614655,
+            "top": 0.625,
             "height": 0.093103,
             "aspect": 8.37037
           }
@@ -11396,7 +11402,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-145-full-p216.jpg",
-            "top": 0.707759,
+            "top": 0.718103,
             "height": 0.093966,
             "aspect": 8.293578
           }
@@ -11404,7 +11410,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-145-full-p216.jpg",
-            "top": 0.801724,
+            "top": 0.812069,
             "height": 0.093103,
             "aspect": 8.37037
           }
@@ -11412,23 +11418,23 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-145-full-p216.jpg",
-            "top": 0.894828,
-            "height": 0.105172,
-            "aspect": 7.409836
+            "top": 0.905172,
+            "height": 0.094828,
+            "aspect": 8.218182
           },
           {
             "src": "assets/visuals/material-145-full-p217.jpg",
             "top": 0.0,
-            "height": 0.287066,
-            "aspect": 9.934066
+            "height": 0.324921,
+            "aspect": 8.776699
           }
         ],
         [
           {
             "src": "assets/visuals/material-145-full-p217.jpg",
-            "top": 0.287066,
-            "height": 0.602524,
-            "aspect": 4.732984
+            "top": 0.324921,
+            "height": 0.564669,
+            "aspect": 5.050279
           }
         ]
       ],
@@ -11546,7 +11552,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-147-full-p219.jpg",
-            "top": 0.456869,
+            "top": 0.466454,
             "height": 0.154153,
             "aspect": 4.683938
           }
@@ -11554,7 +11560,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-147-full-p219.jpg",
-            "top": 0.611022,
+            "top": 0.620607,
             "height": 0.119808,
             "aspect": 6.026667
           }
@@ -11562,7 +11568,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-147-full-p219.jpg",
-            "top": 0.730831,
+            "top": 0.740415,
             "height": 0.115016,
             "aspect": 6.277778
           }
@@ -11570,17 +11576,17 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-147-full-p219.jpg",
-            "top": 0.845847,
-            "height": 0.154153,
-            "aspect": 4.683938
+            "top": 0.855431,
+            "height": 0.144569,
+            "aspect": 4.994475
           }
         ],
         [
           {
             "src": "assets/visuals/material-147-full-p220.jpg",
-            "top": 0.159744,
-            "height": 0.728435,
-            "aspect": 3.964912
+            "top": 0.198083,
+            "height": 0.690096,
+            "aspect": 4.185185
           }
         ]
       ],
@@ -11760,7 +11766,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-150-full-p224.jpg",
-            "top": 0.412141,
+            "top": 0.421725,
             "height": 0.115016,
             "aspect": 6.277778
           }
@@ -11768,7 +11774,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-150-full-p224.jpg",
-            "top": 0.527157,
+            "top": 0.536741,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -11776,7 +11782,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-150-full-p224.jpg",
-            "top": 0.613419,
+            "top": 0.623003,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -11784,7 +11790,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-150-full-p224.jpg",
-            "top": 0.699681,
+            "top": 0.709265,
             "height": 0.087061,
             "aspect": 8.293578
           }
@@ -11792,9 +11798,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-150-full-p224.jpg",
-            "top": 0.786741,
-            "height": 0.213259,
-            "aspect": 3.385768
+            "top": 0.796326,
+            "height": 0.203674,
+            "aspect": 3.545098
           }
         ]
       ],
@@ -11857,21 +11863,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-151-full-p225.jpg",
-            "top": 0.39444,
-            "height": 0.60556,
-            "aspect": 1.296987
+            "top": 0.404865,
+            "height": 0.595135,
+            "aspect": 1.319708
           },
           {
             "src": "assets/visuals/material-151-full-p226.jpg",
             "top": 0.0,
-            "height": 0.126997,
-            "aspect": 5.685535
+            "height": 0.136581,
+            "aspect": 5.28655
           }
         ],
         [
           {
             "src": "assets/visuals/material-151-full-p226.jpg",
-            "top": 0.126997,
+            "top": 0.136581,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -11879,7 +11885,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-151-full-p226.jpg",
-            "top": 0.213259,
+            "top": 0.222843,
             "height": 0.395367,
             "aspect": 1.826263
           }
@@ -11887,7 +11893,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-151-full-p226.jpg",
-            "top": 0.608626,
+            "top": 0.618211,
             "height": 0.115815,
             "aspect": 6.234483
           }
@@ -11895,9 +11901,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-151-full-p226.jpg",
-            "top": 0.724441,
-            "height": 0.275559,
-            "aspect": 2.62029
+            "top": 0.734026,
+            "height": 0.265974,
+            "aspect": 2.714715
           }
         ]
       ],
@@ -11964,9 +11970,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-152-full-p227.jpg",
-            "top": 0.357774,
-            "height": 0.642226,
-            "aspect": 1.243466
+            "top": 0.368375,
+            "height": 0.631625,
+            "aspect": 1.264336
           },
           {
             "src": "assets/visuals/material-152-full-p228.jpg",
@@ -12158,7 +12164,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-155-full-p233.jpg",
-            "top": 0.426518,
+            "top": 0.436102,
             "height": 0.087061,
             "aspect": 8.293578
           }
@@ -12166,7 +12172,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-155-full-p233.jpg",
-            "top": 0.513578,
+            "top": 0.523163,
             "height": 0.115815,
             "aspect": 6.234483
           }
@@ -12174,7 +12180,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-155-full-p233.jpg",
-            "top": 0.629393,
+            "top": 0.638978,
             "height": 0.090256,
             "aspect": 8.0
           }
@@ -12182,7 +12188,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-155-full-p233.jpg",
-            "top": 0.719649,
+            "top": 0.729233,
             "height": 0.145367,
             "aspect": 4.967033
           }
@@ -12190,9 +12196,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-155-full-p233.jpg",
-            "top": 0.865016,
-            "height": 0.134984,
-            "aspect": 5.349112
+            "top": 0.874601,
+            "height": 0.125399,
+            "aspect": 5.757962
           },
           {
             "src": "assets/visuals/material-155-full-p234.jpg",
@@ -12259,7 +12265,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-156-full-p235.jpg",
-            "top": 0.087927,
+            "top": 0.103675,
             "height": 0.141732,
             "aspect": 8.37037
           }
@@ -12267,7 +12273,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-156-full-p235.jpg",
-            "top": 0.229659,
+            "top": 0.245407,
             "height": 0.190289,
             "aspect": 6.234483
           }
@@ -12275,7 +12281,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-156-full-p235.jpg",
-            "top": 0.419948,
+            "top": 0.435696,
             "height": 0.141732,
             "aspect": 8.37037
           }
@@ -12283,7 +12289,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-156-full-p235.jpg",
-            "top": 0.56168,
+            "top": 0.577428,
             "height": 0.144357,
             "aspect": 8.218182
           }
@@ -12291,9 +12297,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-156-full-p235.jpg",
-            "top": 0.706037,
-            "height": 0.248031,
-            "aspect": 4.783069
+            "top": 0.721785,
+            "height": 0.232283,
+            "aspect": 5.107345
           }
         ]
       ],
@@ -12354,7 +12360,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-157-full-p236.jpg",
-            "top": 0.388179,
+            "top": 0.397764,
             "height": 0.178914,
             "aspect": 4.035714
           }
@@ -12362,7 +12368,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-157-full-p236.jpg",
-            "top": 0.567093,
+            "top": 0.576677,
             "height": 0.084665,
             "aspect": 8.528302
           }
@@ -12370,7 +12376,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-157-full-p236.jpg",
-            "top": 0.651757,
+            "top": 0.661342,
             "height": 0.115815,
             "aspect": 6.234483
           }
@@ -12378,7 +12384,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-157-full-p236.jpg",
-            "top": 0.767572,
+            "top": 0.777157,
             "height": 0.115815,
             "aspect": 6.234483
           }
@@ -12386,9 +12392,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-157-full-p236.jpg",
-            "top": 0.883387,
-            "height": 0.116613,
-            "aspect": 6.191781
+            "top": 0.892971,
+            "height": 0.107029,
+            "aspect": 6.746269
           },
           {
             "src": "assets/visuals/material-157-full-p237.jpg",
@@ -12514,7 +12520,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-159-full-p239.jpg",
-            "top": 0.542128,
+            "top": 0.55234,
             "height": 0.091915,
             "aspect": 8.37037
           }
@@ -12522,7 +12528,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-159-full-p239.jpg",
-            "top": 0.634043,
+            "top": 0.644255,
             "height": 0.091915,
             "aspect": 8.37037
           }
@@ -12530,7 +12536,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-159-full-p239.jpg",
-            "top": 0.725957,
+            "top": 0.73617,
             "height": 0.091915,
             "aspect": 8.37037
           }
@@ -12538,7 +12544,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-159-full-p239.jpg",
-            "top": 0.817872,
+            "top": 0.828085,
             "height": 0.123404,
             "aspect": 6.234483
           }
@@ -12726,7 +12732,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-162-full-p244.jpg",
-            "top": 0.507188,
+            "top": 0.516773,
             "height": 0.085463,
             "aspect": 8.448598
           }
@@ -12734,7 +12740,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-162-full-p244.jpg",
-            "top": 0.592652,
+            "top": 0.602236,
             "height": 0.14377,
             "aspect": 5.022222
           }
@@ -12742,7 +12748,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-162-full-p244.jpg",
-            "top": 0.736422,
+            "top": 0.746006,
             "height": 0.144569,
             "aspect": 4.994475
           }
@@ -12750,23 +12756,23 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-162-full-p244.jpg",
-            "top": 0.88099,
-            "height": 0.11901,
-            "aspect": 6.067114
+            "top": 0.890575,
+            "height": 0.109425,
+            "aspect": 6.59854
           },
           {
             "src": "assets/visuals/material-162-full-p245.jpg",
             "top": 0.0,
-            "height": 0.275482,
-            "aspect": 9.04
+            "height": 0.30854,
+            "aspect": 8.071429
           }
         ],
         [
           {
             "src": "assets/visuals/material-162-full-p245.jpg",
-            "top": 0.275482,
-            "height": 0.628099,
-            "aspect": 3.964912
+            "top": 0.30854,
+            "height": 0.595041,
+            "aspect": 4.185185
           }
         ]
       ],
@@ -12945,21 +12951,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-165-full-p248.jpg",
-            "top": 0.421892,
-            "height": 0.578108,
-            "aspect": 1.661765
+            "top": 0.434644,
+            "height": 0.565356,
+            "aspect": 1.699248
           },
           {
             "src": "assets/visuals/material-165-full-p249.jpg",
             "top": 0.0,
-            "height": 0.220452,
-            "aspect": 5.445783
+            "height": 0.236388,
+            "aspect": 5.078652
           }
         ],
         [
           {
             "src": "assets/visuals/material-165-full-p249.jpg",
-            "top": 0.220452,
+            "top": 0.236388,
             "height": 0.143426,
             "aspect": 8.37037
           }
@@ -12967,7 +12973,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-165-full-p249.jpg",
-            "top": 0.363878,
+            "top": 0.379814,
             "height": 0.192563,
             "aspect": 6.234483
           }
@@ -12975,7 +12981,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-165-full-p249.jpg",
-            "top": 0.556441,
+            "top": 0.572377,
             "height": 0.144754,
             "aspect": 8.293578
           }
@@ -12983,9 +12989,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-165-full-p249.jpg",
-            "top": 0.701195,
-            "height": 0.252324,
-            "aspect": 4.757895
+            "top": 0.717131,
+            "height": 0.236388,
+            "aspect": 5.078652
           }
         ]
       ],
@@ -13399,7 +13405,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-172-full-p260.jpg",
-            "top": 0.433849,
+            "top": 0.444158,
             "height": 0.093643,
             "aspect": 8.293578
           }
@@ -13407,7 +13413,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-172-full-p260.jpg",
-            "top": 0.527491,
+            "top": 0.537801,
             "height": 0.093643,
             "aspect": 8.293578
           }
@@ -13415,7 +13421,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-172-full-p260.jpg",
-            "top": 0.621134,
+            "top": 0.631443,
             "height": 0.091924,
             "aspect": 8.448598
           }
@@ -13423,7 +13429,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-172-full-p260.jpg",
-            "top": 0.713058,
+            "top": 0.723368,
             "height": 0.092784,
             "aspect": 8.37037
           }
@@ -13431,9 +13437,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-172-full-p260.jpg",
-            "top": 0.805842,
-            "height": 0.164089,
-            "aspect": 4.732984
+            "top": 0.816151,
+            "height": 0.15378,
+            "aspect": 5.050279
           }
         ]
       ],
@@ -13493,7 +13499,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-173-full-p261.jpg",
-            "top": 0.408946,
+            "top": 0.41853,
             "height": 0.116613,
             "aspect": 6.191781
           }
@@ -13501,7 +13507,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-173-full-p261.jpg",
-            "top": 0.525559,
+            "top": 0.535144,
             "height": 0.084665,
             "aspect": 8.528302
           }
@@ -13509,7 +13515,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-173-full-p261.jpg",
-            "top": 0.610224,
+            "top": 0.619808,
             "height": 0.115815,
             "aspect": 6.234483
           }
@@ -13517,7 +13523,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-173-full-p261.jpg",
-            "top": 0.726038,
+            "top": 0.735623,
             "height": 0.117412,
             "aspect": 6.14966
           }
@@ -13525,9 +13531,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-173-full-p261.jpg",
-            "top": 0.84345,
-            "height": 0.15655,
-            "aspect": 4.612245
+            "top": 0.853035,
+            "height": 0.146965,
+            "aspect": 4.913043
           },
           {
             "src": "assets/visuals/material-173-full-p262.jpg",
@@ -13594,7 +13600,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-174-full-p262.jpg",
-            "top": 0.778475,
+            "top": 0.789238,
             "height": 0.130045,
             "aspect": 6.234483
           }
@@ -13602,21 +13608,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-174-full-p262.jpg",
-            "top": 0.90852,
-            "height": 0.09148,
-            "aspect": 8.862745
+            "top": 0.919283,
+            "height": 0.080717,
+            "aspect": 10.044444
           },
           {
             "src": "assets/visuals/material-174-full-p263.jpg",
             "top": 0.0,
-            "height": 0.107827,
-            "aspect": 6.696296
+            "height": 0.117412,
+            "aspect": 6.14966
           }
         ],
         [
           {
             "src": "assets/visuals/material-174-full-p263.jpg",
-            "top": 0.107827,
+            "top": 0.117412,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -13624,7 +13630,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-174-full-p263.jpg",
-            "top": 0.194089,
+            "top": 0.203674,
             "height": 0.484824,
             "aspect": 1.489292
           }
@@ -13632,9 +13638,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-174-full-p263.jpg",
-            "top": 0.678914,
-            "height": 0.321086,
-            "aspect": 2.248756
+            "top": 0.688498,
+            "height": 0.311502,
+            "aspect": 2.317949
           }
         ]
       ],
@@ -13752,7 +13758,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-176-full-p266.jpg",
-            "top": 0.263019,
+            "top": 0.27361,
             "height": 0.095322,
             "aspect": 8.37037
           }
@@ -13760,7 +13766,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-176-full-p266.jpg",
-            "top": 0.358341,
+            "top": 0.368932,
             "height": 0.127096,
             "aspect": 6.277778
           }
@@ -13768,7 +13774,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-176-full-p266.jpg",
-            "top": 0.485437,
+            "top": 0.496028,
             "height": 0.123566,
             "aspect": 6.457143
           }
@@ -13776,7 +13782,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-176-full-p266.jpg",
-            "top": 0.609003,
+            "top": 0.619594,
             "height": 0.191527,
             "aspect": 4.165899
           }
@@ -13784,9 +13790,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-176-full-p266.jpg",
-            "top": 0.80053,
-            "height": 0.168579,
-            "aspect": 4.732984
+            "top": 0.811121,
+            "height": 0.157988,
+            "aspect": 5.050279
           }
         ]
       ],
@@ -13847,7 +13853,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-177-full-p267.jpg",
-            "top": 0.844249,
+            "top": 0.853834,
             "height": 0.115815,
             "aspect": 6.234483
           }
@@ -13856,14 +13862,14 @@ window.CARD_BANK = {
           {
             "src": "assets/visuals/material-177-full-p268.jpg",
             "top": 0.0,
-            "height": 0.198758,
-            "aspect": 7.0625
+            "height": 0.217391,
+            "aspect": 6.457143
           }
         ],
         [
           {
             "src": "assets/visuals/material-177-full-p268.jpg",
-            "top": 0.198758,
+            "top": 0.217391,
             "height": 0.225155,
             "aspect": 6.234483
           }
@@ -13871,7 +13877,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-177-full-p268.jpg",
-            "top": 0.423913,
+            "top": 0.442547,
             "height": 0.167702,
             "aspect": 8.37037
           }
@@ -13879,9 +13885,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-177-full-p268.jpg",
-            "top": 0.591615,
-            "height": 0.354037,
-            "aspect": 3.964912
+            "top": 0.610248,
+            "height": 0.335404,
+            "aspect": 4.185185
           }
         ]
       ],
@@ -14000,22 +14006,16 @@ window.CARD_BANK = {
       "questionCrops": [
         [
           {
-            "src": "assets/visuals/material-179-full-p270.jpg",
-            "top": 0.916596,
-            "height": 0.083404,
-            "aspect": 9.131313
-          },
-          {
             "src": "assets/visuals/material-179-full-p271.jpg",
             "top": 0.0,
-            "height": 0.121622,
-            "aspect": 9.131313
+            "height": 0.136364,
+            "aspect": 8.144144
           }
         ],
         [
           {
             "src": "assets/visuals/material-179-full-p271.jpg",
-            "top": 0.121622,
+            "top": 0.136364,
             "height": 0.132678,
             "aspect": 8.37037
           }
@@ -14023,7 +14023,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-179-full-p271.jpg",
-            "top": 0.2543,
+            "top": 0.269042,
             "height": 0.176904,
             "aspect": 6.277778
           }
@@ -14031,7 +14031,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-179-full-p271.jpg",
-            "top": 0.431204,
+            "top": 0.445946,
             "height": 0.178133,
             "aspect": 6.234483
           }
@@ -14039,9 +14039,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-179-full-p271.jpg",
-            "top": 0.609337,
-            "height": 0.347666,
-            "aspect": 3.194346
+            "top": 0.624079,
+            "height": 0.332924,
+            "aspect": 3.335793
           }
         ]
       ],
@@ -14161,7 +14161,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-181-full-p274.jpg",
-            "top": 0.271592,
+            "top": 0.284079,
             "height": 0.114464,
             "aspect": 8.218182
           }
@@ -14169,7 +14169,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-181-full-p274.jpg",
-            "top": 0.386056,
+            "top": 0.398543,
             "height": 0.112383,
             "aspect": 8.37037
           }
@@ -14177,7 +14177,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-181-full-p274.jpg",
-            "top": 0.498439,
+            "top": 0.510926,
             "height": 0.113424,
             "aspect": 8.293578
           }
@@ -14185,7 +14185,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-181-full-p274.jpg",
-            "top": 0.611863,
+            "top": 0.62435,
             "height": 0.112383,
             "aspect": 8.37037
           }
@@ -14193,9 +14193,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-181-full-p274.jpg",
-            "top": 0.724246,
-            "height": 0.239334,
-            "aspect": 3.930435
+            "top": 0.736733,
+            "height": 0.226847,
+            "aspect": 4.146789
           }
         ]
       ],
@@ -14839,21 +14839,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-192-full-p289.jpg",
-            "top": 0.312185,
-            "height": 0.687815,
-            "aspect": 1.323572
+            "top": 0.32427,
+            "height": 0.67573,
+            "aspect": 1.347243
           },
           {
             "src": "assets/visuals/material-192-full-p290.jpg",
             "top": 0.0,
-            "height": 0.539936,
-            "aspect": 1.337278
+            "height": 0.549521,
+            "aspect": 1.313953
           }
         ],
         [
           {
             "src": "assets/visuals/material-192-full-p290.jpg",
-            "top": 0.539936,
+            "top": 0.549521,
             "height": 0.085463,
             "aspect": 8.448598
           }
@@ -14861,7 +14861,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-192-full-p290.jpg",
-            "top": 0.625399,
+            "top": 0.634984,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -14869,7 +14869,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-192-full-p290.jpg",
-            "top": 0.711661,
+            "top": 0.721246,
             "height": 0.116613,
             "aspect": 6.191781
           }
@@ -14877,9 +14877,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-192-full-p290.jpg",
-            "top": 0.828275,
-            "height": 0.171725,
-            "aspect": 4.204651
+            "top": 0.837859,
+            "height": 0.162141,
+            "aspect": 4.453202
           }
         ]
       ],
@@ -14998,14 +14998,14 @@ window.CARD_BANK = {
           {
             "src": "assets/visuals/material-194-full-p293.jpg",
             "top": 0.0,
-            "height": 0.17374,
-            "aspect": 6.900763
+            "height": 0.189655,
+            "aspect": 6.321678
           }
         ],
         [
           {
             "src": "assets/visuals/material-194-full-p293.jpg",
-            "top": 0.17374,
+            "top": 0.189655,
             "height": 0.143236,
             "aspect": 8.37037
           }
@@ -15013,7 +15013,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-194-full-p293.jpg",
-            "top": 0.316976,
+            "top": 0.332891,
             "height": 0.143236,
             "aspect": 8.37037
           }
@@ -15021,7 +15021,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-194-full-p293.jpg",
-            "top": 0.460212,
+            "top": 0.476127,
             "height": 0.192308,
             "aspect": 6.234483
           }
@@ -15029,9 +15029,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-194-full-p293.jpg",
-            "top": 0.65252,
-            "height": 0.301061,
-            "aspect": 3.982379
+            "top": 0.668435,
+            "height": 0.285146,
+            "aspect": 4.204651
           }
         ]
       ],
@@ -15092,21 +15092,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-195-full-p293.jpg",
-            "top": 0.614458,
-            "height": 0.385542,
-            "aspect": 4.708333
+            "top": 0.638554,
+            "height": 0.361446,
+            "aspect": 5.022222
           },
           {
             "src": "assets/visuals/material-195-full-p294.jpg",
             "top": 0.0,
-            "height": 0.722045,
-            "aspect": 1.0
+            "height": 0.731629,
+            "aspect": 0.9869
           }
         ],
         [
           {
             "src": "assets/visuals/material-195-full-p294.jpg",
-            "top": 0.722045,
+            "top": 0.731629,
             "height": 0.087061,
             "aspect": 8.293578
           }
@@ -15114,31 +15114,25 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-195-full-p294.jpg",
-            "top": 0.809105,
+            "top": 0.81869,
             "height": 0.115016,
             "aspect": 6.277778
           }
         ],
         [
           {
-            "src": "assets/visuals/material-195-full-p294.jpg",
-            "top": 0.924121,
-            "height": 0.075879,
-            "aspect": 9.515789
-          },
-          {
             "src": "assets/visuals/material-195-full-p295.jpg",
             "top": 0.0,
-            "height": 0.298725,
-            "aspect": 5.512195
+            "height": 0.320583,
+            "aspect": 5.136364
           }
         ],
         [
           {
             "src": "assets/visuals/material-195-full-p295.jpg",
-            "top": 0.298725,
-            "height": 0.637523,
-            "aspect": 2.582857
+            "top": 0.320583,
+            "height": 0.615665,
+            "aspect": 2.674556
           }
         ]
       ],
@@ -15201,21 +15195,21 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-196-full-p295.jpg",
-            "top": 0.472262,
-            "height": 0.527738,
-            "aspect": 2.436658
+            "top": 0.489331,
+            "height": 0.510669,
+            "aspect": 2.518106
           },
           {
             "src": "assets/visuals/material-196-full-p296.jpg",
             "top": 0.0,
-            "height": 0.657348,
-            "aspect": 1.09842
+            "height": 0.666933,
+            "aspect": 1.082635
           }
         ],
         [
           {
             "src": "assets/visuals/material-196-full-p296.jpg",
-            "top": 0.657348,
+            "top": 0.666933,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -15223,7 +15217,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-196-full-p296.jpg",
-            "top": 0.74361,
+            "top": 0.753195,
             "height": 0.087061,
             "aspect": 8.293578
           }
@@ -15231,7 +15225,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-196-full-p296.jpg",
-            "top": 0.830671,
+            "top": 0.840256,
             "height": 0.115016,
             "aspect": 6.277778
           }
@@ -15303,14 +15297,14 @@ window.CARD_BANK = {
           {
             "src": "assets/visuals/material-197-full-p298.jpg",
             "top": 0.0,
-            "height": 0.169786,
-            "aspect": 7.11811
+            "height": 0.185829,
+            "aspect": 6.503597
           }
         ],
         [
           {
             "src": "assets/visuals/material-197-full-p298.jpg",
-            "top": 0.169786,
+            "top": 0.185829,
             "height": 0.145722,
             "aspect": 8.293578
           }
@@ -15318,7 +15312,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-197-full-p298.jpg",
-            "top": 0.315508,
+            "top": 0.331551,
             "height": 0.188503,
             "aspect": 6.411348
           }
@@ -15326,7 +15320,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-197-full-p298.jpg",
-            "top": 0.504011,
+            "top": 0.520053,
             "height": 0.19385,
             "aspect": 6.234483
           }
@@ -15334,9 +15328,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-197-full-p298.jpg",
-            "top": 0.697861,
-            "height": 0.255348,
-            "aspect": 4.732984
+            "top": 0.713904,
+            "height": 0.239305,
+            "aspect": 5.050279
           }
         ]
       ],
@@ -15397,7 +15391,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-198-full-p299.jpg",
-            "top": 0.416134,
+            "top": 0.425719,
             "height": 0.087061,
             "aspect": 8.293578
           }
@@ -15405,7 +15399,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-198-full-p299.jpg",
-            "top": 0.503195,
+            "top": 0.51278,
             "height": 0.086262,
             "aspect": 8.37037
           }
@@ -15413,7 +15407,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-198-full-p299.jpg",
-            "top": 0.589457,
+            "top": 0.599042,
             "height": 0.084665,
             "aspect": 8.528302
           }
@@ -15421,7 +15415,7 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-198-full-p299.jpg",
-            "top": 0.674121,
+            "top": 0.683706,
             "height": 0.115815,
             "aspect": 6.234483
           }
@@ -15429,9 +15423,9 @@ window.CARD_BANK = {
         [
           {
             "src": "assets/visuals/material-198-full-p299.jpg",
-            "top": 0.789936,
-            "height": 0.210064,
-            "aspect": 3.437262
+            "top": 0.799521,
+            "height": 0.200479,
+            "aspect": 3.601594
           }
         ]
       ],
