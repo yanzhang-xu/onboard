@@ -74,14 +74,17 @@ $('#restoreBuiltinBankBtn').onclick=()=>{if(confirm('恢复内置题库？已导
 
 function cropGroupCard(g,n,d=null,review=false){
   const card=getCard(g.id),c=document.createElement('article');
-  const chosen=d?.answers[g.id]||Array(5).fill(''),submitted=review||d?.submitted.includes(g.id);
+  const wrongIndexes=new Set(review?state.wrong.filter(x=>x.groupId===g.id).map(x=>x.index):[]);
+  const historyAnswers=review&&!d?Object.entries(state.days).sort(([a],[b])=>b.localeCompare(a)).map(([,day])=>day.answers?.[g.id]).find(Boolean):null;
+  const chosen=d?.answers[g.id]||historyAnswers||Array(5).fill(''),submitted=review||d?.submitted.includes(g.id);
   c.className='material-card card';
-  c.innerHTML=`<div class="material-head"><div><span class="q-no">材料 ${n}</span><strong>${g.title}</strong></div><span class="page-chip">5 题</span></div><div class="material-content"><div class="visual-stack crop-stack"></div></div><div class="answer-sheet"><h3>答题卡 <small>按图片中题目顺序填写</small></h3><div class="answer-grid"></div></div><div class="material-actions"><span class="group-result"></span>${review?'':'<button class="primary submit-group">提交本组</button>'}</div>`;
+  c.innerHTML=`<div class="material-head"><div><span class="q-no">${review?'错题材料':'材料'} ${n}</span><strong>${g.title}</strong></div><span class="page-chip">${review?wrongIndexes.size+' 道错题':'5 题'}</span></div><div class="material-content"><div class="visual-stack crop-stack"></div></div><div class="answer-sheet"><h3>${review?'错题答案':'答题卡'} <small>${review?'红色是你的答案，绿色是正确答案':'按图片中题目顺序填写'}</small></h3><div class="answer-grid"></div></div><div class="material-actions"><span class="group-result"></span>${review?'':'<button class="primary submit-group">提交本组</button>'}</div>`;
   const stack=c.querySelector('.crop-stack');
   card.fullVisuals.forEach((src,i)=>{const img=document.createElement('img');img.src=src;img.loading=i?'lazy':'eager';img.alt=`${g.title} 原题裁剪 ${i+1}`;stack.appendChild(img)});
   const grid=c.querySelector('.answer-grid');
   for(let i=0;i<5;i++){
     const row=document.createElement('div');row.className='answer-row';row.innerHTML=`<b>本组第 ${i+1} 题</b><div></div>`;
+    if(review&&!wrongIndexes.has(i)){row.hidden=true}else if(review){row.classList.add('wrong-review-row')}
     for(const l of letters){const b=document.createElement('button');b.textContent=l;b.className='answer-choice';if(chosen[i]===l)b.classList.add('selected');if(submitted&&g.answers[i]===l)b.classList.add('correct');if(submitted&&chosen[i]===l&&chosen[i]!==g.answers[i])b.classList.add('wrong');b.disabled=submitted||review;b.onclick=()=>{const a=d.answers[g.id]||Array(5).fill('');a[i]=l;d.answers[g.id]=a;save();render()};row.querySelector('div').appendChild(b)}
     grid.appendChild(row);
   }
@@ -99,6 +102,7 @@ function showReadyCover(list,isPast=false){
 }
 render=function(){
   renderDefault();
+  document.body.classList.toggle('review-mode',mode==='review');
   if(mode==='today')$('#dateText').textContent=new Intl.DateTimeFormat('zh-CN',{month:'long',day:'numeric',weekday:'long'}).format(new Date())+` · ${dailyMotto(dayKey)}`;
   const start=$('#startQuizBtn');
   start.textContent='开始答题';
