@@ -18,6 +18,13 @@ window.CARD_BANK = {
         "assets/visuals/material-001-material-p012.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-001-full-p010.jpg",
         "assets/visuals/material-001-full-p011.jpg",
@@ -70,6 +77,13 @@ window.CARD_BANK = {
         "assets/visuals/material-002-material-p013.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-002-full-p012.jpg",
         "assets/visuals/material-002-full-p013.jpg"
@@ -122,6 +136,48 @@ window.CARD_BANK = {
         "assets/visuals/material-003-questions-p013.jpg",
         "assets/visuals/material-003-questions-p014.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-003-full-p013.jpg",
+            "top": 0.693154,
+            "height": 0.177262,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-003-full-p013.jpg",
+            "top": 0.870416,
+            "height": 0.129584,
+            "aspect": 8.528302
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-003-full-p014.jpg",
+            "top": 0.087894,
+            "height": 0.238806,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-003-full-p014.jpg",
+            "top": 0.3267,
+            "height": 0.238806,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-003-full-p014.jpg",
+            "top": 0.565506,
+            "height": 0.376451,
+            "aspect": 3.982379
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-003-full-p013.jpg",
         "assets/visuals/material-003-full-p014.jpg"
@@ -173,6 +229,48 @@ window.CARD_BANK = {
       ],
       "questionVisuals": [
         "assets/visuals/material-004-questions-p015.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-004-full-p015.jpg",
+            "top": 0.127395,
+            "height": 0.103448,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-004-full-p015.jpg",
+            "top": 0.230843,
+            "height": 0.207854,
+            "aspect": 4.165899
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-004-full-p015.jpg",
+            "top": 0.438697,
+            "height": 0.137931,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-004-full-p015.jpg",
+            "top": 0.576628,
+            "height": 0.104406,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-004-full-p015.jpg",
+            "top": 0.681034,
+            "height": 0.285441,
+            "aspect": 3.033557
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-004-full-p014.jpg",
@@ -227,6 +325,54 @@ window.CARD_BANK = {
         "assets/visuals/material-005-questions-p016.jpg",
         "assets/visuals/material-005-questions-p017.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-005-full-p016.jpg",
+            "top": 0.415079,
+            "height": 0.085714,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-005-full-p016.jpg",
+            "top": 0.500794,
+            "height": 0.085714,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-005-full-p016.jpg",
+            "top": 0.586508,
+            "height": 0.114286,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-005-full-p016.jpg",
+            "top": 0.700794,
+            "height": 0.299206,
+            "aspect": 2.397878
+          },
+          {
+            "src": "assets/visuals/material-005-full-p017.jpg",
+            "top": 0.0,
+            "height": 0.503788,
+            "aspect": 3.398496
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-005-full-p017.jpg",
+            "top": 0.503788,
+            "height": 0.429924,
+            "aspect": 3.982379
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-005-full-p015.jpg",
         "assets/visuals/material-005-full-p016.jpg",
@@ -279,6 +425,13 @@ window.CARD_BANK = {
         "assets/visuals/material-006-material-p018.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-006-full-p017.jpg",
         "assets/visuals/material-006-full-p018.jpg"
@@ -329,6 +482,48 @@ window.CARD_BANK = {
       ],
       "questionVisuals": [
         "assets/visuals/material-007-questions-p019.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-007-full-p019.jpg",
+            "top": 0.0,
+            "height": 0.120461,
+            "aspect": 6.647059
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-007-full-p019.jpg",
+            "top": 0.120461,
+            "height": 0.09566,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-007-full-p019.jpg",
+            "top": 0.21612,
+            "height": 0.096546,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-007-full-p019.jpg",
+            "top": 0.312666,
+            "height": 0.361382,
+            "aspect": 2.215686
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-007-full-p019.jpg",
+            "top": 0.674048,
+            "height": 0.294951,
+            "aspect": 2.714715
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-007-full-p018.jpg",
@@ -381,6 +576,13 @@ window.CARD_BANK = {
         "assets/visuals/material-008-material-p021.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-008-full-p019.jpg",
         "assets/visuals/material-008-full-p020.jpg",
@@ -433,6 +635,13 @@ window.CARD_BANK = {
         "assets/visuals/material-009-material-p022.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-009-full-p021.jpg",
         "assets/visuals/material-009-full-p022.jpg"
@@ -484,6 +693,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-010-questions-p023.jpg",
         "assets/visuals/material-010-questions-p024.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-010-full-p023.jpg",
+            "top": 0.050319,
+            "height": 0.115815,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-010-full-p023.jpg",
+            "top": 0.166134,
+            "height": 0.115016,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-010-full-p023.jpg",
+            "top": 0.28115,
+            "height": 0.115815,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-010-full-p023.jpg",
+            "top": 0.396965,
+            "height": 0.371406,
+            "aspect": 1.944086
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-010-full-p023.jpg",
+            "top": 0.768371,
+            "height": 0.231629,
+            "aspect": 3.117241
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-010-full-p022.jpg",
@@ -539,6 +790,54 @@ window.CARD_BANK = {
         "assets/visuals/material-011-questions-p024.jpg",
         "assets/visuals/material-011-questions-p025.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-011-full-p024.jpg",
+            "top": 0.491789,
+            "height": 0.092481,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-011-full-p024.jpg",
+            "top": 0.58427,
+            "height": 0.125324,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-011-full-p024.jpg",
+            "top": 0.709594,
+            "height": 0.093345,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-011-full-p024.jpg",
+            "top": 0.802939,
+            "height": 0.197061,
+            "aspect": 3.964912
+          },
+          {
+            "src": "assets/visuals/material-011-full-p025.jpg",
+            "top": 0.0,
+            "height": 0.701058,
+            "aspect": 1.70566
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-011-full-p025.jpg",
+            "top": 0.701058,
+            "height": 0.252646,
+            "aspect": 4.732984
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-011-full-p024.jpg",
         "assets/visuals/material-011-full-p025.jpg"
@@ -589,6 +888,13 @@ window.CARD_BANK = {
         "assets/visuals/material-012-material-p026.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-012-full-p025.jpg",
         "assets/visuals/material-012-full-p026.jpg"
@@ -639,6 +945,13 @@ window.CARD_BANK = {
         "assets/visuals/material-013-material-p027.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-013-full-p026.jpg",
         "assets/visuals/material-013-full-p027.jpg"
@@ -689,6 +1002,13 @@ window.CARD_BANK = {
         "assets/visuals/material-014-material-p028.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-014-full-p027.jpg",
         "assets/visuals/material-014-full-p028.jpg"
@@ -740,6 +1060,13 @@ window.CARD_BANK = {
         "assets/visuals/material-015-material-p030.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-015-full-p028.jpg",
         "assets/visuals/material-015-full-p029.jpg",
@@ -793,6 +1120,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-016-questions-p031.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-016-full-p031.jpg",
+            "top": 0.0,
+            "height": 0.172414,
+            "aspect": 6.953846
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-016-full-p031.jpg",
+            "top": 0.172414,
+            "height": 0.143236,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-016-full-p031.jpg",
+            "top": 0.31565,
+            "height": 0.144562,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-016-full-p031.jpg",
+            "top": 0.460212,
+            "height": 0.190981,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-016-full-p031.jpg",
+            "top": 0.651194,
+            "height": 0.302387,
+            "aspect": 3.964912
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-016-full-p030.jpg",
         "assets/visuals/material-016-full-p031.jpg"
@@ -844,6 +1213,13 @@ window.CARD_BANK = {
         "assets/visuals/material-017-material-p033.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-017-full-p031.jpg",
         "assets/visuals/material-017-full-p032.jpg",
@@ -899,6 +1275,54 @@ window.CARD_BANK = {
         "assets/visuals/material-018-questions-p034.jpg",
         "assets/visuals/material-018-questions-p035.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-018-full-p034.jpg",
+            "top": 0.386581,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-018-full-p034.jpg",
+            "top": 0.472843,
+            "height": 0.087061,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-018-full-p034.jpg",
+            "top": 0.559904,
+            "height": 0.114217,
+            "aspect": 6.321678
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-018-full-p034.jpg",
+            "top": 0.674121,
+            "height": 0.144569,
+            "aspect": 4.994475
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-018-full-p034.jpg",
+            "top": 0.81869,
+            "height": 0.18131,
+            "aspect": 3.982379
+          },
+          {
+            "src": "assets/visuals/material-018-full-p035.jpg",
+            "top": 0.0,
+            "height": 0.801136,
+            "aspect": 6.411348
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-018-full-p033.jpg",
         "assets/visuals/material-018-full-p034.jpg",
@@ -951,6 +1375,13 @@ window.CARD_BANK = {
         "assets/visuals/material-019-material-p036.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-019-full-p035.jpg",
         "assets/visuals/material-019-full-p036.jpg"
@@ -1001,6 +1432,13 @@ window.CARD_BANK = {
         "assets/visuals/material-020-material-p037.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-020-full-p036.jpg",
         "assets/visuals/material-020-full-p037.jpg"
@@ -1053,6 +1491,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-021-questions-p038.jpg",
         "assets/visuals/material-021-questions-p039.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-021-full-p038.jpg",
+            "top": 0.180952,
+            "height": 0.086508,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-021-full-p038.jpg",
+            "top": 0.26746,
+            "height": 0.085714,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-021-full-p038.jpg",
+            "top": 0.353175,
+            "height": 0.115079,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-021-full-p038.jpg",
+            "top": 0.468254,
+            "height": 0.257143,
+            "aspect": 2.790123
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-021-full-p038.jpg",
+            "top": 0.725397,
+            "height": 0.274603,
+            "aspect": 2.612717
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-021-full-p037.jpg",
@@ -1108,6 +1588,54 @@ window.CARD_BANK = {
         "assets/visuals/material-022-questions-p039.jpg",
         "assets/visuals/material-022-questions-p040.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-022-full-p039.jpg",
+            "top": 0.43093,
+            "height": 0.093831,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-022-full-p039.jpg",
+            "top": 0.524761,
+            "height": 0.156386,
+            "aspect": 5.022222
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-022-full-p039.jpg",
+            "top": 0.681147,
+            "height": 0.0947,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-022-full-p039.jpg",
+            "top": 0.775847,
+            "height": 0.0947,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-022-full-p039.jpg",
+            "top": 0.870547,
+            "height": 0.129453,
+            "aspect": 6.067114
+          },
+          {
+            "src": "assets/visuals/material-022-full-p040.jpg",
+            "top": 0.0,
+            "height": 0.8,
+            "aspect": 6.457143
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-022-full-p039.jpg",
         "assets/visuals/material-022-full-p040.jpg"
@@ -1160,6 +1688,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-023-questions-p041.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-023-full-p041.jpg",
+            "top": 0.280788,
+            "height": 0.106404,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-023-full-p041.jpg",
+            "top": 0.387192,
+            "height": 0.107389,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-023-full-p041.jpg",
+            "top": 0.494581,
+            "height": 0.105419,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-023-full-p041.jpg",
+            "top": 0.6,
+            "height": 0.212808,
+            "aspect": 4.185185
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-023-full-p041.jpg",
+            "top": 0.812808,
+            "height": 0.152709,
+            "aspect": 5.832258
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-023-full-p040.jpg",
         "assets/visuals/material-023-full-p041.jpg"
@@ -1210,6 +1780,13 @@ window.CARD_BANK = {
         "assets/visuals/material-024-material-p042.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-024-full-p041.jpg",
         "assets/visuals/material-024-full-p042.jpg"
@@ -1263,6 +1840,54 @@ window.CARD_BANK = {
         "assets/visuals/material-025-questions-p043.jpg",
         "assets/visuals/material-025-questions-p044.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-025-full-p043.jpg",
+            "top": 0.480916,
+            "height": 0.091603,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-025-full-p043.jpg",
+            "top": 0.572519,
+            "height": 0.092451,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-025-full-p043.jpg",
+            "top": 0.66497,
+            "height": 0.090755,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-025-full-p043.jpg",
+            "top": 0.755725,
+            "height": 0.244275,
+            "aspect": 3.138889
+          },
+          {
+            "src": "assets/visuals/material-025-full-p044.jpg",
+            "top": 0.0,
+            "height": 0.461905,
+            "aspect": 4.659794
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-025-full-p044.jpg",
+            "top": 0.461905,
+            "height": 0.454762,
+            "aspect": 4.732984
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-025-full-p043.jpg",
         "assets/visuals/material-025-full-p044.jpg"
@@ -1315,6 +1940,54 @@ window.CARD_BANK = {
         "assets/visuals/material-026-questions-p044.jpg",
         "assets/visuals/material-026-questions-p045.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-026-full-p044.jpg",
+            "top": 0.72476,
+            "height": 0.129808,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-026-full-p044.jpg",
+            "top": 0.854567,
+            "height": 0.145433,
+            "aspect": 7.471074
+          },
+          {
+            "src": "assets/visuals/material-026-full-p045.jpg",
+            "top": 0.0,
+            "height": 0.178108,
+            "aspect": 9.416667
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-026-full-p045.jpg",
+            "top": 0.178108,
+            "height": 0.200371,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-026-full-p045.jpg",
+            "top": 0.378479,
+            "height": 0.200371,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-026-full-p045.jpg",
+            "top": 0.57885,
+            "height": 0.356215,
+            "aspect": 4.708333
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-026-full-p044.jpg",
         "assets/visuals/material-026-full-p045.jpg"
@@ -1365,6 +2038,13 @@ window.CARD_BANK = {
         "assets/visuals/material-027-material-p046.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-027-full-p045.jpg",
         "assets/visuals/material-027-full-p046.jpg"
@@ -1416,6 +2096,13 @@ window.CARD_BANK = {
         "assets/visuals/material-028-material-p048.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-028-full-p046.jpg",
         "assets/visuals/material-028-full-p047.jpg",
@@ -1470,6 +2157,54 @@ window.CARD_BANK = {
         "assets/visuals/material-029-questions-p048.jpg",
         "assets/visuals/material-029-questions-p049.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-029-full-p048.jpg",
+            "top": 0.586777,
+            "height": 0.099174,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-029-full-p048.jpg",
+            "top": 0.68595,
+            "height": 0.100092,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-029-full-p048.jpg",
+            "top": 0.786042,
+            "height": 0.099174,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-029-full-p048.jpg",
+            "top": 0.885216,
+            "height": 0.114784,
+            "aspect": 7.232
+          },
+          {
+            "src": "assets/visuals/material-029-full-p049.jpg",
+            "top": 0.0,
+            "height": 0.369748,
+            "aspect": 6.848485
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-029-full-p049.jpg",
+            "top": 0.369748,
+            "height": 0.532213,
+            "aspect": 4.757895
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-029-full-p048.jpg",
         "assets/visuals/material-029-full-p049.jpg"
@@ -1520,6 +2255,13 @@ window.CARD_BANK = {
         "assets/visuals/material-030-material-p050.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-030-full-p049.jpg",
         "assets/visuals/material-030-full-p050.jpg"
@@ -1570,6 +2312,13 @@ window.CARD_BANK = {
         "assets/visuals/material-031-material-p051.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-031-full-p050.jpg",
         "assets/visuals/material-031-full-p051.jpg"
@@ -1620,6 +2369,13 @@ window.CARD_BANK = {
         "assets/visuals/material-032-material-p052.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-032-full-p051.jpg",
         "assets/visuals/material-032-full-p052.jpg"
@@ -1671,6 +2427,48 @@ window.CARD_BANK = {
       ],
       "questionVisuals": [
         "assets/visuals/material-033-questions-p053.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-033-full-p053.jpg",
+            "top": 0.332754,
+            "height": 0.125109,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-033-full-p053.jpg",
+            "top": 0.457863,
+            "height": 0.0947,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-033-full-p053.jpg",
+            "top": 0.552563,
+            "height": 0.092963,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-033-full-p053.jpg",
+            "top": 0.645526,
+            "height": 0.093831,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-033-full-p053.jpg",
+            "top": 0.739357,
+            "height": 0.230235,
+            "aspect": 3.411321
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-033-full-p052.jpg",
@@ -1724,6 +2522,54 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-034-questions-p054.jpg",
         "assets/visuals/material-034-questions-p055.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-034-full-p054.jpg",
+            "top": 0.476038,
+            "height": 0.085463,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-034-full-p054.jpg",
+            "top": 0.561502,
+            "height": 0.115016,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-034-full-p054.jpg",
+            "top": 0.676518,
+            "height": 0.115016,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-034-full-p054.jpg",
+            "top": 0.791534,
+            "height": 0.116613,
+            "aspect": 6.191781
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-034-full-p054.jpg",
+            "top": 0.908147,
+            "height": 0.091853,
+            "aspect": 7.86087
+          },
+          {
+            "src": "assets/visuals/material-034-full-p055.jpg",
+            "top": 0.0,
+            "height": 0.837209,
+            "aspect": 5.022222
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-034-full-p053.jpg",
@@ -1779,6 +2625,48 @@ window.CARD_BANK = {
         "assets/visuals/material-035-questions-p055.jpg",
         "assets/visuals/material-035-questions-p056.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-035-full-p055.jpg",
+            "top": 0.340405,
+            "height": 0.138862,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-035-full-p055.jpg",
+            "top": 0.479267,
+            "height": 0.104147,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-035-full-p055.jpg",
+            "top": 0.583414,
+            "height": 0.104147,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-035-full-p055.jpg",
+            "top": 0.68756,
+            "height": 0.138862,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-035-full-p055.jpg",
+            "top": 0.826422,
+            "height": 0.173578,
+            "aspect": 5.022222
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-035-full-p055.jpg",
         "assets/visuals/material-035-full-p056.jpg"
@@ -1829,6 +2717,13 @@ window.CARD_BANK = {
         "assets/visuals/material-036-material-p057.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-036-full-p056.jpg",
         "assets/visuals/material-036-full-p057.jpg"
@@ -1881,6 +2776,48 @@ window.CARD_BANK = {
         "assets/visuals/material-037-questions-p057.jpg",
         "assets/visuals/material-037-questions-p058.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-037-full-p057.jpg",
+            "top": 0.62268,
+            "height": 0.149485,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-037-full-p057.jpg",
+            "top": 0.772165,
+            "height": 0.227835,
+            "aspect": 4.090498
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-037-full-p058.jpg",
+            "top": 0.134796,
+            "height": 0.169279,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-037-full-p058.jpg",
+            "top": 0.304075,
+            "height": 0.340125,
+            "aspect": 4.165899
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-037-full-p058.jpg",
+            "top": 0.644201,
+            "height": 0.30094,
+            "aspect": 4.708333
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-037-full-p057.jpg",
         "assets/visuals/material-037-full-p058.jpg"
@@ -1931,6 +2868,13 @@ window.CARD_BANK = {
         "assets/visuals/material-038-material-p059.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-038-full-p058.jpg",
         "assets/visuals/material-038-full-p059.jpg"
@@ -1981,6 +2925,48 @@ window.CARD_BANK = {
       ],
       "questionVisuals": [
         "assets/visuals/material-039-questions-p060.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-039-full-p060.jpg",
+            "top": 0.0,
+            "height": 0.15493,
+            "aspect": 7.471074
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-039-full-p060.jpg",
+            "top": 0.15493,
+            "height": 0.184379,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-039-full-p060.jpg",
+            "top": 0.339309,
+            "height": 0.277849,
+            "aspect": 4.165899
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-039-full-p060.jpg",
+            "top": 0.617157,
+            "height": 0.138284,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-039-full-p060.jpg",
+            "top": 0.755442,
+            "height": 0.199744,
+            "aspect": 5.794872
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-039-full-p059.jpg",
@@ -2033,6 +3019,13 @@ window.CARD_BANK = {
         "assets/visuals/material-040-material-p062.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-040-full-p060.jpg",
         "assets/visuals/material-040-full-p061.jpg",
@@ -2087,6 +3080,54 @@ window.CARD_BANK = {
         "assets/visuals/material-041-questions-p062.jpg",
         "assets/visuals/material-041-questions-p063.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-041-full-p062.jpg",
+            "top": 0.594243,
+            "height": 0.100279,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-041-full-p062.jpg",
+            "top": 0.694522,
+            "height": 0.101207,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-041-full-p062.jpg",
+            "top": 0.795729,
+            "height": 0.204271,
+            "aspect": 4.109091
+          },
+          {
+            "src": "assets/visuals/material-041-full-p063.jpg",
+            "top": 0.0,
+            "height": 0.195228,
+            "aspect": 10.044444
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-041-full-p063.jpg",
+            "top": 0.195228,
+            "height": 0.314534,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-041-full-p063.jpg",
+            "top": 0.509761,
+            "height": 0.414317,
+            "aspect": 4.732984
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-041-full-p062.jpg",
         "assets/visuals/material-041-full-p063.jpg"
@@ -2137,6 +3178,13 @@ window.CARD_BANK = {
         "assets/visuals/material-042-material-p064.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-042-full-p063.jpg",
         "assets/visuals/material-042-full-p064.jpg"
@@ -2187,6 +3235,13 @@ window.CARD_BANK = {
         "assets/visuals/material-043-material-p065.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-043-full-p064.jpg",
         "assets/visuals/material-043-full-p065.jpg"
@@ -2240,6 +3295,48 @@ window.CARD_BANK = {
         "assets/visuals/material-044-questions-p066.jpg",
         "assets/visuals/material-044-questions-p067.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-044-full-p066.jpg",
+            "top": 0.505872,
+            "height": 0.089765,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-044-full-p066.jpg",
+            "top": 0.595638,
+            "height": 0.120805,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-044-full-p066.jpg",
+            "top": 0.716443,
+            "height": 0.121644,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-044-full-p066.jpg",
+            "top": 0.838087,
+            "height": 0.090604,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-044-full-p067.jpg",
+            "top": 0.0,
+            "height": 0.835681,
+            "aspect": 5.078652
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-044-full-p066.jpg",
         "assets/visuals/material-044-full-p067.jpg"
@@ -2290,6 +3387,13 @@ window.CARD_BANK = {
         "assets/visuals/material-045-material-p068.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-045-full-p067.jpg",
         "assets/visuals/material-045-full-p068.jpg"
@@ -2341,6 +3445,54 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-046-questions-p068.jpg",
         "assets/visuals/material-046-questions-p069.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-046-full-p068.jpg",
+            "top": 0.563927,
+            "height": 0.124429,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-046-full-p068.jpg",
+            "top": 0.688356,
+            "height": 0.123288,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-046-full-p068.jpg",
+            "top": 0.811644,
+            "height": 0.188356,
+            "aspect": 5.478788
+          },
+          {
+            "src": "assets/visuals/material-046-full-p069.jpg",
+            "top": 0.0,
+            "height": 0.215457,
+            "aspect": 9.826087
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-046-full-p069.jpg",
+            "top": 0.215457,
+            "height": 0.255269,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-046-full-p069.jpg",
+            "top": 0.470726,
+            "height": 0.447307,
+            "aspect": 4.732984
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-046-full-p068.jpg",
@@ -2394,6 +3546,48 @@ window.CARD_BANK = {
         "assets/visuals/material-047-questions-p069.jpg",
         "assets/visuals/material-047-questions-p070.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-047-full-p069.jpg",
+            "top": 0.818182,
+            "height": 0.181818,
+            "aspect": 6.026667
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-047-full-p070.jpg",
+            "top": 0.079439,
+            "height": 0.169782,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-047-full-p070.jpg",
+            "top": 0.249221,
+            "height": 0.224299,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-047-full-p070.jpg",
+            "top": 0.47352,
+            "height": 0.225857,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-047-full-p070.jpg",
+            "top": 0.699377,
+            "height": 0.246106,
+            "aspect": 5.721519
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-047-full-p069.jpg",
         "assets/visuals/material-047-full-p070.jpg"
@@ -2446,6 +3640,54 @@ window.CARD_BANK = {
         "assets/visuals/material-048-questions-p070.jpg",
         "assets/visuals/material-048-questions-p071.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-048-full-p070.jpg",
+            "top": 0.808197,
+            "height": 0.191803,
+            "aspect": 7.726496
+          },
+          {
+            "src": "assets/visuals/material-048-full-p071.jpg",
+            "top": 0.0,
+            "height": 0.14792,
+            "aspect": 9.416667
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-048-full-p071.jpg",
+            "top": 0.14792,
+            "height": 0.164869,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-048-full-p071.jpg",
+            "top": 0.312789,
+            "height": 0.169492,
+            "aspect": 8.218182
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-048-full-p071.jpg",
+            "top": 0.48228,
+            "height": 0.167951,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-048-full-p071.jpg",
+            "top": 0.650231,
+            "height": 0.29584,
+            "aspect": 4.708333
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-048-full-p070.jpg",
         "assets/visuals/material-048-full-p071.jpg"
@@ -2496,6 +3738,13 @@ window.CARD_BANK = {
         "assets/visuals/material-049-material-p072.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-049-full-p071.jpg",
         "assets/visuals/material-049-full-p072.jpg"
@@ -2547,6 +3796,13 @@ window.CARD_BANK = {
         "assets/visuals/material-050-material-p074.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-050-full-p072.jpg",
         "assets/visuals/material-050-full-p073.jpg",
@@ -2601,6 +3857,54 @@ window.CARD_BANK = {
         "assets/visuals/material-051-questions-p074.jpg",
         "assets/visuals/material-051-questions-p075.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-051-full-p074.jpg",
+            "top": 0.368146,
+            "height": 0.094865,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-051-full-p074.jpg",
+            "top": 0.463011,
+            "height": 0.093124,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-051-full-p074.jpg",
+            "top": 0.556136,
+            "height": 0.126197,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-051-full-p074.jpg",
+            "top": 0.682332,
+            "height": 0.094865,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-051-full-p074.jpg",
+            "top": 0.777198,
+            "height": 0.222802,
+            "aspect": 3.53125
+          },
+          {
+            "src": "assets/visuals/material-051-full-p075.jpg",
+            "top": 0.0,
+            "height": 0.765101,
+            "aspect": 7.929825
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-051-full-p074.jpg",
         "assets/visuals/material-051-full-p075.jpg"
@@ -2651,6 +3955,13 @@ window.CARD_BANK = {
         "assets/visuals/material-052-material-p076.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-052-full-p075.jpg",
         "assets/visuals/material-052-full-p076.jpg"
@@ -2703,6 +4014,54 @@ window.CARD_BANK = {
         "assets/visuals/material-053-questions-p076.jpg",
         "assets/visuals/material-053-questions-p077.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-053-full-p076.jpg",
+            "top": 0.526932,
+            "height": 0.473068,
+            "aspect": 2.237624
+          },
+          {
+            "src": "assets/visuals/material-053-full-p077.jpg",
+            "top": 0.0,
+            "height": 0.114319,
+            "aspect": 9.131313
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-053-full-p077.jpg",
+            "top": 0.114319,
+            "height": 0.166282,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-053-full-p077.jpg",
+            "top": 0.2806,
+            "height": 0.166282,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-053-full-p077.jpg",
+            "top": 0.446882,
+            "height": 0.209007,
+            "aspect": 4.994475
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-053-full-p077.jpg",
+            "top": 0.655889,
+            "height": 0.303695,
+            "aspect": 3.437262
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-053-full-p076.jpg",
         "assets/visuals/material-053-full-p077.jpg"
@@ -2753,6 +4112,13 @@ window.CARD_BANK = {
         "assets/visuals/material-054-material-p078.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-054-full-p077.jpg",
         "assets/visuals/material-054-full-p078.jpg"
@@ -2804,6 +4170,13 @@ window.CARD_BANK = {
         "assets/visuals/material-055-material-p080.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-055-full-p078.jpg",
         "assets/visuals/material-055-full-p079.jpg",
@@ -2860,6 +4233,54 @@ window.CARD_BANK = {
         "assets/visuals/material-056-questions-p082.jpg",
         "assets/visuals/material-056-questions-p083.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-056-full-p080.jpg",
+            "top": 0.712821,
+            "height": 0.108718,
+            "aspect": 8.528302
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-056-full-p080.jpg",
+            "top": 0.821538,
+            "height": 0.178462,
+            "aspect": 5.195402
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-056-full-p081.jpg",
+            "top": 0.046326,
+            "height": 0.083866,
+            "aspect": 8.609524
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-056-full-p081.jpg",
+            "top": 0.130192,
+            "height": 0.111821,
+            "aspect": 6.457143
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-056-full-p081.jpg",
+            "top": 0.242013,
+            "height": 0.757987,
+            "aspect": 0.952582
+          },
+          {
+            "src": "assets/visuals/material-056-full-p082.jpg",
+            "top": 0.0,
+            "height": 1.0,
+            "aspect": 0.722045
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-056-full-p080.jpg",
         "assets/visuals/material-056-full-p081.jpg",
@@ -2914,6 +4335,13 @@ window.CARD_BANK = {
         "assets/visuals/material-057-material-p084.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-057-full-p083.jpg",
         "assets/visuals/material-057-full-p084.jpg"
@@ -2964,6 +4392,13 @@ window.CARD_BANK = {
         "assets/visuals/material-058-material-p085.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-058-full-p084.jpg",
         "assets/visuals/material-058-full-p085.jpg"
@@ -3014,6 +4449,13 @@ window.CARD_BANK = {
         "assets/visuals/material-059-material-p086.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-059-full-p085.jpg",
         "assets/visuals/material-059-full-p086.jpg"
@@ -3064,6 +4506,13 @@ window.CARD_BANK = {
         "assets/visuals/material-060-material-p087.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-060-full-p086.jpg",
         "assets/visuals/material-060-full-p087.jpg"
@@ -3115,6 +4564,13 @@ window.CARD_BANK = {
         "assets/visuals/material-061-material-p089.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-061-full-p088.jpg",
         "assets/visuals/material-061-full-p089.jpg"
@@ -3166,6 +4622,40 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-062-questions-p089.jpg",
         "assets/visuals/material-062-questions-p090.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-062-full-p089.jpg",
+            "top": 0.179221,
+            "height": 0.186147,
+            "aspect": 4.204651
+          }
+        ],
+        [],
+        [],
+        [
+          {
+            "src": "assets/visuals/material-062-full-p089.jpg",
+            "top": 0.45974,
+            "height": 0.249351,
+            "aspect": 3.138889
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-062-full-p089.jpg",
+            "top": 0.709091,
+            "height": 0.290909,
+            "aspect": 2.690476
+          },
+          {
+            "src": "assets/visuals/material-062-full-p090.jpg",
+            "top": 0.0,
+            "height": 0.944882,
+            "aspect": 1.506667
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-062-full-p089.jpg",
@@ -3219,6 +4709,48 @@ window.CARD_BANK = {
         "assets/visuals/material-063-questions-p090.jpg",
         "assets/visuals/material-063-questions-p091.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-063-full-p090.jpg",
+            "top": 0.5632,
+            "height": 0.1728,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-063-full-p090.jpg",
+            "top": 0.736,
+            "height": 0.264,
+            "aspect": 5.478788
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-063-full-p091.jpg",
+            "top": 0.073548,
+            "height": 0.139355,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-063-full-p091.jpg",
+            "top": 0.212903,
+            "height": 0.543226,
+            "aspect": 2.147268
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-063-full-p091.jpg",
+            "top": 0.756129,
+            "height": 0.19871,
+            "aspect": 5.87013
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-063-full-p090.jpg",
         "assets/visuals/material-063-full-p091.jpg"
@@ -3271,6 +4803,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-064-questions-p092.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-064-full-p092.jpg",
+            "top": 0.270635,
+            "height": 0.086508,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-064-full-p092.jpg",
+            "top": 0.357143,
+            "height": 0.085714,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-064-full-p092.jpg",
+            "top": 0.442857,
+            "height": 0.086508,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-064-full-p092.jpg",
+            "top": 0.529365,
+            "height": 0.211905,
+            "aspect": 3.385768
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-064-full-p092.jpg",
+            "top": 0.74127,
+            "height": 0.25873,
+            "aspect": 2.773006
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-064-full-p091.jpg",
         "assets/visuals/material-064-full-p092.jpg"
@@ -3322,6 +4896,13 @@ window.CARD_BANK = {
         "assets/visuals/material-065-material-p094.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-065-full-p093.jpg",
         "assets/visuals/material-065-full-p094.jpg"
@@ -3373,6 +4954,13 @@ window.CARD_BANK = {
         "assets/visuals/material-066-material-p096.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-066-full-p094.jpg",
         "assets/visuals/material-066-full-p095.jpg",
@@ -3426,6 +5014,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-067-questions-p096.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-067-full-p096.jpg",
+            "top": 0.152982,
+            "height": 0.378565,
+            "aspect": 2.063927
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-067-full-p096.jpg",
+            "top": 0.531547,
+            "height": 0.093345,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-067-full-p096.jpg",
+            "top": 0.624892,
+            "height": 0.093345,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-067-full-p096.jpg",
+            "top": 0.718237,
+            "height": 0.125324,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-067-full-p096.jpg",
+            "top": 0.843561,
+            "height": 0.156439,
+            "aspect": 4.994475
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-067-full-p096.jpg"
       ],
@@ -3476,6 +5106,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-068-questions-p097.jpg",
         "assets/visuals/material-068-questions-p098.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-068-full-p097.jpg",
+            "top": 0.677092,
+            "height": 0.153001,
+            "aspect": 4.994475
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-068-full-p097.jpg",
+            "top": 0.830093,
+            "height": 0.12257,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-068-full-p098.jpg",
+            "top": 0.0,
+            "height": 0.267327,
+            "aspect": 5.580247
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-068-full-p098.jpg",
+            "top": 0.267327,
+            "height": 0.239274,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-068-full-p098.jpg",
+            "top": 0.506601,
+            "height": 0.435644,
+            "aspect": 3.424242
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-068-full-p097.jpg",
@@ -3528,6 +5200,13 @@ window.CARD_BANK = {
         "assets/visuals/material-069-material-p100.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-069-full-p098.jpg",
         "assets/visuals/material-069-full-p099.jpg",
@@ -3582,6 +5261,48 @@ window.CARD_BANK = {
         "assets/visuals/material-070-questions-p100.jpg",
         "assets/visuals/material-070-questions-p101.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-070-full-p100.jpg",
+            "top": 0.673713,
+            "height": 0.100184,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-070-full-p100.jpg",
+            "top": 0.773897,
+            "height": 0.099265,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-070-full-p100.jpg",
+            "top": 0.873162,
+            "height": 0.126838,
+            "aspect": 6.550725
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-070-full-p101.jpg",
+            "top": 0.151899,
+            "height": 0.275949,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-070-full-p101.jpg",
+            "top": 0.427848,
+            "height": 0.483544,
+            "aspect": 4.732984
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-070-full-p100.jpg",
         "assets/visuals/material-070-full-p101.jpg"
@@ -3633,6 +5354,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-071-questions-p101.jpg",
         "assets/visuals/material-071-questions-p102.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-071-full-p101.jpg",
+            "top": 0.63944,
+            "height": 0.169195,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-071-full-p101.jpg",
+            "top": 0.808635,
+            "height": 0.191365,
+            "aspect": 5.512195
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-071-full-p102.jpg",
+            "top": 0.075301,
+            "height": 0.218373,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-071-full-p102.jpg",
+            "top": 0.293675,
+            "height": 0.417169,
+            "aspect": 3.263538
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-071-full-p102.jpg",
+            "top": 0.710843,
+            "height": 0.236446,
+            "aspect": 5.757962
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-071-full-p101.jpg",
@@ -3686,6 +5449,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-072-questions-p103.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-072-full-p103.jpg",
+            "top": 0.338658,
+            "height": 0.087859,
+            "aspect": 8.218182
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-072-full-p103.jpg",
+            "top": 0.426518,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-072-full-p103.jpg",
+            "top": 0.51278,
+            "height": 0.085463,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-072-full-p103.jpg",
+            "top": 0.598243,
+            "height": 0.115815,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-072-full-p103.jpg",
+            "top": 0.714058,
+            "height": 0.285942,
+            "aspect": 2.52514
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-072-full-p102.jpg",
         "assets/visuals/material-072-full-p103.jpg"
@@ -3737,6 +5542,13 @@ window.CARD_BANK = {
         "assets/visuals/material-073-material-p105.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-073-full-p104.jpg",
         "assets/visuals/material-073-full-p105.jpg"
@@ -3789,6 +5601,48 @@ window.CARD_BANK = {
         "assets/visuals/material-074-questions-p105.jpg",
         "assets/visuals/material-074-questions-p106.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-074-full-p105.jpg",
+            "top": 0.497997,
+            "height": 0.144192,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-074-full-p105.jpg",
+            "top": 0.64219,
+            "height": 0.144192,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-074-full-p105.jpg",
+            "top": 0.786382,
+            "height": 0.145527,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-074-full-p106.jpg",
+            "top": 0.0,
+            "height": 0.606957,
+            "aspect": 2.590258
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-074-full-p106.jpg",
+            "top": 0.606957,
+            "height": 0.332174,
+            "aspect": 4.732984
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-074-full-p105.jpg",
         "assets/visuals/material-074-full-p106.jpg"
@@ -3839,6 +5693,13 @@ window.CARD_BANK = {
         "assets/visuals/material-075-material-p107.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-075-full-p106.jpg",
         "assets/visuals/material-075-full-p107.jpg"
@@ -3889,6 +5750,48 @@ window.CARD_BANK = {
       ],
       "questionVisuals": [
         "assets/visuals/material-076-questions-p108.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-076-full-p108.jpg",
+            "top": 0.039936,
+            "height": 0.087859,
+            "aspect": 8.218182
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-076-full-p108.jpg",
+            "top": 0.127796,
+            "height": 0.304313,
+            "aspect": 2.372703
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-076-full-p108.jpg",
+            "top": 0.432109,
+            "height": 0.115016,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-076-full-p108.jpg",
+            "top": 0.547125,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-076-full-p108.jpg",
+            "top": 0.633387,
+            "height": 0.366613,
+            "aspect": 1.969499
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-076-full-p107.jpg",
@@ -3943,6 +5846,48 @@ window.CARD_BANK = {
         "assets/visuals/material-077-questions-p109.jpg",
         "assets/visuals/material-077-questions-p110.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-077-full-p109.jpg",
+            "top": 0.739241,
+            "height": 0.121519,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-077-full-p109.jpg",
+            "top": 0.860759,
+            "height": 0.139241,
+            "aspect": 5.478788
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-077-full-p110.jpg",
+            "top": 0.145937,
+            "height": 0.238806,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-077-full-p110.jpg",
+            "top": 0.384743,
+            "height": 0.240464,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-077-full-p110.jpg",
+            "top": 0.625207,
+            "height": 0.31675,
+            "aspect": 4.732984
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-077-full-p109.jpg",
         "assets/visuals/material-077-full-p110.jpg"
@@ -3995,6 +5940,47 @@ window.CARD_BANK = {
         "assets/visuals/material-078-questions-p110.jpg",
         "assets/visuals/material-078-questions-p111.jpg"
       ],
+      "questionCrops": [
+        [],
+        [
+          {
+            "src": "assets/visuals/material-078-full-p110.jpg",
+            "top": 0.223421,
+            "height": 0.281972,
+            "aspect": 4.939891
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-078-full-p110.jpg",
+            "top": 0.505393,
+            "height": 0.224961,
+            "aspect": 6.191781
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-078-full-p110.jpg",
+            "top": 0.730354,
+            "height": 0.269646,
+            "aspect": 5.165714
+          },
+          {
+            "src": "assets/visuals/material-078-full-p111.jpg",
+            "top": 0.0,
+            "height": 0.681652,
+            "aspect": 1.611408
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-078-full-p111.jpg",
+            "top": 0.681652,
+            "height": 0.27582,
+            "aspect": 3.982379
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-078-full-p110.jpg",
         "assets/visuals/material-078-full-p111.jpg"
@@ -4046,6 +6032,13 @@ window.CARD_BANK = {
         "assets/visuals/material-079-material-p113.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-079-full-p111.jpg",
         "assets/visuals/material-079-full-p112.jpg",
@@ -4100,6 +6093,48 @@ window.CARD_BANK = {
         "assets/visuals/material-080-questions-p113.jpg",
         "assets/visuals/material-080-questions-p114.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-080-full-p113.jpg",
+            "top": 0.401192,
+            "height": 0.103277,
+            "aspect": 8.692308
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-080-full-p113.jpg",
+            "top": 0.504469,
+            "height": 0.10427,
+            "aspect": 8.609524
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-080-full-p113.jpg",
+            "top": 0.608739,
+            "height": 0.10427,
+            "aspect": 8.609524
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-080-full-p113.jpg",
+            "top": 0.713009,
+            "height": 0.286991,
+            "aspect": 3.128028
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-080-full-p114.jpg",
+            "top": 0.15142,
+            "height": 0.73817,
+            "aspect": 3.863248
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-080-full-p113.jpg",
         "assets/visuals/material-080-full-p114.jpg"
@@ -4153,6 +6188,54 @@ window.CARD_BANK = {
         "assets/visuals/material-081-questions-p115.jpg",
         "assets/visuals/material-081-questions-p116.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-081-full-p115.jpg",
+            "top": 0.394444,
+            "height": 0.115873,
+            "aspect": 6.191781
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-081-full-p115.jpg",
+            "top": 0.510317,
+            "height": 0.086508,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-081-full-p115.jpg",
+            "top": 0.596825,
+            "height": 0.087302,
+            "aspect": 8.218182
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-081-full-p115.jpg",
+            "top": 0.684127,
+            "height": 0.315873,
+            "aspect": 2.271357
+          },
+          {
+            "src": "assets/visuals/material-081-full-p116.jpg",
+            "top": 0.0,
+            "height": 0.540161,
+            "aspect": 3.360595
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-081-full-p116.jpg",
+            "top": 0.540161,
+            "height": 0.389558,
+            "aspect": 4.659794
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-081-full-p114.jpg",
         "assets/visuals/material-081-full-p115.jpg",
@@ -4205,6 +6288,13 @@ window.CARD_BANK = {
         "assets/visuals/material-082-material-p117.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-082-full-p116.jpg",
         "assets/visuals/material-082-full-p117.jpg"
@@ -4255,6 +6345,13 @@ window.CARD_BANK = {
         "assets/visuals/material-083-material-p118.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-083-full-p117.jpg",
         "assets/visuals/material-083-full-p118.jpg"
@@ -4308,6 +6405,48 @@ window.CARD_BANK = {
         "assets/visuals/material-084-questions-p119.jpg",
         "assets/visuals/material-084-questions-p120.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-084-full-p119.jpg",
+            "top": 0.324003,
+            "height": 0.536047,
+            "aspect": 1.43038
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-084-full-p119.jpg",
+            "top": 0.860051,
+            "height": 0.139949,
+            "aspect": 5.478788
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-084-full-p120.jpg",
+            "top": 0.092628,
+            "height": 0.274102,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-084-full-p120.jpg",
+            "top": 0.36673,
+            "height": 0.272212,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-084-full-p120.jpg",
+            "top": 0.638941,
+            "height": 0.294896,
+            "aspect": 5.794872
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-084-full-p119.jpg",
         "assets/visuals/material-084-full-p120.jpg"
@@ -4359,6 +6498,54 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-085-questions-p120.jpg",
         "assets/visuals/material-085-questions-p121.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-085-full-p120.jpg",
+            "top": 0.452804,
+            "height": 0.399453,
+            "aspect": 3.09589
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-085-full-p120.jpg",
+            "top": 0.852257,
+            "height": 0.147743,
+            "aspect": 8.37037
+          },
+          {
+            "src": "assets/visuals/material-085-full-p121.jpg",
+            "top": 0.0,
+            "height": 0.13622,
+            "aspect": 7.007752
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-085-full-p121.jpg",
+            "top": 0.13622,
+            "height": 0.223865,
+            "aspect": 4.264151
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-085-full-p121.jpg",
+            "top": 0.360084,
+            "height": 0.364308,
+            "aspect": 2.62029
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-085-full-p121.jpg",
+            "top": 0.724393,
+            "height": 0.238648,
+            "aspect": 4.0
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-085-full-p120.jpg",
@@ -4413,6 +6600,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-086-questions-p123.jpg",
         "assets/visuals/material-086-questions-p124.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-086-full-p123.jpg",
+            "top": 0.298413,
+            "height": 0.086508,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-086-full-p123.jpg",
+            "top": 0.384921,
+            "height": 0.085714,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-086-full-p123.jpg",
+            "top": 0.470635,
+            "height": 0.14127,
+            "aspect": 5.078652
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-086-full-p123.jpg",
+            "top": 0.611905,
+            "height": 0.086508,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-086-full-p123.jpg",
+            "top": 0.698413,
+            "height": 0.301587,
+            "aspect": 2.378947
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-086-full-p121.jpg",
@@ -4470,6 +6699,54 @@ window.CARD_BANK = {
         "assets/visuals/material-087-questions-p124.jpg",
         "assets/visuals/material-087-questions-p125.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-087-full-p124.jpg",
+            "top": 0.636833,
+            "height": 0.123924,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-087-full-p124.jpg",
+            "top": 0.760757,
+            "height": 0.093804,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-087-full-p124.jpg",
+            "top": 0.854561,
+            "height": 0.145439,
+            "aspect": 5.349112
+          },
+          {
+            "src": "assets/visuals/material-087-full-p125.jpg",
+            "top": 0.0,
+            "height": 0.157556,
+            "aspect": 9.22449
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-087-full-p125.jpg",
+            "top": 0.157556,
+            "height": 0.477492,
+            "aspect": 3.043771
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-087-full-p125.jpg",
+            "top": 0.635048,
+            "height": 0.308682,
+            "aspect": 4.708333
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-087-full-p124.jpg",
         "assets/visuals/material-087-full-p125.jpg"
@@ -4522,6 +6799,13 @@ window.CARD_BANK = {
         "assets/visuals/material-088-material-p128.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-088-full-p125.jpg",
         "assets/visuals/material-088-full-p126.jpg",
@@ -4577,6 +6861,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-089-questions-p129.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-089-full-p129.jpg",
+            "top": 0.070807,
+            "height": 0.135404,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-089-full-p129.jpg",
+            "top": 0.206211,
+            "height": 0.134161,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-089-full-p129.jpg",
+            "top": 0.340373,
+            "height": 0.134161,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-089-full-p129.jpg",
+            "top": 0.474534,
+            "height": 0.134161,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-089-full-p129.jpg",
+            "top": 0.608696,
+            "height": 0.347826,
+            "aspect": 3.228571
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-089-full-p128.jpg",
         "assets/visuals/material-089-full-p129.jpg"
@@ -4629,6 +6955,60 @@ window.CARD_BANK = {
         "assets/visuals/material-090-questions-p129.jpg",
         "assets/visuals/material-090-questions-p130.jpg",
         "assets/visuals/material-090-questions-p131.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-090-full-p129.jpg",
+            "top": 0.259508,
+            "height": 0.740492,
+            "aspect": 2.731118
+          },
+          {
+            "src": "assets/visuals/material-090-full-p130.jpg",
+            "top": 0.0,
+            "height": 0.454473,
+            "aspect": 1.588752
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-090-full-p130.jpg",
+            "top": 0.454473,
+            "height": 0.087061,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-090-full-p130.jpg",
+            "top": 0.541534,
+            "height": 0.085463,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-090-full-p130.jpg",
+            "top": 0.626997,
+            "height": 0.185304,
+            "aspect": 3.896552
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-090-full-p130.jpg",
+            "top": 0.8123,
+            "height": 0.1877,
+            "aspect": 3.846809
+          },
+          {
+            "src": "assets/visuals/material-090-full-p131.jpg",
+            "top": 0.0,
+            "height": 0.755245,
+            "aspect": 8.37037
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-090-full-p129.jpg",
@@ -4684,6 +7064,48 @@ window.CARD_BANK = {
         "assets/visuals/material-091-questions-p131.jpg",
         "assets/visuals/material-091-questions-p132.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-091-full-p131.jpg",
+            "top": 0.843102,
+            "height": 0.097385,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-091-full-p132.jpg",
+            "top": 0.0,
+            "height": 0.217742,
+            "aspect": 5.580247
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-091-full-p132.jpg",
+            "top": 0.217742,
+            "height": 0.145161,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-091-full-p132.jpg",
+            "top": 0.362903,
+            "height": 0.193548,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-091-full-p132.jpg",
+            "top": 0.556452,
+            "height": 0.396505,
+            "aspect": 3.064407
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-091-full-p131.jpg",
         "assets/visuals/material-091-full-p132.jpg"
@@ -4735,6 +7157,13 @@ window.CARD_BANK = {
         "assets/visuals/material-092-material-p134.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-092-full-p132.jpg",
         "assets/visuals/material-092-full-p133.jpg",
@@ -4789,6 +7218,54 @@ window.CARD_BANK = {
         "assets/visuals/material-093-questions-p134.jpg",
         "assets/visuals/material-093-questions-p135.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-093-full-p134.jpg",
+            "top": 0.360393,
+            "height": 0.097235,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-093-full-p134.jpg",
+            "top": 0.457627,
+            "height": 0.127565,
+            "aspect": 6.321678
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-093-full-p134.jpg",
+            "top": 0.585192,
+            "height": 0.129349,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-093-full-p134.jpg",
+            "top": 0.714541,
+            "height": 0.129349,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-093-full-p134.jpg",
+            "top": 0.843889,
+            "height": 0.156111,
+            "aspect": 5.165714
+          },
+          {
+            "src": "assets/visuals/material-093-full-p135.jpg",
+            "top": 0.0,
+            "height": 0.8,
+            "aspect": 6.457143
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-093-full-p134.jpg",
         "assets/visuals/material-093-full-p135.jpg"
@@ -4839,6 +7316,13 @@ window.CARD_BANK = {
         "assets/visuals/material-094-material-p136.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-094-full-p135.jpg",
         "assets/visuals/material-094-full-p136.jpg"
@@ -4890,6 +7374,47 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-095-questions-p136.jpg",
         "assets/visuals/material-095-questions-p137.jpg"
+      ],
+      "questionCrops": [
+        [],
+        [
+          {
+            "src": "assets/visuals/material-095-full-p136.jpg",
+            "top": 0.338462,
+            "height": 0.661538,
+            "aspect": 1.313953
+          },
+          {
+            "src": "assets/visuals/material-095-full-p137.jpg",
+            "top": 0.0,
+            "height": 0.288646,
+            "aspect": 4.28436
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-095-full-p137.jpg",
+            "top": 0.288646,
+            "height": 0.198358,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-095-full-p137.jpg",
+            "top": 0.487004,
+            "height": 0.147743,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-095-full-p137.jpg",
+            "top": 0.634747,
+            "height": 0.317373,
+            "aspect": 3.896552
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-095-full-p136.jpg",
@@ -4944,6 +7469,54 @@ window.CARD_BANK = {
         "assets/visuals/material-096-questions-p138.jpg",
         "assets/visuals/material-096-questions-p139.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-096-full-p138.jpg",
+            "top": 0.390575,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-096-full-p138.jpg",
+            "top": 0.476837,
+            "height": 0.087061,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-096-full-p138.jpg",
+            "top": 0.563898,
+            "height": 0.114217,
+            "aspect": 6.321678
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-096-full-p138.jpg",
+            "top": 0.678115,
+            "height": 0.087061,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-096-full-p138.jpg",
+            "top": 0.765176,
+            "height": 0.234824,
+            "aspect": 3.07483
+          },
+          {
+            "src": "assets/visuals/material-096-full-p139.jpg",
+            "top": 0.0,
+            "height": 0.819588,
+            "aspect": 5.685535
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-096-full-p137.jpg",
         "assets/visuals/material-096-full-p138.jpg",
@@ -4997,6 +7570,13 @@ window.CARD_BANK = {
         "assets/visuals/material-097-material-p141.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-097-full-p139.jpg",
         "assets/visuals/material-097-full-p140.jpg",
@@ -5049,6 +7629,13 @@ window.CARD_BANK = {
         "assets/visuals/material-098-material-p142.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-098-full-p141.jpg",
         "assets/visuals/material-098-full-p142.jpg"
@@ -5099,6 +7686,13 @@ window.CARD_BANK = {
         "assets/visuals/material-099-material-p143.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-099-full-p142.jpg",
         "assets/visuals/material-099-full-p143.jpg"
@@ -5151,6 +7745,13 @@ window.CARD_BANK = {
         "assets/visuals/material-100-material-p146.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-100-full-p144.jpg",
         "assets/visuals/material-100-full-p145.jpg",
@@ -5205,6 +7806,48 @@ window.CARD_BANK = {
         "assets/visuals/material-101-questions-p146.jpg",
         "assets/visuals/material-101-questions-p147.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-101-full-p146.jpg",
+            "top": 0.484794,
+            "height": 0.09839,
+            "aspect": 8.218182
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-101-full-p146.jpg",
+            "top": 0.583184,
+            "height": 0.274597,
+            "aspect": 2.944625
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-101-full-p146.jpg",
+            "top": 0.857782,
+            "height": 0.142218,
+            "aspect": 5.685535
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-101-full-p147.jpg",
+            "top": 0.145933,
+            "height": 0.277512,
+            "aspect": 7.793103
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-101-full-p147.jpg",
+            "top": 0.423445,
+            "height": 0.492823,
+            "aspect": 4.38835
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-101-full-p146.jpg",
         "assets/visuals/material-101-full-p147.jpg"
@@ -5257,6 +7900,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-102-questions-p148.jpg",
         "assets/visuals/material-102-questions-p149.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-102-full-p148.jpg",
+            "top": 0.54393,
+            "height": 0.085463,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-102-full-p148.jpg",
+            "top": 0.629393,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-102-full-p148.jpg",
+            "top": 0.715655,
+            "height": 0.115016,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-102-full-p148.jpg",
+            "top": 0.830671,
+            "height": 0.115815,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-102-full-p149.jpg",
+            "top": 0.0,
+            "height": 0.891304,
+            "aspect": 3.149826
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-102-full-p147.jpg",
@@ -5312,6 +7997,54 @@ window.CARD_BANK = {
         "assets/visuals/material-103-questions-p149.jpg",
         "assets/visuals/material-103-questions-p150.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-103-full-p149.jpg",
+            "top": 0.902985,
+            "height": 0.097015,
+            "aspect": 9.934066
+          },
+          {
+            "src": "assets/visuals/material-103-full-p150.jpg",
+            "top": 0.0,
+            "height": 0.13099,
+            "aspect": 5.512195
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-103-full-p150.jpg",
+            "top": 0.13099,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-103-full-p150.jpg",
+            "top": 0.217252,
+            "height": 0.115016,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-103-full-p150.jpg",
+            "top": 0.332268,
+            "height": 0.402556,
+            "aspect": 1.793651
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-103-full-p150.jpg",
+            "top": 0.734824,
+            "height": 0.265176,
+            "aspect": 2.722892
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-103-full-p149.jpg",
         "assets/visuals/material-103-full-p150.jpg"
@@ -5365,6 +8098,13 @@ window.CARD_BANK = {
         "assets/visuals/material-104-material-p154.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-104-full-p151.jpg",
         "assets/visuals/material-104-full-p152.jpg",
@@ -5420,6 +8160,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-105-questions-p155.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-105-full-p155.jpg",
+            "top": 0.058271,
+            "height": 0.101504,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-105-full-p155.jpg",
+            "top": 0.159774,
+            "height": 0.102444,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-105-full-p155.jpg",
+            "top": 0.262218,
+            "height": 0.167293,
+            "aspect": 5.078652
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-105-full-p155.jpg",
+            "top": 0.429511,
+            "height": 0.102444,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-105-full-p155.jpg",
+            "top": 0.531955,
+            "height": 0.43515,
+            "aspect": 1.952484
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-105-full-p154.jpg",
         "assets/visuals/material-105-full-p155.jpg"
@@ -5472,6 +8254,54 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-106-questions-p156.jpg",
         "assets/visuals/material-106-questions-p157.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-106-full-p156.jpg",
+            "top": 0.760317,
+            "height": 0.115079,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-106-full-p156.jpg",
+            "top": 0.875397,
+            "height": 0.124603,
+            "aspect": 5.757962
+          },
+          {
+            "src": "assets/visuals/material-106-full-p157.jpg",
+            "top": 0.0,
+            "height": 0.129555,
+            "aspect": 9.416667
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-106-full-p157.jpg",
+            "top": 0.129555,
+            "height": 0.145749,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-106-full-p157.jpg",
+            "top": 0.275304,
+            "height": 0.369771,
+            "aspect": 3.29927
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-106-full-p157.jpg",
+            "top": 0.645074,
+            "height": 0.307692,
+            "aspect": 3.964912
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-106-full-p155.jpg",
@@ -5527,6 +8357,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-107-questions-p158.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-107-full-p158.jpg",
+            "top": 0.265531,
+            "height": 0.109218,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-107-full-p158.jpg",
+            "top": 0.374749,
+            "height": 0.109218,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-107-full-p158.jpg",
+            "top": 0.483968,
+            "height": 0.108216,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-107-full-p158.jpg",
+            "top": 0.592184,
+            "height": 0.108216,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-107-full-p158.jpg",
+            "top": 0.700401,
+            "height": 0.264529,
+            "aspect": 3.424242
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-107-full-p157.jpg",
         "assets/visuals/material-107-full-p158.jpg"
@@ -5579,6 +8451,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-108-questions-p159.jpg",
         "assets/visuals/material-108-questions-p160.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-108-full-p159.jpg",
+            "top": 0.69127,
+            "height": 0.086508,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-108-full-p159.jpg",
+            "top": 0.777778,
+            "height": 0.086508,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-108-full-p159.jpg",
+            "top": 0.864286,
+            "height": 0.085714,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-108-full-p160.jpg",
+            "top": 0.0,
+            "height": 0.184127,
+            "aspect": 3.896552
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-108-full-p160.jpg",
+            "top": 0.184127,
+            "height": 0.815873,
+            "aspect": 0.879377
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-108-full-p158.jpg",
@@ -5633,6 +8547,13 @@ window.CARD_BANK = {
         "assets/visuals/material-109-material-p162.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-109-full-p161.jpg",
         "assets/visuals/material-109-full-p162.jpg"
@@ -5684,6 +8605,13 @@ window.CARD_BANK = {
         "assets/visuals/material-110-material-p164.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-110-full-p162.jpg",
         "assets/visuals/material-110-full-p163.jpg",
@@ -5736,6 +8664,13 @@ window.CARD_BANK = {
         "assets/visuals/material-111-material-p165.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-111-full-p164.jpg",
         "assets/visuals/material-111-full-p165.jpg"
@@ -5786,6 +8721,27 @@ window.CARD_BANK = {
       ],
       "questionVisuals": [
         "assets/visuals/material-112-questions-p166.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-112-full-p166.jpg",
+            "top": 0.059904,
+            "height": 0.300319,
+            "aspect": 2.404255
+          }
+        ],
+        [],
+        [],
+        [],
+        [
+          {
+            "src": "assets/visuals/material-112-full-p166.jpg",
+            "top": 0.361022,
+            "height": 0.638978,
+            "aspect": 1.13
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-112-full-p165.jpg",
@@ -5840,6 +8796,54 @@ window.CARD_BANK = {
         "assets/visuals/material-113-questions-p167.jpg",
         "assets/visuals/material-113-questions-p168.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-113-full-p167.jpg",
+            "top": 0.806914,
+            "height": 0.091906,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-113-full-p167.jpg",
+            "top": 0.89882,
+            "height": 0.10118,
+            "aspect": 7.533333
+          },
+          {
+            "src": "assets/visuals/material-113-full-p168.jpg",
+            "top": 0.0,
+            "height": 0.20362,
+            "aspect": 6.696296
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-113-full-p168.jpg",
+            "top": 0.20362,
+            "height": 0.168929,
+            "aspect": 8.071429
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-113-full-p168.jpg",
+            "top": 0.372549,
+            "height": 0.167421,
+            "aspect": 8.144144
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-113-full-p168.jpg",
+            "top": 0.53997,
+            "height": 0.40724,
+            "aspect": 3.348148
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-113-full-p167.jpg",
         "assets/visuals/material-113-full-p168.jpg"
@@ -5891,6 +8895,13 @@ window.CARD_BANK = {
         "assets/visuals/material-114-material-p170.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-114-full-p168.jpg",
         "assets/visuals/material-114-full-p169.jpg",
@@ -5943,6 +8954,13 @@ window.CARD_BANK = {
         "assets/visuals/material-115-material-p171.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-115-full-p170.jpg",
         "assets/visuals/material-115-full-p171.jpg"
@@ -5994,6 +9012,13 @@ window.CARD_BANK = {
         "assets/visuals/material-116-material-p173.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-116-full-p171.jpg",
         "assets/visuals/material-116-full-p172.jpg",
@@ -6047,6 +9072,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-117-questions-p174.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-117-full-p174.jpg",
+            "top": 0.074567,
+            "height": 0.143808,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-117-full-p174.jpg",
+            "top": 0.218375,
+            "height": 0.143808,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-117-full-p174.jpg",
+            "top": 0.362184,
+            "height": 0.14514,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-117-full-p174.jpg",
+            "top": 0.507324,
+            "height": 0.193076,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-117-full-p174.jpg",
+            "top": 0.700399,
+            "height": 0.252996,
+            "aspect": 4.757895
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-117-full-p173.jpg",
         "assets/visuals/material-117-full-p174.jpg"
@@ -6099,6 +9166,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-118-questions-p175.jpg",
         "assets/visuals/material-118-questions-p176.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-118-full-p175.jpg",
+            "top": 0.142971,
+            "height": 0.230831,
+            "aspect": 3.128028
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-118-full-p175.jpg",
+            "top": 0.373802,
+            "height": 0.264377,
+            "aspect": 2.731118
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-118-full-p175.jpg",
+            "top": 0.638179,
+            "height": 0.113419,
+            "aspect": 6.366197
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-118-full-p175.jpg",
+            "top": 0.751597,
+            "height": 0.083866,
+            "aspect": 8.609524
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-118-full-p175.jpg",
+            "top": 0.835463,
+            "height": 0.164537,
+            "aspect": 4.38835
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-118-full-p174.jpg",
@@ -6154,6 +9263,48 @@ window.CARD_BANK = {
         "assets/visuals/material-119-questions-p176.jpg",
         "assets/visuals/material-119-questions-p177.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-119-full-p176.jpg",
+            "top": 0.863359,
+            "height": 0.093995,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-119-full-p177.jpg",
+            "top": 0.0,
+            "height": 0.201821,
+            "aspect": 6.796992
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-119-full-p177.jpg",
+            "top": 0.201821,
+            "height": 0.206373,
+            "aspect": 6.647059
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-119-full-p177.jpg",
+            "top": 0.408194,
+            "height": 0.15478,
+            "aspect": 8.862745
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-119-full-p177.jpg",
+            "top": 0.562974,
+            "height": 0.383915,
+            "aspect": 3.573123
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-119-full-p176.jpg",
         "assets/visuals/material-119-full-p177.jpg"
@@ -6205,6 +9356,13 @@ window.CARD_BANK = {
         "assets/visuals/material-120-material-p179.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-120-full-p177.jpg",
         "assets/visuals/material-120-full-p178.jpg",
@@ -6260,6 +9418,48 @@ window.CARD_BANK = {
         "assets/visuals/material-121-questions-p180.jpg",
         "assets/visuals/material-121-questions-p181.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-121-full-p180.jpg",
+            "top": 0.246006,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-121-full-p180.jpg",
+            "top": 0.332268,
+            "height": 0.115016,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-121-full-p180.jpg",
+            "top": 0.447284,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-121-full-p180.jpg",
+            "top": 0.533546,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-121-full-p180.jpg",
+            "top": 0.619808,
+            "height": 0.380192,
+            "aspect": 1.89916
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-121-full-p179.jpg",
         "assets/visuals/material-121-full-p180.jpg",
@@ -6312,6 +9512,13 @@ window.CARD_BANK = {
         "assets/visuals/material-122-material-p182.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-122-full-p181.jpg",
         "assets/visuals/material-122-full-p182.jpg"
@@ -6364,6 +9571,54 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-123-questions-p183.jpg",
         "assets/visuals/material-123-questions-p184.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-123-full-p183.jpg",
+            "top": 0.486422,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-123-full-p183.jpg",
+            "top": 0.572684,
+            "height": 0.085463,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-123-full-p183.jpg",
+            "top": 0.658147,
+            "height": 0.115815,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-123-full-p183.jpg",
+            "top": 0.773962,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-123-full-p183.jpg",
+            "top": 0.860224,
+            "height": 0.139776,
+            "aspect": 5.165714
+          },
+          {
+            "src": "assets/visuals/material-123-full-p184.jpg",
+            "top": 0.0,
+            "height": 0.730769,
+            "aspect": 9.515789
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-123-full-p182.jpg",
@@ -6419,6 +9674,54 @@ window.CARD_BANK = {
         "assets/visuals/material-124-questions-p184.jpg",
         "assets/visuals/material-124-questions-p185.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-124-full-p184.jpg",
+            "top": 0.464349,
+            "height": 0.103387,
+            "aspect": 7.793103
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-124-full-p184.jpg",
+            "top": 0.567736,
+            "height": 0.103387,
+            "aspect": 7.793103
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-124-full-p184.jpg",
+            "top": 0.671123,
+            "height": 0.099822,
+            "aspect": 8.071429
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-124-full-p184.jpg",
+            "top": 0.770945,
+            "height": 0.09893,
+            "aspect": 8.144144
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-124-full-p184.jpg",
+            "top": 0.869875,
+            "height": 0.130125,
+            "aspect": 6.191781
+          },
+          {
+            "src": "assets/visuals/material-124-full-p185.jpg",
+            "top": 0.0,
+            "height": 0.798851,
+            "aspect": 6.503597
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-124-full-p184.jpg",
         "assets/visuals/material-124-full-p185.jpg"
@@ -6471,6 +9774,48 @@ window.CARD_BANK = {
         "assets/visuals/material-125-questions-p185.jpg",
         "assets/visuals/material-125-questions-p186.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-125-full-p185.jpg",
+            "top": 0.827458,
+            "height": 0.172542,
+            "aspect": 4.860215
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-125-full-p186.jpg",
+            "top": 0.066829,
+            "height": 0.176185,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-125-full-p186.jpg",
+            "top": 0.243013,
+            "height": 0.17497,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-125-full-p186.jpg",
+            "top": 0.417983,
+            "height": 0.221142,
+            "aspect": 4.967033
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-125-full-p186.jpg",
+            "top": 0.639125,
+            "height": 0.318348,
+            "aspect": 3.450382
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-125-full-p185.jpg",
         "assets/visuals/material-125-full-p186.jpg"
@@ -6522,6 +9867,13 @@ window.CARD_BANK = {
         "assets/visuals/material-126-material-p188.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-126-full-p186.jpg",
         "assets/visuals/material-126-full-p187.jpg",
@@ -6576,6 +9928,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-127-questions-p189.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-127-full-p189.jpg",
+            "top": 0.381789,
+            "height": 0.087061,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-127-full-p189.jpg",
+            "top": 0.46885,
+            "height": 0.089457,
+            "aspect": 8.071429
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-127-full-p189.jpg",
+            "top": 0.558307,
+            "height": 0.083067,
+            "aspect": 8.692308
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-127-full-p189.jpg",
+            "top": 0.641374,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-127-full-p189.jpg",
+            "top": 0.727636,
+            "height": 0.272364,
+            "aspect": 2.651026
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-127-full-p188.jpg",
         "assets/visuals/material-127-full-p189.jpg"
@@ -6627,6 +10021,13 @@ window.CARD_BANK = {
         "assets/visuals/material-128-material-p191.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-128-full-p190.jpg",
         "assets/visuals/material-128-full-p191.jpg"
@@ -6677,6 +10078,13 @@ window.CARD_BANK = {
         "assets/visuals/material-129-material-p192.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-129-full-p191.jpg",
         "assets/visuals/material-129-full-p192.jpg"
@@ -6729,6 +10137,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-130-questions-p193.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-130-full-p193.jpg",
+            "top": 0.141525,
+            "height": 0.365254,
+            "aspect": 2.097448
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-130-full-p193.jpg",
+            "top": 0.50678,
+            "height": 0.090678,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-130-full-p193.jpg",
+            "top": 0.597458,
+            "height": 0.122881,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-130-full-p193.jpg",
+            "top": 0.720339,
+            "height": 0.088983,
+            "aspect": 8.609524
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-130-full-p193.jpg",
+            "top": 0.809322,
+            "height": 0.161017,
+            "aspect": 4.757895
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-130-full-p192.jpg",
         "assets/visuals/material-130-full-p193.jpg"
@@ -6778,6 +10228,13 @@ window.CARD_BANK = {
         "assets/visuals/material-131-material-p194.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-131-full-p194.jpg"
       ],
@@ -6830,6 +10287,60 @@ window.CARD_BANK = {
         "assets/visuals/material-132-questions-p195.jpg",
         "assets/visuals/material-132-questions-p196.jpg",
         "assets/visuals/material-132-questions-p197.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-132-full-p195.jpg",
+            "top": 0.422654,
+            "height": 0.577346,
+            "aspect": 1.323572
+          },
+          {
+            "src": "assets/visuals/material-132-full-p196.jpg",
+            "top": 0.0,
+            "height": 0.674121,
+            "aspect": 1.07109
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-132-full-p196.jpg",
+            "top": 0.674121,
+            "height": 0.325879,
+            "aspect": 2.215686
+          },
+          {
+            "src": "assets/visuals/material-132-full-p197.jpg",
+            "top": 0.0,
+            "height": 0.514636,
+            "aspect": 1.658716
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-132-full-p197.jpg",
+            "top": 0.514636,
+            "height": 0.103872,
+            "aspect": 8.218182
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-132-full-p197.jpg",
+            "top": 0.618508,
+            "height": 0.101039,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-132-full-p197.jpg",
+            "top": 0.719547,
+            "height": 0.247403,
+            "aspect": 3.450382
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-132-full-p195.jpg",
@@ -6886,6 +10397,48 @@ window.CARD_BANK = {
         "assets/visuals/material-133-questions-p198.jpg",
         "assets/visuals/material-133-questions-p199.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-133-full-p198.jpg",
+            "top": 0.40016,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-133-full-p198.jpg",
+            "top": 0.486422,
+            "height": 0.087061,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-133-full-p198.jpg",
+            "top": 0.573482,
+            "height": 0.085463,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-133-full-p198.jpg",
+            "top": 0.658946,
+            "height": 0.087061,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-133-full-p198.jpg",
+            "top": 0.746006,
+            "height": 0.253994,
+            "aspect": 2.842767
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-133-full-p197.jpg",
         "assets/visuals/material-133-full-p198.jpg",
@@ -6940,6 +10493,54 @@ window.CARD_BANK = {
         "assets/visuals/material-134-questions-p199.jpg",
         "assets/visuals/material-134-questions-p200.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-134-full-p199.jpg",
+            "top": 0.872933,
+            "height": 0.127067,
+            "aspect": 6.191781
+          },
+          {
+            "src": "assets/visuals/material-134-full-p200.jpg",
+            "top": 0.0,
+            "height": 0.093269,
+            "aspect": 9.319588
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-134-full-p200.jpg",
+            "top": 0.093269,
+            "height": 0.139423,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-134-full-p200.jpg",
+            "top": 0.232692,
+            "height": 0.139423,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-134-full-p200.jpg",
+            "top": 0.372115,
+            "height": 0.138462,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-134-full-p200.jpg",
+            "top": 0.510577,
+            "height": 0.455769,
+            "aspect": 1.907173
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-134-full-p199.jpg",
         "assets/visuals/material-134-full-p200.jpg"
@@ -6992,6 +10593,26 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-135-questions-p201.jpg",
         "assets/visuals/material-135-questions-p202.jpg"
+      ],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        [
+          {
+            "src": "assets/visuals/material-135-full-p201.jpg",
+            "top": 0.302716,
+            "height": 0.697284,
+            "aspect": 1.03551
+          },
+          {
+            "src": "assets/visuals/material-135-full-p202.jpg",
+            "top": 0.0,
+            "height": 0.934701,
+            "aspect": 1.804391
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-135-full-p200.jpg",
@@ -7046,6 +10667,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-136-questions-p203.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-136-full-p203.jpg",
+            "top": 0.089655,
+            "height": 0.150345,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-136-full-p203.jpg",
+            "top": 0.24,
+            "height": 0.148966,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-136-full-p203.jpg",
+            "top": 0.388966,
+            "height": 0.148966,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-136-full-p203.jpg",
+            "top": 0.537931,
+            "height": 0.150345,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-136-full-p203.jpg",
+            "top": 0.688276,
+            "height": 0.263448,
+            "aspect": 4.732984
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-136-full-p202.jpg",
         "assets/visuals/material-136-full-p203.jpg"
@@ -7097,6 +10760,13 @@ window.CARD_BANK = {
         "assets/visuals/material-137-material-p205.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-137-full-p203.jpg",
         "assets/visuals/material-137-full-p204.jpg",
@@ -7149,6 +10819,13 @@ window.CARD_BANK = {
         "assets/visuals/material-138-material-p206.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-138-full-p205.jpg",
         "assets/visuals/material-138-full-p206.jpg"
@@ -7199,6 +10876,13 @@ window.CARD_BANK = {
         "assets/visuals/material-139-material-p208.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-139-full-p207.jpg",
         "assets/visuals/material-139-full-p208.jpg"
@@ -7252,6 +10936,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-140-questions-p209.jpg",
         "assets/visuals/material-140-questions-p210.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-140-full-p209.jpg",
+            "top": 0.547125,
+            "height": 0.114217,
+            "aspect": 6.321678
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-140-full-p209.jpg",
+            "top": 0.661342,
+            "height": 0.115815,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-140-full-p209.jpg",
+            "top": 0.777157,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-140-full-p209.jpg",
+            "top": 0.863419,
+            "height": 0.087061,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-140-full-p210.jpg",
+            "top": 0.0,
+            "height": 0.888889,
+            "aspect": 3.228571
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-140-full-p208.jpg",
@@ -7307,6 +11033,54 @@ window.CARD_BANK = {
         "assets/visuals/material-141-questions-p210.jpg",
         "assets/visuals/material-141-questions-p211.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-141-full-p210.jpg",
+            "top": 0.329776,
+            "height": 0.670224,
+            "aspect": 1.43949
+          },
+          {
+            "src": "assets/visuals/material-141-full-p211.jpg",
+            "top": 0.0,
+            "height": 0.263914,
+            "aspect": 3.07483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-141-full-p211.jpg",
+            "top": 0.263914,
+            "height": 0.129264,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-141-full-p211.jpg",
+            "top": 0.393178,
+            "height": 0.130162,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-141-full-p211.jpg",
+            "top": 0.523339,
+            "height": 0.097846,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-141-full-p211.jpg",
+            "top": 0.621185,
+            "height": 0.347397,
+            "aspect": 2.335917
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-141-full-p210.jpg",
         "assets/visuals/material-141-full-p211.jpg"
@@ -7358,6 +11132,13 @@ window.CARD_BANK = {
         "assets/visuals/material-142-material-p213.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-142-full-p211.jpg",
         "assets/visuals/material-142-full-p212.jpg",
@@ -7412,6 +11193,48 @@ window.CARD_BANK = {
         "assets/visuals/material-143-questions-p213.jpg",
         "assets/visuals/material-143-questions-p214.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-143-full-p213.jpg",
+            "top": 0.760204,
+            "height": 0.239796,
+            "aspect": 4.808511
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-143-full-p214.jpg",
+            "top": 0.071166,
+            "height": 0.131288,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-143-full-p214.jpg",
+            "top": 0.202454,
+            "height": 0.177914,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-143-full-p214.jpg",
+            "top": 0.380368,
+            "height": 0.131288,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-143-full-p214.jpg",
+            "top": 0.511656,
+            "height": 0.445399,
+            "aspect": 2.490358
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-143-full-p213.jpg",
         "assets/visuals/material-143-full-p214.jpg"
@@ -7464,6 +11287,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-144-questions-p215.jpg",
         "assets/visuals/material-144-questions-p216.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-144-full-p215.jpg",
+            "top": 0.461661,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-144-full-p215.jpg",
+            "top": 0.547923,
+            "height": 0.085463,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-144-full-p215.jpg",
+            "top": 0.633387,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-144-full-p215.jpg",
+            "top": 0.719649,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-144-full-p215.jpg",
+            "top": 0.805911,
+            "height": 0.194089,
+            "aspect": 3.720165
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-144-full-p214.jpg",
@@ -7519,6 +11384,54 @@ window.CARD_BANK = {
         "assets/visuals/material-145-questions-p216.jpg",
         "assets/visuals/material-145-questions-p217.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-145-full-p216.jpg",
+            "top": 0.614655,
+            "height": 0.093103,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-145-full-p216.jpg",
+            "top": 0.707759,
+            "height": 0.093966,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-145-full-p216.jpg",
+            "top": 0.801724,
+            "height": 0.093103,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-145-full-p216.jpg",
+            "top": 0.894828,
+            "height": 0.105172,
+            "aspect": 7.409836
+          },
+          {
+            "src": "assets/visuals/material-145-full-p217.jpg",
+            "top": 0.0,
+            "height": 0.287066,
+            "aspect": 9.934066
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-145-full-p217.jpg",
+            "top": 0.287066,
+            "height": 0.602524,
+            "aspect": 4.732984
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-145-full-p216.jpg",
         "assets/visuals/material-145-full-p217.jpg"
@@ -7569,6 +11482,13 @@ window.CARD_BANK = {
         "assets/visuals/material-146-material-p218.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-146-full-p217.jpg",
         "assets/visuals/material-146-full-p218.jpg"
@@ -7621,6 +11541,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-147-questions-p219.jpg",
         "assets/visuals/material-147-questions-p220.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-147-full-p219.jpg",
+            "top": 0.456869,
+            "height": 0.154153,
+            "aspect": 4.683938
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-147-full-p219.jpg",
+            "top": 0.611022,
+            "height": 0.119808,
+            "aspect": 6.026667
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-147-full-p219.jpg",
+            "top": 0.730831,
+            "height": 0.115016,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-147-full-p219.jpg",
+            "top": 0.845847,
+            "height": 0.154153,
+            "aspect": 4.683938
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-147-full-p220.jpg",
+            "top": 0.159744,
+            "height": 0.728435,
+            "aspect": 3.964912
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-147-full-p218.jpg",
@@ -7675,6 +11637,13 @@ window.CARD_BANK = {
         "assets/visuals/material-148-material-p222.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-148-full-p220.jpg",
         "assets/visuals/material-148-full-p221.jpg",
@@ -7727,6 +11696,13 @@ window.CARD_BANK = {
         "assets/visuals/material-149-material-p223.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-149-full-p222.jpg",
         "assets/visuals/material-149-full-p223.jpg"
@@ -7779,6 +11755,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-150-questions-p224.jpg",
         "assets/visuals/material-150-questions-p225.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-150-full-p224.jpg",
+            "top": 0.412141,
+            "height": 0.115016,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-150-full-p224.jpg",
+            "top": 0.527157,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-150-full-p224.jpg",
+            "top": 0.613419,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-150-full-p224.jpg",
+            "top": 0.699681,
+            "height": 0.087061,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-150-full-p224.jpg",
+            "top": 0.786741,
+            "height": 0.213259,
+            "aspect": 3.385768
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-150-full-p223.jpg",
@@ -7835,6 +11853,54 @@ window.CARD_BANK = {
         "assets/visuals/material-151-questions-p226.jpg",
         "assets/visuals/material-151-questions-p227.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-151-full-p225.jpg",
+            "top": 0.39444,
+            "height": 0.60556,
+            "aspect": 1.296987
+          },
+          {
+            "src": "assets/visuals/material-151-full-p226.jpg",
+            "top": 0.0,
+            "height": 0.126997,
+            "aspect": 5.685535
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-151-full-p226.jpg",
+            "top": 0.126997,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-151-full-p226.jpg",
+            "top": 0.213259,
+            "height": 0.395367,
+            "aspect": 1.826263
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-151-full-p226.jpg",
+            "top": 0.608626,
+            "height": 0.115815,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-151-full-p226.jpg",
+            "top": 0.724441,
+            "height": 0.275559,
+            "aspect": 2.62029
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-151-full-p225.jpg",
         "assets/visuals/material-151-full-p226.jpg",
@@ -7890,6 +11956,32 @@ window.CARD_BANK = {
         "assets/visuals/material-152-questions-p228.jpg",
         "assets/visuals/material-152-questions-p229.jpg"
       ],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        [
+          {
+            "src": "assets/visuals/material-152-full-p227.jpg",
+            "top": 0.357774,
+            "height": 0.642226,
+            "aspect": 1.243466
+          },
+          {
+            "src": "assets/visuals/material-152-full-p228.jpg",
+            "top": 0.0,
+            "height": 1.0,
+            "aspect": 0.722045
+          },
+          {
+            "src": "assets/visuals/material-152-full-p229.jpg",
+            "top": 0.0,
+            "height": 0.748201,
+            "aspect": 8.692308
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-152-full-p227.jpg",
         "assets/visuals/material-152-full-p228.jpg",
@@ -7942,6 +12034,13 @@ window.CARD_BANK = {
         "assets/visuals/material-153-material-p230.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-153-full-p229.jpg",
         "assets/visuals/material-153-full-p230.jpg"
@@ -7993,6 +12092,13 @@ window.CARD_BANK = {
         "assets/visuals/material-154-material-p232.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-154-full-p230.jpg",
         "assets/visuals/material-154-full-p231.jpg",
@@ -8048,6 +12154,54 @@ window.CARD_BANK = {
         "assets/visuals/material-155-questions-p233.jpg",
         "assets/visuals/material-155-questions-p234.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-155-full-p233.jpg",
+            "top": 0.426518,
+            "height": 0.087061,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-155-full-p233.jpg",
+            "top": 0.513578,
+            "height": 0.115815,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-155-full-p233.jpg",
+            "top": 0.629393,
+            "height": 0.090256,
+            "aspect": 8.0
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-155-full-p233.jpg",
+            "top": 0.719649,
+            "height": 0.145367,
+            "aspect": 4.967033
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-155-full-p233.jpg",
+            "top": 0.865016,
+            "height": 0.134984,
+            "aspect": 5.349112
+          },
+          {
+            "src": "assets/visuals/material-155-full-p234.jpg",
+            "top": 0.0,
+            "height": 0.925214,
+            "aspect": 2.08776
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-155-full-p232.jpg",
         "assets/visuals/material-155-full-p233.jpg",
@@ -8100,6 +12254,48 @@ window.CARD_BANK = {
       ],
       "questionVisuals": [
         "assets/visuals/material-156-questions-p235.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-156-full-p235.jpg",
+            "top": 0.087927,
+            "height": 0.141732,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-156-full-p235.jpg",
+            "top": 0.229659,
+            "height": 0.190289,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-156-full-p235.jpg",
+            "top": 0.419948,
+            "height": 0.141732,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-156-full-p235.jpg",
+            "top": 0.56168,
+            "height": 0.144357,
+            "aspect": 8.218182
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-156-full-p235.jpg",
+            "top": 0.706037,
+            "height": 0.248031,
+            "aspect": 4.783069
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-156-full-p234.jpg",
@@ -8154,6 +12350,54 @@ window.CARD_BANK = {
         "assets/visuals/material-157-questions-p236.jpg",
         "assets/visuals/material-157-questions-p237.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-157-full-p236.jpg",
+            "top": 0.388179,
+            "height": 0.178914,
+            "aspect": 4.035714
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-157-full-p236.jpg",
+            "top": 0.567093,
+            "height": 0.084665,
+            "aspect": 8.528302
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-157-full-p236.jpg",
+            "top": 0.651757,
+            "height": 0.115815,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-157-full-p236.jpg",
+            "top": 0.767572,
+            "height": 0.115815,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-157-full-p236.jpg",
+            "top": 0.883387,
+            "height": 0.116613,
+            "aspect": 6.191781
+          },
+          {
+            "src": "assets/visuals/material-157-full-p237.jpg",
+            "top": 0.0,
+            "height": 0.807692,
+            "aspect": 6.14966
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-157-full-p235.jpg",
         "assets/visuals/material-157-full-p236.jpg",
@@ -8206,6 +12450,13 @@ window.CARD_BANK = {
         "assets/visuals/material-158-material-p238.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-158-full-p237.jpg",
         "assets/visuals/material-158-full-p238.jpg"
@@ -8259,6 +12510,48 @@ window.CARD_BANK = {
         "assets/visuals/material-159-questions-p239.jpg",
         "assets/visuals/material-159-questions-p240.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-159-full-p239.jpg",
+            "top": 0.542128,
+            "height": 0.091915,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-159-full-p239.jpg",
+            "top": 0.634043,
+            "height": 0.091915,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-159-full-p239.jpg",
+            "top": 0.725957,
+            "height": 0.091915,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-159-full-p239.jpg",
+            "top": 0.817872,
+            "height": 0.123404,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-159-full-p240.jpg",
+            "top": 0.0,
+            "height": 0.877193,
+            "aspect": 3.616
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-159-full-p239.jpg",
         "assets/visuals/material-159-full-p240.jpg"
@@ -8309,6 +12602,13 @@ window.CARD_BANK = {
         "assets/visuals/material-160-material-p241.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-160-full-p240.jpg",
         "assets/visuals/material-160-full-p241.jpg"
@@ -8360,6 +12660,13 @@ window.CARD_BANK = {
         "assets/visuals/material-161-material-p243.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-161-full-p241.jpg",
         "assets/visuals/material-161-full-p242.jpg",
@@ -8415,6 +12722,54 @@ window.CARD_BANK = {
         "assets/visuals/material-162-questions-p244.jpg",
         "assets/visuals/material-162-questions-p245.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-162-full-p244.jpg",
+            "top": 0.507188,
+            "height": 0.085463,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-162-full-p244.jpg",
+            "top": 0.592652,
+            "height": 0.14377,
+            "aspect": 5.022222
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-162-full-p244.jpg",
+            "top": 0.736422,
+            "height": 0.144569,
+            "aspect": 4.994475
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-162-full-p244.jpg",
+            "top": 0.88099,
+            "height": 0.11901,
+            "aspect": 6.067114
+          },
+          {
+            "src": "assets/visuals/material-162-full-p245.jpg",
+            "top": 0.0,
+            "height": 0.275482,
+            "aspect": 9.04
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-162-full-p245.jpg",
+            "top": 0.275482,
+            "height": 0.628099,
+            "aspect": 3.964912
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-162-full-p243.jpg",
         "assets/visuals/material-162-full-p244.jpg",
@@ -8467,6 +12822,13 @@ window.CARD_BANK = {
         "assets/visuals/material-163-material-p246.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-163-full-p245.jpg",
         "assets/visuals/material-163-full-p246.jpg"
@@ -8518,6 +12880,13 @@ window.CARD_BANK = {
         "assets/visuals/material-164-material-p248.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-164-full-p246.jpg",
         "assets/visuals/material-164-full-p247.jpg",
@@ -8572,6 +12941,54 @@ window.CARD_BANK = {
         "assets/visuals/material-165-questions-p248.jpg",
         "assets/visuals/material-165-questions-p249.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-165-full-p248.jpg",
+            "top": 0.421892,
+            "height": 0.578108,
+            "aspect": 1.661765
+          },
+          {
+            "src": "assets/visuals/material-165-full-p249.jpg",
+            "top": 0.0,
+            "height": 0.220452,
+            "aspect": 5.445783
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-165-full-p249.jpg",
+            "top": 0.220452,
+            "height": 0.143426,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-165-full-p249.jpg",
+            "top": 0.363878,
+            "height": 0.192563,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-165-full-p249.jpg",
+            "top": 0.556441,
+            "height": 0.144754,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-165-full-p249.jpg",
+            "top": 0.701195,
+            "height": 0.252324,
+            "aspect": 4.757895
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-165-full-p248.jpg",
         "assets/visuals/material-165-full-p249.jpg"
@@ -8623,6 +13040,13 @@ window.CARD_BANK = {
         "assets/visuals/material-166-material-p251.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-166-full-p249.jpg",
         "assets/visuals/material-166-full-p250.jpg",
@@ -8675,6 +13099,13 @@ window.CARD_BANK = {
         "assets/visuals/material-167-material-p252.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-167-full-p251.jpg",
         "assets/visuals/material-167-full-p252.jpg"
@@ -8726,6 +13157,13 @@ window.CARD_BANK = {
         "assets/visuals/material-168-material-p254.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-168-full-p252.jpg",
         "assets/visuals/material-168-full-p253.jpg",
@@ -8778,6 +13216,13 @@ window.CARD_BANK = {
         "assets/visuals/material-169-material-p255.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-169-full-p254.jpg",
         "assets/visuals/material-169-full-p255.jpg"
@@ -8829,6 +13274,13 @@ window.CARD_BANK = {
         "assets/visuals/material-170-material-p257.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-170-full-p255.jpg",
         "assets/visuals/material-170-full-p256.jpg",
@@ -8882,6 +13334,13 @@ window.CARD_BANK = {
         "assets/visuals/material-171-material-p259.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-171-full-p257.jpg",
         "assets/visuals/material-171-full-p258.jpg",
@@ -8936,6 +13395,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-172-questions-p260.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-172-full-p260.jpg",
+            "top": 0.433849,
+            "height": 0.093643,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-172-full-p260.jpg",
+            "top": 0.527491,
+            "height": 0.093643,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-172-full-p260.jpg",
+            "top": 0.621134,
+            "height": 0.091924,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-172-full-p260.jpg",
+            "top": 0.713058,
+            "height": 0.092784,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-172-full-p260.jpg",
+            "top": 0.805842,
+            "height": 0.164089,
+            "aspect": 4.732984
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-172-full-p259.jpg",
         "assets/visuals/material-172-full-p260.jpg"
@@ -8987,6 +13488,54 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-173-questions-p261.jpg",
         "assets/visuals/material-173-questions-p262.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-173-full-p261.jpg",
+            "top": 0.408946,
+            "height": 0.116613,
+            "aspect": 6.191781
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-173-full-p261.jpg",
+            "top": 0.525559,
+            "height": 0.084665,
+            "aspect": 8.528302
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-173-full-p261.jpg",
+            "top": 0.610224,
+            "height": 0.115815,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-173-full-p261.jpg",
+            "top": 0.726038,
+            "height": 0.117412,
+            "aspect": 6.14966
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-173-full-p261.jpg",
+            "top": 0.84345,
+            "height": 0.15655,
+            "aspect": 4.612245
+          },
+          {
+            "src": "assets/visuals/material-173-full-p262.jpg",
+            "top": 0.0,
+            "height": 0.744526,
+            "aspect": 8.862745
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-173-full-p261.jpg",
@@ -9041,6 +13590,54 @@ window.CARD_BANK = {
         "assets/visuals/material-174-questions-p262.jpg",
         "assets/visuals/material-174-questions-p263.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-174-full-p262.jpg",
+            "top": 0.778475,
+            "height": 0.130045,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-174-full-p262.jpg",
+            "top": 0.90852,
+            "height": 0.09148,
+            "aspect": 8.862745
+          },
+          {
+            "src": "assets/visuals/material-174-full-p263.jpg",
+            "top": 0.0,
+            "height": 0.107827,
+            "aspect": 6.696296
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-174-full-p263.jpg",
+            "top": 0.107827,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-174-full-p263.jpg",
+            "top": 0.194089,
+            "height": 0.484824,
+            "aspect": 1.489292
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-174-full-p263.jpg",
+            "top": 0.678914,
+            "height": 0.321086,
+            "aspect": 2.248756
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-174-full-p262.jpg",
         "assets/visuals/material-174-full-p263.jpg"
@@ -9092,6 +13689,13 @@ window.CARD_BANK = {
         "assets/visuals/material-175-material-p265.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-175-full-p264.jpg",
         "assets/visuals/material-175-full-p265.jpg"
@@ -9143,6 +13747,48 @@ window.CARD_BANK = {
       ],
       "questionVisuals": [
         "assets/visuals/material-176-questions-p266.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-176-full-p266.jpg",
+            "top": 0.263019,
+            "height": 0.095322,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-176-full-p266.jpg",
+            "top": 0.358341,
+            "height": 0.127096,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-176-full-p266.jpg",
+            "top": 0.485437,
+            "height": 0.123566,
+            "aspect": 6.457143
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-176-full-p266.jpg",
+            "top": 0.609003,
+            "height": 0.191527,
+            "aspect": 4.165899
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-176-full-p266.jpg",
+            "top": 0.80053,
+            "height": 0.168579,
+            "aspect": 4.732984
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-176-full-p265.jpg",
@@ -9197,6 +13843,48 @@ window.CARD_BANK = {
         "assets/visuals/material-177-questions-p267.jpg",
         "assets/visuals/material-177-questions-p268.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-177-full-p267.jpg",
+            "top": 0.844249,
+            "height": 0.115815,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-177-full-p268.jpg",
+            "top": 0.0,
+            "height": 0.198758,
+            "aspect": 7.0625
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-177-full-p268.jpg",
+            "top": 0.198758,
+            "height": 0.225155,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-177-full-p268.jpg",
+            "top": 0.423913,
+            "height": 0.167702,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-177-full-p268.jpg",
+            "top": 0.591615,
+            "height": 0.354037,
+            "aspect": 3.964912
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-177-full-p266.jpg",
         "assets/visuals/material-177-full-p267.jpg",
@@ -9249,6 +13937,13 @@ window.CARD_BANK = {
         "assets/visuals/material-178-material-p269.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-178-full-p268.jpg",
         "assets/visuals/material-178-full-p269.jpg"
@@ -9302,6 +13997,54 @@ window.CARD_BANK = {
         "assets/visuals/material-179-questions-p270.jpg",
         "assets/visuals/material-179-questions-p271.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-179-full-p270.jpg",
+            "top": 0.916596,
+            "height": 0.083404,
+            "aspect": 9.131313
+          },
+          {
+            "src": "assets/visuals/material-179-full-p271.jpg",
+            "top": 0.0,
+            "height": 0.121622,
+            "aspect": 9.131313
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-179-full-p271.jpg",
+            "top": 0.121622,
+            "height": 0.132678,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-179-full-p271.jpg",
+            "top": 0.2543,
+            "height": 0.176904,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-179-full-p271.jpg",
+            "top": 0.431204,
+            "height": 0.178133,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-179-full-p271.jpg",
+            "top": 0.609337,
+            "height": 0.347666,
+            "aspect": 3.194346
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-179-full-p270.jpg",
         "assets/visuals/material-179-full-p271.jpg"
@@ -9353,6 +14096,13 @@ window.CARD_BANK = {
         "assets/visuals/material-180-material-p273.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-180-full-p271.jpg",
         "assets/visuals/material-180-full-p272.jpg",
@@ -9407,6 +14157,48 @@ window.CARD_BANK = {
       "questionVisuals": [
         "assets/visuals/material-181-questions-p274.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-181-full-p274.jpg",
+            "top": 0.271592,
+            "height": 0.114464,
+            "aspect": 8.218182
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-181-full-p274.jpg",
+            "top": 0.386056,
+            "height": 0.112383,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-181-full-p274.jpg",
+            "top": 0.498439,
+            "height": 0.113424,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-181-full-p274.jpg",
+            "top": 0.611863,
+            "height": 0.112383,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-181-full-p274.jpg",
+            "top": 0.724246,
+            "height": 0.239334,
+            "aspect": 3.930435
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-181-full-p273.jpg",
         "assets/visuals/material-181-full-p274.jpg"
@@ -9458,6 +14250,13 @@ window.CARD_BANK = {
         "assets/visuals/material-182-material-p276.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-182-full-p274.jpg",
         "assets/visuals/material-182-full-p275.jpg",
@@ -9511,6 +14310,13 @@ window.CARD_BANK = {
         "assets/visuals/material-183-material-p278.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-183-full-p276.jpg",
         "assets/visuals/material-183-full-p277.jpg",
@@ -9563,6 +14369,13 @@ window.CARD_BANK = {
         "assets/visuals/material-184-material-p279.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-184-full-p278.jpg",
         "assets/visuals/material-184-full-p279.jpg"
@@ -9613,6 +14426,13 @@ window.CARD_BANK = {
         "assets/visuals/material-185-material-p280.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-185-full-p279.jpg",
         "assets/visuals/material-185-full-p280.jpg"
@@ -9664,6 +14484,13 @@ window.CARD_BANK = {
         "assets/visuals/material-186-material-p282.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-186-full-p280.jpg",
         "assets/visuals/material-186-full-p281.jpg",
@@ -9716,6 +14543,13 @@ window.CARD_BANK = {
         "assets/visuals/material-187-material-p283.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-187-full-p282.jpg",
         "assets/visuals/material-187-full-p283.jpg"
@@ -9767,6 +14601,13 @@ window.CARD_BANK = {
         "assets/visuals/material-188-material-p285.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-188-full-p284.jpg",
         "assets/visuals/material-188-full-p285.jpg"
@@ -9817,6 +14658,13 @@ window.CARD_BANK = {
         "assets/visuals/material-189-material-p286.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-189-full-p285.jpg",
         "assets/visuals/material-189-full-p286.jpg"
@@ -9867,6 +14715,13 @@ window.CARD_BANK = {
         "assets/visuals/material-190-material-p287.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-190-full-p286.jpg",
         "assets/visuals/material-190-full-p287.jpg"
@@ -9918,6 +14773,13 @@ window.CARD_BANK = {
         "assets/visuals/material-191-material-p289.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-191-full-p287.jpg",
         "assets/visuals/material-191-full-p288.jpg",
@@ -9973,6 +14835,54 @@ window.CARD_BANK = {
         "assets/visuals/material-192-questions-p290.jpg",
         "assets/visuals/material-192-questions-p291.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-192-full-p289.jpg",
+            "top": 0.312185,
+            "height": 0.687815,
+            "aspect": 1.323572
+          },
+          {
+            "src": "assets/visuals/material-192-full-p290.jpg",
+            "top": 0.0,
+            "height": 0.539936,
+            "aspect": 1.337278
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-192-full-p290.jpg",
+            "top": 0.539936,
+            "height": 0.085463,
+            "aspect": 8.448598
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-192-full-p290.jpg",
+            "top": 0.625399,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-192-full-p290.jpg",
+            "top": 0.711661,
+            "height": 0.116613,
+            "aspect": 6.191781
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-192-full-p290.jpg",
+            "top": 0.828275,
+            "height": 0.171725,
+            "aspect": 4.204651
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-192-full-p289.jpg",
         "assets/visuals/material-192-full-p290.jpg",
@@ -10025,6 +14935,13 @@ window.CARD_BANK = {
         "assets/visuals/material-193-material-p292.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-193-full-p291.jpg",
         "assets/visuals/material-193-full-p292.jpg"
@@ -10075,6 +14992,48 @@ window.CARD_BANK = {
       ],
       "questionVisuals": [
         "assets/visuals/material-194-questions-p293.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-194-full-p293.jpg",
+            "top": 0.0,
+            "height": 0.17374,
+            "aspect": 6.900763
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-194-full-p293.jpg",
+            "top": 0.17374,
+            "height": 0.143236,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-194-full-p293.jpg",
+            "top": 0.316976,
+            "height": 0.143236,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-194-full-p293.jpg",
+            "top": 0.460212,
+            "height": 0.192308,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-194-full-p293.jpg",
+            "top": 0.65252,
+            "height": 0.301061,
+            "aspect": 3.982379
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-194-full-p292.jpg",
@@ -10128,6 +15087,60 @@ window.CARD_BANK = {
         "assets/visuals/material-195-questions-p293.jpg",
         "assets/visuals/material-195-questions-p294.jpg",
         "assets/visuals/material-195-questions-p295.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-195-full-p293.jpg",
+            "top": 0.614458,
+            "height": 0.385542,
+            "aspect": 4.708333
+          },
+          {
+            "src": "assets/visuals/material-195-full-p294.jpg",
+            "top": 0.0,
+            "height": 0.722045,
+            "aspect": 1.0
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-195-full-p294.jpg",
+            "top": 0.722045,
+            "height": 0.087061,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-195-full-p294.jpg",
+            "top": 0.809105,
+            "height": 0.115016,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-195-full-p294.jpg",
+            "top": 0.924121,
+            "height": 0.075879,
+            "aspect": 9.515789
+          },
+          {
+            "src": "assets/visuals/material-195-full-p295.jpg",
+            "top": 0.0,
+            "height": 0.298725,
+            "aspect": 5.512195
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-195-full-p295.jpg",
+            "top": 0.298725,
+            "height": 0.637523,
+            "aspect": 2.582857
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-195-full-p293.jpg",
@@ -10184,6 +15197,54 @@ window.CARD_BANK = {
         "assets/visuals/material-196-questions-p296.jpg",
         "assets/visuals/material-196-questions-p297.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-196-full-p295.jpg",
+            "top": 0.472262,
+            "height": 0.527738,
+            "aspect": 2.436658
+          },
+          {
+            "src": "assets/visuals/material-196-full-p296.jpg",
+            "top": 0.0,
+            "height": 0.657348,
+            "aspect": 1.09842
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-196-full-p296.jpg",
+            "top": 0.657348,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-196-full-p296.jpg",
+            "top": 0.74361,
+            "height": 0.087061,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-196-full-p296.jpg",
+            "top": 0.830671,
+            "height": 0.115016,
+            "aspect": 6.277778
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-196-full-p297.jpg",
+            "top": 0.0,
+            "height": 0.859438,
+            "aspect": 4.224299
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-196-full-p295.jpg",
         "assets/visuals/material-196-full-p296.jpg",
@@ -10236,6 +15297,48 @@ window.CARD_BANK = {
       ],
       "questionVisuals": [
         "assets/visuals/material-197-questions-p298.jpg"
+      ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-197-full-p298.jpg",
+            "top": 0.0,
+            "height": 0.169786,
+            "aspect": 7.11811
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-197-full-p298.jpg",
+            "top": 0.169786,
+            "height": 0.145722,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-197-full-p298.jpg",
+            "top": 0.315508,
+            "height": 0.188503,
+            "aspect": 6.411348
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-197-full-p298.jpg",
+            "top": 0.504011,
+            "height": 0.19385,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-197-full-p298.jpg",
+            "top": 0.697861,
+            "height": 0.255348,
+            "aspect": 4.732984
+          }
+        ]
       ],
       "fullVisuals": [
         "assets/visuals/material-197-full-p297.jpg",
@@ -10290,6 +15393,48 @@ window.CARD_BANK = {
         "assets/visuals/material-198-questions-p299.jpg",
         "assets/visuals/material-198-questions-p300.jpg"
       ],
+      "questionCrops": [
+        [
+          {
+            "src": "assets/visuals/material-198-full-p299.jpg",
+            "top": 0.416134,
+            "height": 0.087061,
+            "aspect": 8.293578
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-198-full-p299.jpg",
+            "top": 0.503195,
+            "height": 0.086262,
+            "aspect": 8.37037
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-198-full-p299.jpg",
+            "top": 0.589457,
+            "height": 0.084665,
+            "aspect": 8.528302
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-198-full-p299.jpg",
+            "top": 0.674121,
+            "height": 0.115815,
+            "aspect": 6.234483
+          }
+        ],
+        [
+          {
+            "src": "assets/visuals/material-198-full-p299.jpg",
+            "top": 0.789936,
+            "height": 0.210064,
+            "aspect": 3.437262
+          }
+        ]
+      ],
       "fullVisuals": [
         "assets/visuals/material-198-full-p298.jpg",
         "assets/visuals/material-198-full-p299.jpg",
@@ -10342,6 +15487,13 @@ window.CARD_BANK = {
         "assets/visuals/material-199-material-p301.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-199-full-p300.jpg",
         "assets/visuals/material-199-full-p301.jpg"
@@ -10392,6 +15544,13 @@ window.CARD_BANK = {
         "assets/visuals/material-200-material-p302.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-200-full-p301.jpg",
         "assets/visuals/material-200-full-p302.jpg"
@@ -10442,6 +15601,13 @@ window.CARD_BANK = {
         "assets/visuals/material-201-material-p303.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-201-full-p302.jpg",
         "assets/visuals/material-201-full-p303.jpg"
@@ -10492,6 +15658,13 @@ window.CARD_BANK = {
         "assets/visuals/material-202-material-p304.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-202-full-p303.jpg",
         "assets/visuals/material-202-full-p304.jpg"
@@ -10543,6 +15716,13 @@ window.CARD_BANK = {
         "assets/visuals/material-203-material-p306.jpg"
       ],
       "questionVisuals": [],
+      "questionCrops": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
       "fullVisuals": [
         "assets/visuals/material-203-full-p305.jpg",
         "assets/visuals/material-203-full-p306.jpg"

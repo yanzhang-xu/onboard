@@ -1,4 +1,4 @@
-const INSTALLED_BANK=window.QuestionBankAPI?.getInstalled(),BANK=INSTALLED_BANK?.manifest||window.PDF_BANK,CARDS=INSTALLED_BANK?.cards||window.CARD_BANK,KEY=`dataAnalysisQuiz.${BANK.version}`,state=JSON.parse(localStorage.getItem(KEY)||'{"days":{},"wrong":[]}'),$=s=>document.querySelector(s),letters='ABCD',dayKey=new Intl.DateTimeFormat('sv-SE',{timeZone:'Asia/Shanghai'}).format(new Date()),FIRST_DAY='2026-09-09';let mode='today',historyDate=null,calendarCursor=new Date(new Date().getFullYear(),new Date().getMonth(),1),reviewSelectionKey=null,reviewEntries=[];
+const INSTALLED_BANK=window.QuestionBankAPI?.getInstalled(),BANK=INSTALLED_BANK?.manifest||window.PDF_BANK,CARDS=INSTALLED_BANK?.cards||window.CARD_BANK,KEY=`dataAnalysisQuiz.${BANK.version}`,state=JSON.parse(localStorage.getItem(KEY)||'{"days":{},"wrong":[]}'),$=s=>document.querySelector(s),letters='ABCD',dayKey=new Intl.DateTimeFormat('sv-SE',{timeZone:'Asia/Shanghai'}).format(new Date()),FIRST_DAY='2026-09-09';let mode='today',historyDate=null,calendarCursor=new Date(new Date().getFullYear(),new Date().getMonth(),1);
 const FIXED_GROUP_ORDER=shuffle(BANK.groups.map(g=>g.id),`${BANK.version}:fixed-schedule-v1`);
 const DAILY_MOTTOS=['先估后算，速度翻倍','简算一步，领先一路','数字再多，也有捷径','把复杂拆小，把速度练快','先找关系，再动笔计算','巧算靠方法，提速靠积累','每天十题，稳步提速','看准基期，算得更快','少算一步，多赢一分','练的是简算，涨的是分数','先判断量级，再精确计算','今天的熟练，换考场的从容'];
 function dailyMotto(date){const random=rng(hash(`${date}:motto-v1`));return DAILY_MOTTOS[Math.floor(random()*DAILY_MOTTOS.length)]}
@@ -85,14 +85,19 @@ function cropGroupCard(g,n,d=null,review=false){
   c.className='material-card card';
   c.innerHTML=`<div class="material-head"><div><span class="q-no">${mistakeReview?'错题材料':'材料'} ${n}</span><strong>${g.title}</strong></div><span class="page-chip">${mistakeReview?wrongIndexes.size+' 道错题':'5 题'}</span></div><div class="material-content"><div class="visual-stack crop-stack"></div></div><div class="answer-sheet"><h3>${mistakeReview?'错题答案':'答题卡'} <small>${review?'红色是你的答案，绿色是正确答案':'按图片中题目顺序填写'}</small></h3><div class="answer-grid"></div></div><div class="material-actions"><span class="group-result"></span>${review?'':'<button class="primary submit-group">提交本组</button>'}</div>`;
   const stack=c.querySelector('.crop-stack');
-  card.fullVisuals.forEach((src,i)=>{const img=document.createElement('img');img.src=src;img.loading=i?'lazy':'eager';img.alt=`${g.title} 原题裁剪 ${i+1}`;stack.appendChild(img)});
+  const materialSources=mistakeReview&&card.visuals?.length?card.visuals:card.fullVisuals;
+  materialSources.forEach((src,i)=>{const img=document.createElement('img');img.src=src;img.loading=i?'lazy':'eager';img.alt=`${g.title} ${mistakeReview?'材料与图表':'原题裁剪'} ${i+1}`;stack.appendChild(img)});
   const grid=c.querySelector('.answer-grid');
   for(let i=0;i<5;i++){
     const row=document.createElement('div');row.className='answer-row';row.innerHTML=`<b>本组第 ${i+1} 题</b><div></div>`;
-    if(mistakeReview&&!wrongIndexes.has(i)){row.hidden=true}else if(mistakeReview){const key=`${g.id}:${i}`;row.classList.add('wrong-review-row');row.dataset.reviewKey=key;if(key===reviewSelectionKey)row.classList.add('active-review')}
+    if(mistakeReview&&!wrongIndexes.has(i)){row.hidden=true}else if(mistakeReview){row.classList.add('wrong-review-row')}
     for(const l of letters){const b=document.createElement('button');b.textContent=l;b.className='answer-choice';if(chosen[i]===l)b.classList.add('selected');if(submitted&&g.answers[i]===l)b.classList.add('correct');if(submitted&&chosen[i]===l&&chosen[i]!==g.answers[i])b.classList.add('wrong');b.disabled=submitted||review;b.onclick=()=>{const a=d.answers[g.id]||Array(5).fill('');a[i]=l;d.answers[g.id]=a;save();render()};row.querySelector('div').appendChild(b)}
-    if(mistakeReview&&wrongIndexes.has(i)){const open=document.createElement('button'),key=`${g.id}:${i}`;open.type='button';open.className='review-open';open.textContent=key===reviewSelectionKey?'正在编辑':'写解析';open.onclick=()=>activateReviewQuestion(key);row.appendChild(open)}
     grid.appendChild(row);
+  }
+  if(mistakeReview){
+    const panel=document.createElement('section');panel.className='material-review-notes';panel.innerHTML=`<div class="material-review-head"><div><span>本材料错题解析</span><strong>${wrongIndexes.size} 道</strong></div><small>输入内容自动保存</small></div>`;
+    [...wrongIndexes].sort((a,b)=>a-b).forEach(i=>{const key=`${g.id}:${i}`,questionNo=card.questions?.[i]?.label||i+1,item=document.createElement('div'),head=document.createElement('div'),label=document.createElement('label'),status=document.createElement('span'),note=document.createElement('textarea'),noteId=`note-${g.id}-${i}`;item.className='material-note-item';head.className='material-note-title';label.htmlFor=noteId;label.textContent=`第 ${questionNo} 题`;status.textContent='自动保存';item.appendChild(head);head.append(label,status);const crops=card.questionCrops?.[i]||[];if(crops.length){const cropStack=document.createElement('div');cropStack.className='wrong-question-crops';crops.forEach((crop,cropIndex)=>{const frame=document.createElement('div'),img=document.createElement('img');frame.className='question-crop-frame';frame.style.aspectRatio=String(crop.aspect);img.src=crop.src;img.loading='lazy';img.alt=`${g.title} 第 ${questionNo} 题原题裁剪 ${cropIndex+1}`;img.style.top=`-${crop.top/crop.height*100}%`;frame.appendChild(img);cropStack.appendChild(frame)});item.appendChild(cropStack)}note.id=noteId;note.maxLength=5000;note.rows=4;note.placeholder=`写下第 ${questionNo} 题的错误原因、关键公式、简算方法或注意事项…`;note.value=state.notes[key]||'';note.oninput=()=>{state.notes[key]=note.value;save();status.textContent='已保存';clearTimeout(note.savedTimer);note.savedTimer=setTimeout(()=>status.textContent='自动保存',1200)};item.appendChild(note);panel.appendChild(item)});
+    c.querySelector('.answer-sheet').after(panel);
   }
   const score=chosen.filter((a,i)=>a===g.answers[i]).length;
   if(submitted)c.querySelector('.group-result').textContent=`本组 ${score} / 5`;
@@ -103,18 +108,12 @@ function cropGroupCard(g,n,d=null,review=false){
 
 function wrongDate(groupId){return Object.entries(state.days).filter(([,day])=>day.groupIds?.includes(groupId)).sort(([a],[b])=>b.localeCompare(a))[0]?.[0]||'未标记日期'}
 function buildReviewEntries(){return state.wrong.map(item=>{const group=getGroup(item.groupId),date=wrongDate(item.groupId),chosen=state.days[date]?.answers?.[item.groupId]?.[item.index]||'';return{...item,key:`${item.groupId}:${item.index}`,date,group,chosen,correct:group?.answers?.[item.index]||''}}).filter(item=>item.group).sort((a,b)=>b.date.localeCompare(a.date)||a.group.id.localeCompare(b.group.id)||a.index-b.index)}
-function updateReviewEditor(){const entry=reviewEntries.find(item=>item.key===reviewSelectionKey),title=$('#reviewEditorTitle'),meta=$('#reviewEditorMeta'),note=$('#reviewEditorText'),status=$('#reviewEditorStatus');if(!entry||!title||!meta||!note)return;title.textContent=`${entry.date} · ${entry.group.title} · 第 ${entry.index+1} 题`;meta.textContent=`你的答案 ${entry.chosen||'—'} · 正确答案 ${entry.correct}`;note.value=state.notes[entry.key]||'';status.textContent='自动保存';document.querySelectorAll('[data-review-key]').forEach(row=>{const active=row.dataset.reviewKey===entry.key;row.classList.toggle('active-review',active);const button=row.querySelector('.review-open');if(button)button.textContent=active?'正在编辑':'写解析'})}
-function activateReviewQuestion(key){reviewSelectionKey=key;updateReviewEditor();$('#reviewEditor')?.scrollIntoView({behavior:'smooth',block:'start'});setTimeout(()=>$('#reviewEditorText')?.focus({preventScroll:true}),350)}
 function renderReview(list){
-  reviewEntries=buildReviewEntries();
+  const reviewEntries=buildReviewEntries();
   $('#pageTitle').textContent='错题复盘';$('#dateText').textContent=`共 ${reviewEntries.length} 道错题，按日期回看原题并记录解析`;$('#progressText').textContent=`${reviewEntries.length} 道`;$('#progressBar').style.width='100%';
   if(!reviewEntries.length){list.innerHTML='<article class="empty card"><h2>错题本还是空的</h2><p>提交答题卡后，做错的题会自动收录。</p></article>';return}
-  if(!reviewEntries.some(item=>item.key===reviewSelectionKey))reviewSelectionKey=reviewEntries[0].key;
-  const editor=document.createElement('article');editor.id='reviewEditor';editor.className='review-editor card';editor.innerHTML='<div class="review-editor-head"><div><span>错题解析</span><h3 id="reviewEditorTitle"></h3><p id="reviewEditorMeta"></p></div><small id="reviewEditorStatus">自动保存</small></div><textarea id="reviewEditorText" maxlength="5000" rows="5" placeholder="记录错误原因、关键公式、简算方法，或下次需要注意的地方…"></textarea>';
-  const note=editor.querySelector('textarea'),status=editor.querySelector('#reviewEditorStatus');note.oninput=()=>{state.notes[reviewSelectionKey]=note.value;save();status.textContent='已保存';clearTimeout(note.savedTimer);note.savedTimer=setTimeout(()=>status.textContent='自动保存',1200)};list.appendChild(editor);
   const dates=[...new Set(reviewEntries.map(item=>item.date))];
   dates.forEach(date=>{const dayEntries=reviewEntries.filter(item=>item.date===date),heading=document.createElement('div');heading.className='review-date-divider';heading.innerHTML=`<strong>${date}</strong><span>${dayEntries.length} 道错题</span>`;list.appendChild(heading);const ids=[...new Set(dayEntries.map(item=>item.groupId))];ids.forEach((id,i)=>list.appendChild(cropGroupCard(getGroup(id),i+1,null,true)))});
-  updateReviewEditor();
 }
 
 const renderDefault=render;
