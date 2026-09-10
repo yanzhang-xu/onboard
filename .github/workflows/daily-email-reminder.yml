@@ -1,0 +1,25 @@
+name: 每日刷题邮件提醒
+
+on:
+  schedule:
+    # GitHub Actions 使用 UTC；11:30 UTC = 北京时间 19:30。
+    - cron: "30 11 * * *"
+  workflow_dispatch:
+
+jobs:
+  send-reminder:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Send QQ email reminder
+        env:
+          QQ_EMAIL: ${{ secrets.QQ_EMAIL }}
+          QQ_EMAIL_AUTH_CODE: ${{ secrets.QQ_EMAIL_AUTH_CODE }}
+        run: python scripts/send_email_reminder.py
