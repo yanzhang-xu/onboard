@@ -1175,27 +1175,27 @@ window.CARD_BANK = {
         {
           "label": 1,
           "text": "请参照原题裁剪作答。",
-          "answer": "A"
+          "answer": "D"
         },
         {
           "label": 2,
           "text": "请参照原题裁剪作答。",
-          "answer": "A"
+          "answer": "D"
         },
         {
           "label": 3,
           "text": "请参照原题裁剪作答。",
-          "answer": "D"
+          "answer": "C"
         },
         {
           "label": 4,
           "text": "请参照原题裁剪作答。",
-          "answer": "C"
+          "answer": "B"
         },
         {
           "label": 5,
           "text": "请参照原题裁剪作答。",
-          "answer": "B"
+          "answer": "D"
         }
       ],
       "originalPages": [
@@ -1232,27 +1232,27 @@ window.CARD_BANK = {
         {
           "label": 1,
           "text": "请参照原题裁剪作答。",
-          "answer": "D"
+          "answer": "A"
         },
         {
           "label": 2,
           "text": "请参照原题裁剪作答。",
-          "answer": "D"
+          "answer": "A"
         },
         {
           "label": 3,
           "text": "请参照原题裁剪作答。",
-          "answer": "C"
+          "answer": "D"
         },
         {
           "label": 4,
           "text": "请参照原题裁剪作答。",
-          "answer": "B"
+          "answer": "C"
         },
         {
           "label": 5,
           "text": "请参照原题裁剪作答。",
-          "answer": "D"
+          "answer": "B"
         }
       ],
       "originalPages": [
@@ -2462,7 +2462,7 @@ window.CARD_BANK = {
         {
           "label": 11,
           "text": "20 巧年 1 一 11 月， 北京全市文化创意产业收人在以下哪个范围内？ A. 低于 1 万亿元 B. 在 1 ～ 1.1 万亿元之间 c. 在 1.1 ～ 1.2 万亿元之间 D. 高于 1.2 万亿元",
-          "answer": "A"
+          "answer": "B"
         },
         {
           "label": 12,
@@ -2477,12 +2477,12 @@ window.CARD_BANK = {
         {
           "label": 14,
           "text": "20 巧年 1 一 11 月， 规模以上互联网信息服务行业月均同比约增收多少亿元？ A. 13 B. 14 C. 20 D. 30",
-          "answer": "D"
+          "answer": "B"
         },
         {
           "label": 15,
           "text": "关于 2015 年 1 一 11 月北京市文化创意产业收人， 能够从上述资料中推出的是： A. 20 个文化创意产业功能区之外的文化创意产业收人增速为 5.1％ B. 北京老字号品牌文化推广功能区、 主题公园功能区总收人为 300 多亿元 C. 上年同期文化科技融合示范功能区收人占 20 个功能区比重低于 53.7％ D. 其他互联网服务行业同比收人增量多于数字内容服务行业",
-          "answer": "B"
+          "answer": "C"
         }
       ],
       "originalPages": [
@@ -2521,7 +2521,7 @@ window.CARD_BANK = {
         {
           "label": 1,
           "text": "请参照原题裁剪作答。",
-          "answer": "B"
+          "answer": "A"
         },
         {
           "label": 2,
@@ -2536,12 +2536,12 @@ window.CARD_BANK = {
         {
           "label": 4,
           "text": "请参照原题裁剪作答。",
-          "answer": "B"
+          "answer": "D"
         },
         {
           "label": 5,
           "text": "请参照原题裁剪作答。",
-          "answer": "C"
+          "answer": "B"
         }
       ],
       "originalPages": [
@@ -8179,12 +8179,12 @@ window.CARD_BANK = {
         {
           "label": 13,
           "text": "2017 B. 2018 A. 2017 C. 2019 D、 2020",
-          "answer": "C"
+          "answer": "D"
         },
         {
           "label": 14,
           "text": "与 2019 年相比， 2020 年城镇居民与农村居民的可支配收人差额： B. 下降了 450.9 元 A、 上升了 450.9 元 D 下降了 61 旧元 C. 上升了 610.1 元",
-          "answer": "D"
+          "answer": "A"
         },
         {
           "label": 15,
@@ -8237,12 +8237,12 @@ window.CARD_BANK = {
         {
           "label": 3,
           "text": "请参照原题裁剪作答。",
-          "answer": "D"
+          "answer": "C"
         },
         {
           "label": 4,
           "text": "请参照原题裁剪作答。",
-          "answer": "A"
+          "answer": "D"
         },
         {
           "label": 5,
@@ -8284,27 +8284,27 @@ window.CARD_BANK = {
         {
           "label": 1,
           "text": "请参照原题裁剪作答。",
-          "answer": "D"
+          "answer": "A"
         },
         {
           "label": 2,
           "text": "请参照原题裁剪作答。",
-          "answer": "A"
+          "answer": "C"
         },
         {
           "label": 3,
           "text": "请参照原题裁剪作答。",
-          "answer": "B"
+          "answer": "D"
         },
         {
           "label": 4,
           "text": "请参照原题裁剪作答。",
-          "answer": "C"
+          "answer": "A"
         },
         {
           "label": 5,
           "text": "请参照原题裁剪作答。",
-          "answer": "A"
+          "answer": "D"
         }
       ],
       "originalPages": [
@@ -8353,27 +8353,27 @@ window.CARD_BANK = {
         {
           "label": 6,
           "text": "佣 0 0 5 開 0 一 2L0 一 16.4.一 20 4 開 0 一 35.9 2774 2690 2605 2548 2466 2707 2309 3 開 0 2000 1000 一 100 0 年 2017 2018 2m9 2016 2014 2015 2013 卫星制造业收入增速 （％） 匚 = ] 全球卫星产业收入 （亿美元） - - 卫星发射服务业收入增速 （％） 2013 一 2019 年全球卫星产业收入及卫星制造业和发射服务业收入增速 6.2019 年全球卫星制造业收人占卫星产业收人的比重为： B. 2， 8％ A. 1.9% D. 4.6％ C. 3 巧％",
-          "answer": "A"
+          "answer": "D"
         },
         {
           "label": 7,
           "text": "2014 一 2019 年全球卫星产业收人增长最快的年份是： B. 20 巧年 A. 2014 年 D. 2018 年 C. 2017 年",
-          "answer": "C"
+          "answer": "A"
         },
         {
           "label": 8,
           "text": "以 2012 年为基期， 20 四年全球卫星制造业、 卫星发射服务业的收人增长情况分别是： B 负增长、 负增长 A. 负增长、 正增长 D. 正增长、 正增长 C. 正增长、 负增长",
-          "answer": "D"
+          "answer": "B"
         },
         {
           "label": 9,
           "text": "2014 一 20 四年全球卫星产业收人增速大于卫星发射服务业的年份数有： B. 3 个 A. 2 个 D 巧个 c. 4 个",
-          "answer": "A"
+          "answer": "C"
         },
         {
           "label": 10,
           "text": "关于 2019 年全球卫星产业， 能够从上述资料中推出的是： A. 卫星产业收人增速为一 2.4％ B. 卫星发射服务业收人比 2017 年提高 13.8 个百分点 C. 卫星产业收人占全球太空经济的比重同比上升 3.0 个百分点 D. 卫星通信服务业收人的同比增加额与地面设备制造业相差 16 亿美元",
-          "answer": "D"
+          "answer": "A"
         }
       ],
       "originalPages": [
@@ -9332,7 +9332,7 @@ window.CARD_BANK = {
         {
           "label": 2,
           "text": "2020： 年 1 一 2 月， 全国月均进口天然气约多少万吨？ A 886 B. ] 040 C. 1561 D、 1771",
-          "answer": "C"
+          "answer": "A"
         },
         {
           "label": 3,
@@ -9347,7 +9347,7 @@ window.CARD_BANK = {
         {
           "label": 5,
           "text": "不能从上述资料中推出的是： A. 2020 年四季度， 全国天然气产量比三季度增长了 10％ 以上 B 2019 年 1 一 2 月， 全国天然气日均产量超过 5 亿立方米 C 2021 年 1 一 2 月， 全国天然气进口金额同比增长额超过 200 百万美元 D. 2020： 年一、 四季度， 全国天然气日均产量同比增速低于上月的月份超过一半",
-          "answer": "A"
+          "answer": "B"
         }
       ],
       "originalPages": [
@@ -9403,7 +9403,7 @@ window.CARD_BANK = {
         {
           "label": 7,
           "text": "2023 年， 跨境电商进出口贸易中， 我国与美国的进出口总额占比在以下那个范围？ B. 25％ ～ 30％ A. 20％ ～ 25％ D、 35％ ～ 40％ C. 30％ ～ 35％",
-          "answer": "A"
+          "answer": "C"
         },
         {
           "label": 8,
@@ -9418,7 +9418,7 @@ window.CARD_BANK = {
         {
           "label": 10,
           "text": "根据以上资料， 不能推出的是： A. 2019 一一 2023 年， 我国跨境电商进口额同比增速逐年下降 B. 2018 一一 2023 年， 我国跨境电商出口与进口额的差距逐年扩大 C. 2018 一 2023 年间， 我国跨境电商出口额年均增长超过 2400 亿元 D. 2022 年， 我国跨境电商进出口贸易在货物贸易进出口总值中占比低于 5％",
-          "answer": "B"
+          "answer": "A"
         }
       ],
       "originalPages": [
@@ -10759,12 +10759,12 @@ window.CARD_BANK = {
         {
           "label": 3,
           "text": "请参照原题裁剪作答。",
-          "answer": "C"
+          "answer": "A"
         },
         {
           "label": 4,
           "text": "请参照原题裁剪作答。",
-          "answer": "D"
+          "answer": "C"
         },
         {
           "label": 5,
@@ -10817,12 +10817,12 @@ window.CARD_BANK = {
         {
           "label": 3,
           "text": "请参照原题裁剪作答。",
-          "answer": "A"
+          "answer": "C"
         },
         {
           "label": 4,
           "text": "请参照原题裁剪作答。",
-          "answer": "C"
+          "answer": "D"
         },
         {
           "label": 5,
