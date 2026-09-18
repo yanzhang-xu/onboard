@@ -545,22 +545,22 @@ window.CARD_BANK = {
         {
           "label": 1,
           "text": "请参照原题裁剪作答。",
-          "answer": "A"
+          "answer": "B"
         },
         {
           "label": 2,
           "text": "请参照原题裁剪作答。",
-          "answer": "A"
+          "answer": "D"
         },
         {
           "label": 3,
           "text": "请参照原题裁剪作答。",
-          "answer": "C"
+          "answer": "B"
         },
         {
           "label": 4,
           "text": "请参照原题裁剪作答。",
-          "answer": "B"
+          "answer": "D"
         },
         {
           "label": 5,
@@ -615,17 +615,17 @@ window.CARD_BANK = {
         {
           "label": 6,
           "text": "2020 年前三季度， 文化新业态特征较为明显的 16 个行业小类营业收人约占 6.4 万家规模以上文化及相关产业营业收人的： A. 32％ B. 40％ C. 45％ D 49％",
-          "answer": "B"
+          "answer": "A"
         },
         {
           "label": 7,
           "text": "2021 年前三季度， 分行业类别中， 同比增速最高行业营业收人是同比增速最低行业营业收人的： A. 2 倍多 B. 3 倍多 C. 20 多倍 D. 30 多， 倍",
-          "answer": "D"
+          "answer": "A"
         },
         {
           "label": 8,
           "text": "与上一年相比， 2021 年前三季度分行业类别中， 占全国 6、 4 万家规模以上文化及相关产业企业营业总收人比重增加的行业个数是 A 3 个 C 巧个",
-          "answer": "B"
+          "answer": "C"
         },
         {
           "label": 9,
