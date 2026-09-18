@@ -1,6 +1,6 @@
 window.PDF_BANK = {
   "version": "2026-data-analysis-upper-v1",
-  "answerRevision": 2,
+  "answerRevision": 3,
   "source": "26最新版 资料分析上.pdf",
   "totalGroups": 204,
   "totalQuestions": 1020,
@@ -136,9 +136,9 @@ window.PDF_BANK = {
       "startPage": 21,
       "endPage": 22,
       "answers": [
-        "A",
-        "A",
-        "C",
+        "B",
+        "D",
+        "B",
         "B",
         "D"
       ]
@@ -151,9 +151,9 @@ window.PDF_BANK = {
       "startPage": 22,
       "endPage": 24,
       "answers": [
-        "B",
-        "D",
-        "B",
+        "A",
+        "A",
+        "C",
         "B",
         "D"
       ]
@@ -286,11 +286,11 @@ window.PDF_BANK = {
       "startPage": 35,
       "endPage": 36,
       "answers": [
-        "A",
-        "A",
+        "D",
         "D",
         "C",
-        "B"
+        "B",
+        "D"
       ]
     },
     {
@@ -301,11 +301,11 @@ window.PDF_BANK = {
       "startPage": 36,
       "endPage": 37,
       "answers": [
-        "D",
+        "A",
+        "A",
         "D",
         "C",
-        "B",
-        "D"
+        "B"
       ]
     },
     {
@@ -586,11 +586,11 @@ window.PDF_BANK = {
       "startPage": 59,
       "endPage": 60,
       "answers": [
-        "A",
+        "B",
         "C",
         "D",
-        "D",
-        "B"
+        "B",
+        "C"
       ]
     },
     {
@@ -601,11 +601,11 @@ window.PDF_BANK = {
       "startPage": 60,
       "endPage": 62,
       "answers": [
-        "B",
+        "A",
         "C",
         "D",
-        "B",
-        "C"
+        "D",
+        "B"
       ]
     },
     {
@@ -1908,8 +1908,8 @@ window.PDF_BANK = {
       "answers": [
         "B",
         "A",
-        "C",
         "D",
+        "A",
         "D"
       ]
     },
@@ -1923,8 +1923,8 @@ window.PDF_BANK = {
       "answers": [
         "B",
         "A",
+        "C",
         "D",
-        "A",
         "D"
       ]
     },
@@ -1936,11 +1936,11 @@ window.PDF_BANK = {
       "startPage": 191,
       "endPage": 192,
       "answers": [
+        "A",
+        "C",
         "D",
         "A",
-        "B",
-        "C",
-        "A"
+        "D"
       ]
     },
     {
@@ -1951,11 +1951,11 @@ window.PDF_BANK = {
       "startPage": 192,
       "endPage": 193,
       "answers": [
-        "A",
-        "C",
         "D",
         "A",
-        "D"
+        "B",
+        "C",
+        "A"
       ]
     },
     {
@@ -2177,10 +2177,10 @@ window.PDF_BANK = {
       "endPage": 216,
       "answers": [
         "C",
-        "C",
+        "A",
         "B",
         "D",
-        "A"
+        "B"
       ]
     },
     {
@@ -2192,10 +2192,10 @@ window.PDF_BANK = {
       "endPage": 217,
       "answers": [
         "C",
-        "A",
+        "C",
         "B",
         "D",
-        "B"
+        "A"
       ]
     },
     {
@@ -2508,8 +2508,8 @@ window.PDF_BANK = {
       "answers": [
         "B",
         "B",
+        "A",
         "C",
-        "D",
         "D"
       ]
     },
@@ -2523,8 +2523,8 @@ window.PDF_BANK = {
       "answers": [
         "B",
         "B",
-        "A",
         "C",
+        "D",
         "D"
       ]
     },
