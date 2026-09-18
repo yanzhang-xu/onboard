@@ -560,7 +560,7 @@ window.CARD_BANK = {
         {
           "label": 4,
           "text": "请参照原题裁剪作答。",
-          "answer": "D"
+          "answer": "B"
         },
         {
           "label": 5,
